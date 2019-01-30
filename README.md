@@ -40,6 +40,8 @@ Hypertext Markup Language (HTML) is the standard markup language for creating we
 
 ### :bulb: Quick Takeaway
 
+HTML is really the foundation of web development. Even in the javascript-based frameworks, you end up writing HTML in one form or another.
+
 ### :star: Learning Areas and Ideas
 
 ## CSS
@@ -50,6 +52,8 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 ### :bulb: Quick Takeaway
 
+CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
+
 ### :star: Learning Areas and Ideas
 
 ## JavaScript Basics
@@ -59,6 +63,8 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
 ### :bulb: Quick Takeaway
+
+JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
 
 ### :star: Learning Areas and Ideas
 
