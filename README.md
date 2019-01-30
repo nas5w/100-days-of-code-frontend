@@ -1,4 +1,4 @@
-# 100-days-of-code-frontend
+# Front-End Development Curriculum for #100DaysOfCode
 Curriculum for learning front-end development during #100DaysOfCode.
 
 # Curriculum
@@ -23,5 +23,43 @@ Curriculum for learning front-end development during #100DaysOfCode.
 * Days 98-100: NextJS*
 
 # The Details
+
+Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each.
+
+## HTML
+
+## CSS
+
+## JavaScript Basics
+
+## jQuery
+
+## Responsive Web Design
+
+## Git
+
+## Node and NPM
+
+## Sass
+
+## Bootstrap
+
+## BEM
+
+## Gulp
+
+## Webpack
+
+## ESLint
+
+## React*
+
+## Redux*
+
+## Jest*
+
+## TypeScript
+
+## NextJS*
 
 # Contibuting
