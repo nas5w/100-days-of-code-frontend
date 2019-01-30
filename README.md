@@ -65,3 +65,15 @@ Below you can find a little information about each topic in the curriculum as we
 ## NextJS*
 
 # Contibuting
+
+This is a work in progress and I very much appreciate any help in maintaining this knowledge base! 
+
+When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+
+Please note we have a code of conduct, please follow it in all your interactions with the project.
+
+## Pull Request Process
+
+1. Create an issue outlining the proposed pull request.
+2. Obtain approval from a project owner to make the proposed change.
+3. Create the pull request.
