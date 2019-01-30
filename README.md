@@ -4,6 +4,8 @@ This is a somewhat opinionated curriculum for learning front-end development dur
 
 This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) roadmap. Please check it out--it is excellent.
 
+**Note**: I know front-end development means a lot of different things to a lot of people! If you're a front-end developer and you think this guide could be improved, please let me know by raising an issue as described in the [Contributing](#contibuting) section. Thank you!
+
 # :calendar: Curriculum
 
 * Days 1-8: HTML
