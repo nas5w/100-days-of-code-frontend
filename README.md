@@ -6,6 +6,9 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 # Curriculum
 
 * Days 1-8: HTML
+
+**Quick Introduction**: Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
+
 * Days 9-16: CSS
 * Days 17-27: JavaScript Basics
 * Days 28-30: jQuery
