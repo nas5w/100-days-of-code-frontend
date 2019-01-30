@@ -88,11 +88,13 @@ Responsive web design is all about making web applications look and function pro
 
 ## Accessibility
 
-## Responsive Web Design
-
 ### :book: Definition
 
+Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+
 ### :bulb: Quick Takeaway
+
+Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
 
 ### :star: Learning Areas and Ideas
 
