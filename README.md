@@ -6,11 +6,9 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 
 # Curriculum
 
-:calendar: Days 1-8: HTML
-
-:calendar: Days 9-16: CSS
-
-:calendar: Days 17-27: JavaScript Basics
+* :calendar: Days 1-8: HTML
+* :calendar: Days 9-16: CSS
+* :calendar: Days 17-27: JavaScript Basics
 
 :calendar: Days 28-30: jQuery
 :calendar: Days 31-36: Responsive Web Design
