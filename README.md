@@ -1,14 +1,12 @@
 # Front-End Development Curriculum for #100DaysOfCode
-Curriculum for learning front-end development during #100DaysOfCode.
+
+This is a somewhat opinionated curriculum for learning front-end development during #100DaysOfCode. As it covers a wide range of front-end develpoment topics, it can be thought of as more of a "survey" style course rather than a deep dive into any one area. Ideally, your takeaway from completing this curriculum will be some familiarity with each topic and the ability to easily dive deeper in any area in the future when necessary.
 
 This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) roadmap. Please check it out--it is an excellent.
 
 # Curriculum
 
 * Days 1-8: HTML
-
-**Quick Introduction**: Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
-
 * Days 9-16: CSS
 * Days 17-27: JavaScript Basics
 * Days 28-30: jQuery
@@ -32,6 +30,8 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each.
 
 ## HTML
+
+**Quick Introduction**: Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
 ## CSS
 
