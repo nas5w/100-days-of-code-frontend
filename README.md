@@ -1,6 +1,8 @@
 # Front-End Development Curriculum for #100DaysOfCode
 Curriculum for learning front-end development during #100DaysOfCode.
 
+This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) roadmap. Please check it out--it is an excellent.
+
 # Curriculum
 
 * Days 1-8: HTML
