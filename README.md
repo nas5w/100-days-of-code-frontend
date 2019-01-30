@@ -26,7 +26,7 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 * Days 96-98: TypeScript
 * Days 99-101: NextJS*
 
-# The Details
+# :mag_right: The Details
 
 Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each.
 
