@@ -8,23 +8,23 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 
 * Days 1-8: HTML
 * Days 9-16: CSS
-* Days 17-25: JavaScript Basics
-* Days 26-28: jQuery
-* Days 29-34: Responsive Web Design
-* Days 35-37: Accessibility
-* Days 38-40: Git
-* Days 41-45: Node and NPM
-* Days 46-51: Sass
-* Days 52-55: Bootstrap
-* Day 56: BEM
-* Days 58-62: Gulp
-* Days 63-66: Webpack
-* Day 67: ESLint
-* Days 69-84: React*
-* Days 85-90: Redux*
-* Days 91-95: Jest*
-* Days 96-98: TypeScript
-* Days 99-101: NextJS*
+* Days 17-24: JavaScript Basics
+* Days 25-27: jQuery
+* Days 28-33: Responsive Web Design
+* Days 34-36: Accessibility
+* Days 37-39: Git
+* Days 40-44: Node and NPM
+* Days 45-50: Sass
+* Days 51-54: Bootstrap
+* Day 55: BEM
+* Days 57-61: Gulp
+* Days 62-65: Webpack
+* Day 66: ESLint
+* Days 68-83: React*
+* Days 84-89: Redux*
+* Days 90-94: Jest*
+* Days 95-97: TypeScript
+* Days 98-100: NextJS*
 
 # :mag_right: The Details
 
