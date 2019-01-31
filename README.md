@@ -34,19 +34,15 @@ Below you can find a little information about each topic in the curriculum as we
 
 ## HTML
 
-### :book: Definition
-
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
 ### :bulb: Quick Takeaway
 
 HTML is really the foundation of web development. Even in the javascript-based frameworks, you end up writing HTML in one form or another.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## CSS
-
-### :book: Definition
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
@@ -58,8 +54,6 @@ CSS is another essential component of web development. While it is mainly used t
 
 ## JavaScript Basics
 
-### :book: Definition
-
 JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
 ### :bulb: Quick Takeaway
@@ -69,8 +63,6 @@ JavaScript has become increasingly important in the front-end world. While it wa
 ### :star: Learning Areas and Ideas
 
 ## jQuery
-
-### :book: Definition
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
 
@@ -82,8 +74,6 @@ After you have spent some time with plain (also called "vanilla") javascript, yo
 
 ## Responsive Web Design
 
-### :book: Definition
-
 Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
 ### :bulb: Quick Takeaway
@@ -93,8 +83,6 @@ Responsive web design is all about making web applications look and function pro
 ### :star: Learning Areas and Ideas
 
 ## Accessibility
-
-### :book: Definition
 
 Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
@@ -106,8 +94,6 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 
 ## Git
 
-### :book: Definition
-
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
 
 ### :bulb: Quick Takeaway
@@ -118,8 +104,6 @@ Version/code control is an essential part of any web developer's toolkit. There 
 
 ## Node and NPM
 
-### :book: Definition
-
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
 ### :bulb: Quick Takeaway
@@ -129,8 +113,6 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 ### :star: Learning Areas and Ideas
 
 ## Sass
-
-### :book: Definition
 
 Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
@@ -144,8 +126,6 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 
 \* Some alternatives: Foundation, Bulma, Materialize
 
-### :book: Definition
-
 Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)))
 
 ### :bulb: Quick Takeaway
@@ -155,8 +135,6 @@ There are many options for laying out, styling, and making your web application 
 ### :star: Learning Areas and Ideas
 
 ## BEM
-
-### :book: Definition
 
 The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
 
@@ -168,8 +146,6 @@ It's important to know naming and organization systems like BEM exist and why th
 
 ## Gulp
 
-### :book: Definition
-
 Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
 
 ### :bulb: Quick Takeaway
@@ -180,8 +156,6 @@ In modern front-end development, you'll often find yourself needing to automate 
 
 ## Webpack
 
-### :book: Definition
-
 At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
 
 ### :bulb: Quick Takeaway
@@ -191,8 +165,6 @@ Imagine that you have a large web development project with a number of different
 ### :star: Learning Areas and Ideas
 
 ## ESLint
-
-### :book: Definition
 
 ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
 
@@ -206,15 +178,11 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 
 React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library)))
 
-### :book: Definition
-
 ### :bulb: Quick Takeaway
 
 ### :star: Learning Areas and Ideas
 
 ## Redux*
-
-### :book: Definition
 
 ### :bulb: Quick Takeaway
 
@@ -222,23 +190,17 @@ React (also known as React.js or ReactJS) is a JavaScript library for building u
 
 ## Jest*
 
-### :book: Definition
-
 ### :bulb: Quick Takeaway
 
 ### :star: Learning Areas and Ideas
 
 ## TypeScript
 
-### :book: Definition
-
 ### :bulb: Quick Takeaway
 
 ### :star: Learning Areas and Ideas
 
 ## NextJS*
-
-### :book: Definition
 
 ### :bulb: Quick Takeaway
 
