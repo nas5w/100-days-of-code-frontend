@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="#100DaysOfCode Front-End Development" src="https://i.imgur.com/AYAUUWZ.jpg" />
+</p>
+
 # Front-End Development Curriculum for #100DaysOfCode
 
 This is a somewhat opinionated curriculum for learning front-end development during #100DaysOfCode. As it covers a wide range of front-end develpoment topics, it can be thought of as more of a "survey" style course rather than a deep dive into any one area. Ideally, your takeaway from completing this curriculum will be some familiarity with each topic and the ability to easily dive deeper in any area in the future when necessary.
@@ -8,25 +12,25 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 
 # :calendar: Curriculum
 
-* Days 1-8: HTML
-* Days 9-16: CSS
-* Days 17-24: JavaScript Basics
-* Days 25-27: jQuery
-* Days 28-33: Responsive Web Design
-* Days 34-36: Accessibility
-* Days 37-39: Git
-* Days 40-44: Node and NPM
-* Days 45-50: Sass
-* Days 51-54: Bootstrap*
-* Day 55: BEM
-* Days 57-61: Gulp
-* Days 62-65: Webpack
-* Day 66: ESLint
-* Days 68-83: React*
-* Days 84-89: Redux*
-* Days 90-94: Jest*
-* Days 95-97: TypeScript
-* Days 98-100: NextJS*
+- Days 1-8: HTML
+- Days 9-16: CSS
+- Days 17-24: JavaScript Basics
+- Days 25-27: jQuery
+- Days 28-33: Responsive Web Design
+- Days 34-36: Accessibility
+- Days 37-39: Git
+- Days 40-44: Node and NPM
+- Days 45-50: Sass
+- Days 51-54: Bootstrap
+- Day 55: BEM
+- Days 57-61: Gulp
+- Days 62-65: Webpack
+- Day 66: ESLint
+- Days 68-83: React
+- Days 84-89: Redux
+- Days 90-94: Jest
+- Days 95-97: TypeScript
+- Days 98-100: NextJS
 
 # :mag_right: The Details
 
@@ -108,7 +112,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment that e
 
 ### :bulb: Quick Takeaway
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!). 
+While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
 
 ### :book: Learning Areas and Ideas
 
@@ -122,11 +126,11 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 
 ### :book: Learning Areas and Ideas
 
-## Bootstrap*
+## Bootstrap
 
 \* Some alternatives: Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)))
+Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
 
 ### :bulb: Quick Takeaway
 
@@ -160,7 +164,7 @@ At its core, webpack is a static module bundler for modern JavaScript applicatio
 
 ### :bulb: Quick Takeaway
 
-Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment. 
+Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
 
 ### :book: Learning Areas and Ideas
 
@@ -174,41 +178,67 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 
 ### :book: Learning Areas and Ideas
 
-## React*
+## React
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library)))
+\* Some alternatives: Vue, Angular, Ember
+
+React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 ### :bulb: Quick Takeaway
+
+Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
 
 ### :book: Learning Areas and Ideas
 
-## Redux*
+## Redux
+
+Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
 ### :bulb: Quick Takeaway
+
+As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
 
 ### :book: Learning Areas and Ideas
 
-## Jest*
+## Jest
+
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
 
 ### :bulb: Quick Takeaway
+
+It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
 
 ### :book: Learning Areas and Ideas
 
 ## TypeScript
 
-### :bulb: Quick Takeaway
-
-### :book: Learning Areas and Ideas
-
-## NextJS*
+TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Quick Takeaway
 
+\* Alternative: Flow
+
+JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+
 ### :book: Learning Areas and Ideas
+
+## NextJS
+
+Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+
+### :bulb: Quick Takeaway
+
+Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+
+### :book: Learning Areas and Ideas
+
+# But What About X?
+
+This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
 
 # Contibuting
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base! 
+This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
 
 When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
 
