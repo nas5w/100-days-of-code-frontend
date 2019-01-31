@@ -36,7 +36,7 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 
 Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each.
 
-## HTML
+![HTML](https://i.imgur.com/VyqD8oA.jpg)
 
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
