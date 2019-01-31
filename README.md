@@ -46,7 +46,7 @@ HTML is really the foundation of web development. Even in the javascript-based f
 
 ### :book: Learning Areas and Ideas
 
-## CSS
+![CSS](https://i.imgur.com/hjvtKCY.jpg)
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
@@ -56,7 +56,7 @@ CSS is another essential component of web development. While it is mainly used t
 
 ### :book: Learning Areas and Ideas
 
-## JavaScript Basics
+![JavaScipt](https://i.imgur.com/eSlnxaX.jpg)
 
 JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
@@ -66,7 +66,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 
 ### :book: Learning Areas and Ideas
 
-## jQuery
+![jQuery](https://i.imgur.com/oypjbzh.jpg)
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
 
@@ -76,7 +76,7 @@ After you have spent some time with plain (also called "vanilla") javascript, yo
 
 ### :book: Learning Areas and Ideas
 
-## Responsive Web Design
+![Responsive Web Design](https://i.imgur.com/BoTIsbB.jpg)
 
 Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
@@ -86,7 +86,7 @@ Responsive web design is all about making web applications look and function pro
 
 ### :book: Learning Areas and Ideas
 
-## Accessibility
+![Accessibility](https://i.imgur.com/FtjDGOg.jpg)
 
 Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
@@ -96,7 +96,7 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 
 ### :book: Learning Areas and Ideas
 
-## Git
+![Git](https://i.imgur.com/BqXVZVr.jpg)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
 
@@ -106,7 +106,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
 
 ### :book: Learning Areas and Ideas
 
-## Node and NPM
+![Node and NPM](https://i.imgur.com/N85BFt2.jpg)
 
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
@@ -116,7 +116,7 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 
 ### :book: Learning Areas and Ideas
 
-## Sass
+![Sass](https://i.imgur.com/sToky4P.jpg)
 
 Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
@@ -126,7 +126,7 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 
 ### :book: Learning Areas and Ideas
 
-## Bootstrap
+![Bootstrap](https://i.imgur.com/6Up5ivi.jpg)
 
 \* Some alternatives: Foundation, Bulma, Materialize
 
@@ -138,7 +138,7 @@ There are many options for laying out, styling, and making your web application 
 
 ### :book: Learning Areas and Ideas
 
-## BEM
+![BEM](https://i.imgur.com/HBIfMTI.jpg)
 
 The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
 
@@ -148,7 +148,7 @@ It's important to know naming and organization systems like BEM exist and why th
 
 ### :book: Learning Areas and Ideas
 
-## Gulp
+![Gulp](https://i.imgur.com/lRDw2yF.jpg)
 
 Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
 
@@ -158,7 +158,7 @@ In modern front-end development, you'll often find yourself needing to automate 
 
 ### :book: Learning Areas and Ideas
 
-## Webpack
+![Webpack](https://i.imgur.com/UHyieJC.jpg)
 
 At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
 
@@ -168,7 +168,7 @@ Imagine that you have a large web development project with a number of different
 
 ### :book: Learning Areas and Ideas
 
-## ESLint
+![ESLint](https://i.imgur.com/Qj7itqs.jpg)
 
 ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
 
@@ -178,7 +178,7 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 
 ### :book: Learning Areas and Ideas
 
-## React
+![React](https://i.imgur.com/aS2OoCb.jpg)
 
 \* Some alternatives: Vue, Angular, Ember
 
@@ -190,7 +190,7 @@ Front-end JavaScript frameworks are at the forefront of modern front-end develop
 
 ### :book: Learning Areas and Ideas
 
-## Redux
+![Redux](https://i.imgur.com/5y8oHQo.jpg)
 
 Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
@@ -200,7 +200,7 @@ As you build bigger and bigger front-end applications, you start realizing that 
 
 ### :book: Learning Areas and Ideas
 
-## Jest
+![Jest](https://i.imgur.com/1rv7a6O.jpg)
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
 
@@ -210,19 +210,19 @@ It is very important to set up automated testing for your front-end projects. Se
 
 ### :book: Learning Areas and Ideas
 
-## TypeScript
+![TypeScript](https://i.imgur.com/t1SPrjU.jpg)
+
+\* Alternative: Flow
 
 TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Quick Takeaway
 
-\* Alternative: Flow
-
 JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
 
 ### :book: Learning Areas and Ideas
 
-## NextJS
+![NextJS](https://i.imgur.com/9y5GxsL.jpg)
 
 Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
