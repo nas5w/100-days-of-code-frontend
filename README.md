@@ -50,7 +50,7 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## JavaScript Basics
 
@@ -60,7 +60,7 @@ JavaScript , often abbreviated as JS, is a high-level, interpreted programming l
 
 JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## jQuery
 
@@ -70,7 +70,7 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 
 After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Responsive Web Design
 
@@ -80,7 +80,7 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 
 Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Accessibility
 
@@ -90,7 +90,7 @@ Web accessibility is the inclusive practice of ensuring there are no barriers th
 
 Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Git
 
@@ -100,7 +100,7 @@ Git is a free and open source distributed version control system designed to han
 
 Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Node and NPM
 
@@ -110,7 +110,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment that e
 
 While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!). 
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Sass
 
@@ -120,7 +120,7 @@ Sass is an extension of CSS that adds power and elegance to the basic language. 
 
 Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Bootstrap*
 
@@ -132,7 +132,7 @@ Bootstrap is a free and open-source front-end framework for developing websites 
 
 There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## BEM
 
@@ -142,7 +142,7 @@ The Block, Element, Modifier methodology (commonly referred to as BEM) is a popu
 
 It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Gulp
 
@@ -152,7 +152,7 @@ Gulp is a toolkit for automating painful or time-consuming tasks in your develop
 
 In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Webpack
 
@@ -162,7 +162,7 @@ At its core, webpack is a static module bundler for modern JavaScript applicatio
 
 Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment. 
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## ESLint
 
@@ -172,7 +172,7 @@ ESLint is an open source JavaScript linting utility originally created by Nichol
 
 Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## React*
 
@@ -180,31 +180,31 @@ React (also known as React.js or ReactJS) is a JavaScript library for building u
 
 ### :bulb: Quick Takeaway
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Redux*
 
 ### :bulb: Quick Takeaway
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## Jest*
 
 ### :bulb: Quick Takeaway
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## TypeScript
 
 ### :bulb: Quick Takeaway
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 ## NextJS*
 
 ### :bulb: Quick Takeaway
 
-### :star: Learning Areas and Ideas
+### :book: Learning Areas and Ideas
 
 # Contibuting
 
