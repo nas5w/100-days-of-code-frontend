@@ -132,17 +132,27 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 
 ### :book: Definition
 
+Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
+
 ### :bulb: Quick Takeaway
+
+Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
 
 ### :star: Learning Areas and Ideas
 
-## Bootstrap
+## Bootstrap*
 
 ### :book: Definition
 
+Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)))
+
 ### :bulb: Quick Takeaway
 
+There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
+
 ### :star: Learning Areas and Ideas
+
+\* Some alternatives: Foundation, Bulma, Materialize
 
 ## BEM
 
