@@ -204,6 +204,8 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 
 ## React*
 
+React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library)))
+
 ### :book: Definition
 
 ### :bulb: Quick Takeaway
