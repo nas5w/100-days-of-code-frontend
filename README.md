@@ -17,7 +17,7 @@ This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern
 * Days 37-39: Git
 * Days 40-44: Node and NPM
 * Days 45-50: Sass
-* Days 51-54: Bootstrap
+* Days 51-54: Bootstrap*
 * Day 55: BEM
 * Days 57-61: Gulp
 * Days 62-65: Webpack
@@ -186,13 +186,19 @@ At its core, webpack is a static module bundler for modern JavaScript applicatio
 
 ### :bulb: Quick Takeaway
 
+Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment. 
+
 ### :star: Learning Areas and Ideas
 
 ## ESLint
 
 ### :book: Definition
 
+ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
+
 ### :bulb: Quick Takeaway
+
+Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
 
 ### :star: Learning Areas and Ideas
 
