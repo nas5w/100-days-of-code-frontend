@@ -170,13 +170,19 @@ It's important to know naming and organization systems like BEM exist and why th
 
 ### :book: Definition
 
+Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
+
 ### :bulb: Quick Takeaway
+
+In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
 
 ### :star: Learning Areas and Ideas
 
 ## Webpack
 
 ### :book: Definition
+
+At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
 
 ### :bulb: Quick Takeaway
 
