@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="#100DaysOfCode Front-End Development" src="https://i.imgur.com/AYAUUWZ.jpg" />
+  <img alt="#100DaysOfCode Front-End Development" src="https://i.imgur.com/QutFpmi.jpg" />
 </p>
 
 ---
