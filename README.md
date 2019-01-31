@@ -58,6 +58,16 @@ CSS is another essential component of web development. While it is mainly used t
 
 ### :book: Learning Areas and Ideas
 
+- In-line CSS
+- `<style>` tags
+- External CSS with `<link>`
+- Styling elements
+- Selectors
+- Floats, clearning floats
+- Layouts (grid, flexbox)
+- Fonts, custom fonts
+- Style the HTML page(s) you made when learning HTML!
+
 ![JavaScipt](https://i.imgur.com/eSlnxaX.jpg)
 
 JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
@@ -67,6 +77,14 @@ JavaScript , often abbreviated as JS, is a high-level, interpreted programming l
 JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
 
 ### :book: Learning Areas and Ideas
+
+- Too many language fundamentals to list here!
+- `<script>` tag and placement
+- Accessing HTML elements
+- The event loop, call stack, and event queue
+- Prototypal Inheritance 
+- Reference vs. value
+- Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
 
 ![jQuery](https://i.imgur.com/oypjbzh.jpg)
 
@@ -87,6 +105,9 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
 
 ### :book: Learning Areas and Ideas
+
+- Media queries, breakpoints
+- Responsive images
 
 ![Accessibility](https://i.imgur.com/FtjDGOg.jpg)
 
