@@ -142,6 +142,8 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 
 ## Bootstrap*
 
+\* Some alternatives: Foundation, Bulma, Materialize
+
 ### :book: Definition
 
 Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)))
@@ -152,13 +154,15 @@ There are many options for laying out, styling, and making your web application 
 
 ### :star: Learning Areas and Ideas
 
-\* Some alternatives: Foundation, Bulma, Materialize
-
 ## BEM
 
 ### :book: Definition
 
+The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
+
 ### :bulb: Quick Takeaway
+
+It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
 
 ### :star: Learning Areas and Ideas
 
