@@ -6,11 +6,13 @@
 
 This is a somewhat opinionated curriculum for learning front-end development during #100DaysOfCode. As it covers a wide range of front-end develpoment topics, it can be thought of as more of a "survey" style course rather than a deep dive into any one area. Ideally, your takeaway from completing this curriculum will be some familiarity with each topic and the ability to easily dive deeper in any area in the future when necessary.
 
-This curriculum was influenced significantly by Kamran Ahmed's excellent [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) roadmap. Please check it out--it is excellent.
+This curriculum was influenced significantly by Kamran Ahmed's [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) roadmap. Please check it out--it is excellent.
 
 **Note**: I know front-end development means a lot of different things to a lot of people! If you're a front-end developer and you think this guide could be improved, please let me know by raising an issue as described in the [Contributing](#contibuting) section. Thank you!
 
 # :calendar: Curriculum
+
+The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely exprienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. The recommended day-by-day activities are as follows:
 
 - Days 1-8: HTML
 - Days 9-16: CSS
@@ -242,7 +244,7 @@ This is a work in progress and I very much appreciate any help in maintaining th
 
 When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
 
 ## Pull Request Process
 
