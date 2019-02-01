@@ -48,6 +48,16 @@ HTML is really the foundation of web development. Even in the javascript-based f
 
 ### :book: Learning Areas and Ideas
 
+- HTML page structure
+- HTML elements
+- Nesting HTML elements
+- Semantic markup
+- Links / multiple pages
+- Images
+- Audio/video media
+- Forms and form elements
+- Create a multi-page website!
+
 ![CSS](https://i.imgur.com/hjvtKCY.jpg)
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
@@ -82,7 +92,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 - `<script>` tag and placement
 - Accessing HTML elements
 - The event loop, call stack, and event queue
-- Prototypal Inheritance 
+- Prototypal Inheritance
 - Reference vs. value
 - Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
 
@@ -95,6 +105,13 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
 
 ### :book: Learning Areas and Ideas
+
+- Document ready
+- Selectors
+- Toggle classes
+- Animation
+- Add or move HTML elements
+- Add jQuery to your site!
 
 ![Responsive Web Design](https://i.imgur.com/BoTIsbB.jpg)
 
@@ -119,6 +136,10 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 
 ### :book: Learning Areas and Ideas
 
+- Read some content on [The A11Y Project](https://a11yproject.com/about)
+- Review their [checklist](https://a11yproject.com/checklist)
+- Update your site(s) for accessibility based on this checklist
+
 ![Git](https://i.imgur.com/BqXVZVr.jpg)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
@@ -128,6 +149,10 @@ Git is a free and open source distributed version control system designed to han
 Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
 
 ### :book: Learning Areas and Ideas
+
+- Install git
+- Set up a [github](https://github.com) account
+- Add your existing projects to github!
 
 ![Node and NPM](https://i.imgur.com/N85BFt2.jpg)
 
@@ -139,6 +164,11 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 
 ### :book: Learning Areas and Ideas
 
+- Research node and how it is different than the browser
+- Install node (npm comes with it)
+- Create a simple javascript file and run it with node
+- Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
+
 ![Sass](https://i.imgur.com/sToky4P.jpg)
 
 Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
@@ -148,6 +178,10 @@ Sass is an extension of CSS that adds power and elegance to the basic language. 
 Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
 
 ### :book: Learning Areas and Ideas
+
+- [Install Sass](https://sass-lang.com/install) globally with npm!
+- Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
+- Update your existing site to generate your CSS using Sass!
 
 ![Bootstrap](https://i.imgur.com/6Up5ivi.jpg)
 
@@ -161,6 +195,10 @@ There are many options for laying out, styling, and making your web application 
 
 ### :book: Learning Areas and Ideas
 
+- Learn what Bootstrap is and why you would want to use it
+- Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
+- Refactor your site using bootstrap!
+
 ![BEM](https://i.imgur.com/HBIfMTI.jpg)
 
 The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
@@ -170,6 +208,9 @@ The Block, Element, Modifier methodology (commonly referred to as BEM) is a popu
 It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
 
 ### :book: Learning Areas and Ideas
+
+- Read the [BEM introduction](http://getbem.com/introduction/)
+- Create a simple webpage using BEM conventions.
 
 ![Gulp](https://i.imgur.com/lRDw2yF.jpg)
 
@@ -181,6 +222,14 @@ In modern front-end development, you'll often find yourself needing to automate 
 
 ### :book: Learning Areas and Ideas
 
+- Install gulp with npm
+- Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
+- In your website, set up gulp to:
+  - Compile Sass for you
+  - Put the generated CSS file in `build` subdirectory
+  - Move your web pages to the build directory
+  - Inject a reference to your generated CSS file into your web pages
+
 ![Webpack](https://i.imgur.com/UHyieJC.jpg)
 
 At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
@@ -191,6 +240,9 @@ Imagine that you have a large web development project with a number of different
 
 ### :book: Learning Areas and Ideas
 
+- Read [webpack concepts](https://webpack.js.org/concepts/)
+- [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+
 ![ESLint](https://i.imgur.com/Qj7itqs.jpg)
 
 ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
@@ -200,6 +252,9 @@ ESLint is an open source JavaScript linting utility originally created by Nichol
 Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
 
 ### :book: Learning Areas and Ideas
+
+- Install eslint using npm
+- Lint your JavaScript
 
 ![React](https://i.imgur.com/aS2OoCb.jpg)
 
@@ -212,6 +267,9 @@ React (also known as React.js or ReactJS) is a JavaScript library for building u
 Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
 
 ### :book: Learning Areas and Ideas
+
+- Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- Refactor your website as a React app!
 
 ![Redux](https://i.imgur.com/5y8oHQo.jpg)
 
