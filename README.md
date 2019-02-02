@@ -75,6 +75,7 @@ CSS is another essential component of web development. While it is mainly used t
 
 ### :book: Learning Areas and Ideas
 
+- Take the [Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/) on freeCodeCamp.
 - In-line CSS
 - `<style>` tags
 - External CSS with `<link>`
@@ -95,6 +96,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 
 ### :book: Learning Areas and Ideas
 
+- Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Too many language fundamentals to list here!
 - `<script>` tag and placement
 - Accessing HTML elements
@@ -113,6 +115,7 @@ After you have spent some time with plain (also called "vanilla") javascript, yo
 
 ### :book: Learning Areas and Ideas
 
+- Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Document ready
 - Selectors
 - Toggle classes
@@ -130,8 +133,11 @@ Responsive web design is all about making web applications look and function pro
 
 ### :book: Learning Areas and Ideas
 
+- Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Media queries, breakpoints
 - Responsive images
+- Make your website responsive!
+- Use Chrome DevTools to view your site on different devices/viewports.
 
 ![Accessibility](https://i.imgur.com/FtjDGOg.jpg)
 
