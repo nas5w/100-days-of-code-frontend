@@ -48,6 +48,7 @@ HTML is really the foundation of web development. Even in the javascript-based f
 
 ### :book: Learning Areas and Ideas
 
+- Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - HTML page structure
 - HTML elements
 - Nesting HTML elements
