@@ -56,7 +56,7 @@ HTML is really the foundation of web development. Even in the javascript-based f
 - Images
 - Audio/video media
 - Forms and form elements
-- Create a multi-page website!
+- Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
 
 ![CSS](https://i.imgur.com/hjvtKCY.jpg)
 
