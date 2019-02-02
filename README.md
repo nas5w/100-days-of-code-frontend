@@ -42,6 +42,8 @@ The recommended day-by-day activities are as follows:
 
 Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each. For inspiration on projects to do alongside this curriculum, see the [Project Ideas section](#project-ideas).
 
+As part of the timeboxing principle, it's okay if you don't get through all of the items in the "Learning Areas and Ideas" sections. You should instead focus on getting the most you can out of the number of days assigned to each area and then move on.
+
 ![HTML](https://i.imgur.com/VyqD8oA.jpg)
 
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
