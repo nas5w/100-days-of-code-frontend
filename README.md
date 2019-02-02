@@ -149,6 +149,7 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 
 ### :book: Learning Areas and Ideas
 
+- Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Read some content on [The A11Y Project](https://a11yproject.com/about)
 - Review their [checklist](https://a11yproject.com/checklist)
 - Update your site(s) for accessibility based on this checklist
@@ -165,6 +166,15 @@ Version/code control is an essential part of any web developer's toolkit. There 
 
 - Install git
 - Set up a [github](https://github.com) account
+- Learn the most-used git commands:
+  - init
+  - clone
+  - add
+  - commit
+  - push
+  - pull
+  - merge
+  - rebase
 - Add your existing projects to github!
 
 ![Node and NPM](https://i.imgur.com/N85BFt2.jpg)
