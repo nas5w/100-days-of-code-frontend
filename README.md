@@ -36,7 +36,7 @@ The underlying principle of this repository is [timeboxing](https://en.wikipedia
 
 # :mag_right: The Details
 
-Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each.
+Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each. For inspiration on projects to do alongside this curriculum, see the [Project Ideas section](#project-ideas).
 
 ![HTML](https://i.imgur.com/VyqD8oA.jpg)
 
