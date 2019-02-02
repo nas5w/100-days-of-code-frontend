@@ -317,6 +317,15 @@ Now we're getting advanced! By now you've built a React (or Vue or Angular) appl
 
 This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
 
+# Project Ideas
+
+As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+
+- Beginner ideas:
+  - Build a portfolio website
+- Intermediate/Advanced ideas:
+  - Build a tweet analysis app (If you know back-end and API integration already)
+  
 # Contibuting
 
 This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
