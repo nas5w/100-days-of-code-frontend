@@ -333,6 +333,18 @@ As you progress through #100DaysOfCode, you'll want one or multiple projects to 
 - Intermediate/Advanced ideas:
   - Build a tweet analysis app (If you know back-end and API integration already)
   
+# Need Help?
+
+Generally, I have found the following resources invaluable to learning software development:
+
+- Googling the issue
+- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
+- [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- Local software development Meetups! Most are very friendly to all experience levels.
+
+If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommentation, see the [contributing section](#contributing) below.
+
 # Contibuting
 
 This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
