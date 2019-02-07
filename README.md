@@ -304,6 +304,10 @@ As you build bigger and bigger front-end applications, you start realizing that 
 
 ### :book: Learning Areas and Ideas
 
+- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
+- Add Redux state management to your app!
+
 ![Jest](https://i.imgur.com/1rv7a6O.jpg)
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
