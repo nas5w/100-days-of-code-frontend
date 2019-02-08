@@ -14,7 +14,7 @@ This curriculum was influenced significantly by Kamran Ahmed's [Modern Frontend 
 
 The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely exprienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. 
 
-It is anticipated that everyone is at a different level of proficiency when starting this challenge, and that's okay. Beginner and expert front=-end developers alike can benefit from timeboxed practice in each of these areas.
+It is anticipated that everyone is at a different level of proficiency when starting this challenge, and that's okay. Beginner and expert front-end developers alike can benefit from timeboxed practice in each of these areas.
 
 The recommended day-by-day activities are as follows:
 
@@ -349,6 +349,10 @@ Next.js is a minimalistic framework for server-rendered React applications. (Sou
 Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
 
 ### :book: Learning Areas and Ideas
+
+- Next.js [Getting Started](https://nextjs.org/learn/)
+- [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+- Create a Next.js app or migrate your existing app to Next.js
 
 # But What About X?
 
