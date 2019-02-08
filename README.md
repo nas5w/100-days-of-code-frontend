@@ -396,7 +396,7 @@ If you'd like my input on anything, feel free to [connect with me on Twitter](ht
 If you appreciate the work done here, you can contribute significantly by spreading the word about this repository, including things like:
 
 - Starring and forking this repository
-- Sharring this repository on social media
+- Sharing this repository on social media
 
 Additionally, you can support my vanity by following me on [Github](http://www.github.com/nas5w) or [Twitter](http://www.twitter.com/nas5w).
 
