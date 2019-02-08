@@ -44,7 +44,7 @@ Below you can find a little information about each topic in the curriculum as we
 
 As part of the timeboxing principle, it's okay if you don't get through all of the items in the "Learning Areas and Ideas" sections. You should instead focus on getting the most you can out of the number of days assigned to each area and then move on.
 
-![HTML](https://i.imgur.com/VyqD8oA.jpg)
+![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
@@ -65,7 +65,7 @@ HTML is really the foundation of web development. Even in the javascript-based f
 - Forms and form elements
 - Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
 
-![CSS](https://i.imgur.com/hjvtKCY.jpg)
+![CSS](https://i.imgur.com/028GOR0.jpg)
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
@@ -86,7 +86,7 @@ CSS is another essential component of web development. While it is mainly used t
 - Fonts, custom fonts
 - Style the HTML page(s) you made when learning HTML!
 
-![JavaScipt](https://i.imgur.com/eSlnxaX.jpg)
+![JavaScipt](https://i.imgur.com/oHdD86j.jpg)
 
 JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
