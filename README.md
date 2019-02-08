@@ -293,6 +293,7 @@ Front-end JavaScript frameworks are at the forefront of modern front-end develop
 
 - Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - Refactor your website as a React app!
+- Note: `create-react-app` is a convenient tool to scaffold new React projects.
 
 ![Redux](https://i.imgur.com/5y8oHQo.jpg)
 
@@ -317,6 +318,10 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It
 It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
 
 ### :book: Learning Areas and Ideas
+
+- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
+- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
+- Add tests to your application!
 
 ![TypeScript](https://i.imgur.com/t1SPrjU.jpg)
 
