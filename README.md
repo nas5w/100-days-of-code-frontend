@@ -387,9 +387,9 @@ Generally, I have found the following resources invaluable to learning software 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - Local software development Meetups! Most are very friendly to all experience levels.
 
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommentation, see the [contributing section](#contributing) below.
+If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
 
-# Contibuting
+# Contributing
 
 ## Spread the Word
 
