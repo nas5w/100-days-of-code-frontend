@@ -398,8 +398,6 @@ If you appreciate the work done here, you can contribute significantly by spread
 - Starring and forking this repository
 - Sharing this repository on social media
 
-Additionally, you can support my vanity by following me on [Github](http://www.github.com/nas5w) or [Twitter](http://www.twitter.com/nas5w).
-
 ## Contribute to this Repository
 
 This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
