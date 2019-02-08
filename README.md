@@ -221,6 +221,7 @@ There are many options for laying out, styling, and making your web application 
 ### :book: Learning Areas and Ideas
 
 - Learn what Bootstrap is and why you would want to use it
+- [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
 - Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
 - Refactor your site using bootstrap!
 
