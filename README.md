@@ -105,7 +105,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 - Reference vs. value
 - Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
 
-![jQuery](https://i.imgur.com/oypjbzh.jpg)
+![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
 
@@ -123,7 +123,7 @@ After you have spent some time with plain (also called "vanilla") javascript, yo
 - Add or move HTML elements
 - Add jQuery to your site!
 
-![Responsive Web Design](https://i.imgur.com/BoTIsbB.jpg)
+![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
 Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
@@ -139,7 +139,7 @@ Responsive web design is all about making web applications look and function pro
 - Make your website responsive!
 - Use Chrome DevTools to view your site on different devices/viewports.
 
-![Accessibility](https://i.imgur.com/FtjDGOg.jpg)
+![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
 Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
@@ -154,7 +154,7 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 - Review their [checklist](https://a11yproject.com/checklist)
 - Update your site(s) for accessibility based on this checklist
 
-![Git](https://i.imgur.com/BqXVZVr.jpg)
+![Git](https://i.imgur.com/5QoNJqs.jpg)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
 
@@ -178,7 +178,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - rebase
 - Add your existing projects to github!
 
-![Node and NPM](https://i.imgur.com/N85BFt2.jpg)
+![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
@@ -193,7 +193,7 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 - Create a simple javascript file and run it with node
 - Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
 
-![Sass](https://i.imgur.com/sToky4P.jpg)
+![Sass](https://i.imgur.com/ZRedLge.jpg)
 
 Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
@@ -208,7 +208,7 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 - Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
 - Update your existing site to generate your CSS using Sass!
 
-![Bootstrap](https://i.imgur.com/6Up5ivi.jpg)
+![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
 \* Some alternatives: Foundation, Bulma, Materialize
 
@@ -225,7 +225,7 @@ There are many options for laying out, styling, and making your web application 
 - Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
 - Refactor your site using bootstrap!
 
-![BEM](https://i.imgur.com/HBIfMTI.jpg)
+![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
 The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
 
@@ -239,7 +239,7 @@ It's important to know naming and organization systems like BEM exist and why th
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 - Create a simple webpage using BEM conventions.
 
-![Gulp](https://i.imgur.com/lRDw2yF.jpg)
+![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
 Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
 
@@ -257,7 +257,7 @@ In modern front-end development, you'll often find yourself needing to automate 
   - Move your web pages to the build directory
   - Inject a reference to your generated CSS file into your web pages
 
-![Webpack](https://i.imgur.com/UHyieJC.jpg)
+![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
 At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
 
@@ -271,7 +271,7 @@ Imagine that you have a large web development project with a number of different
 - [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
 - [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
-![ESLint](https://i.imgur.com/Qj7itqs.jpg)
+![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
 ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
 
@@ -285,7 +285,7 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - Lint your JavaScript
 
-![React](https://i.imgur.com/aS2OoCb.jpg)
+![React](https://i.imgur.com/uLYz15W.jpg)
 
 \* Some alternatives: Vue, Angular, Ember
 
@@ -302,7 +302,7 @@ Front-end JavaScript frameworks are at the forefront of modern front-end develop
 - Refactor your website as a React app!
 - Note: `create-react-app` is a convenient tool to scaffold new React projects.
 
-![Redux](https://i.imgur.com/5y8oHQo.jpg)
+![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
 Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
@@ -320,7 +320,7 @@ As you build bigger and bigger front-end applications, you start realizing that 
   - Changes are made with pure functions
 - Add Redux state management to your app!
 
-![Jest](https://i.imgur.com/1rv7a6O.jpg)
+![Jest](https://i.imgur.com/Cr39axw.jpg)
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
 
@@ -334,7 +334,7 @@ It is very important to set up automated testing for your front-end projects. Se
 - If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
 - Add tests to your application!
 
-![TypeScript](https://i.imgur.com/t1SPrjU.jpg)
+![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
 \* Alternative: Flow
 
@@ -350,7 +350,7 @@ JavaScript is dynamically typed. However, it is a common belief that static typi
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
 - Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
-![NextJS](https://i.imgur.com/9y5GxsL.jpg)
+![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
 Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
