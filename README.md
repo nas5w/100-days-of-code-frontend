@@ -164,6 +164,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
 
 ### :book: Learning Areas and Ideas
 
+- [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - Install git
 - Set up a [github](https://github.com) account
 - Learn the most-used git commands:
@@ -203,6 +204,7 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 ### :book: Learning Areas and Ideas
 
 - [Install Sass](https://sass-lang.com/install) globally with npm!
+- [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
 - Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
 - Update your existing site to generate your CSS using Sass!
 
@@ -233,6 +235,7 @@ It's important to know naming and organization systems like BEM exist and why th
 ### :book: Learning Areas and Ideas
 
 - Read the [BEM introduction](http://getbem.com/introduction/)
+- [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 - Create a simple webpage using BEM conventions.
 
 ![Gulp](https://i.imgur.com/lRDw2yF.jpg)
@@ -277,6 +280,7 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 ### :book: Learning Areas and Ideas
 
 - Install eslint using npm
+- [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - Lint your JavaScript
 
 ![React](https://i.imgur.com/aS2OoCb.jpg)
