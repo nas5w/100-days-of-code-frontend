@@ -267,6 +267,7 @@ Imagine that you have a large web development project with a number of different
 ### :book: Learning Areas and Ideas
 
 - Read [webpack concepts](https://webpack.js.org/concepts/)
+- [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
 - [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
 ![ESLint](https://i.imgur.com/Qj7itqs.jpg)
