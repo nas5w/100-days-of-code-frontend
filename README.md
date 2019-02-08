@@ -313,6 +313,10 @@ As you build bigger and bigger front-end applications, you start realizing that 
 
 - This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
 - This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
+- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
+  - Single source of truth
+  - State is read-only
+  - Changes are made with pure functions
 - Add Redux state management to your app!
 
 ![Jest](https://i.imgur.com/1rv7a6O.jpg)
