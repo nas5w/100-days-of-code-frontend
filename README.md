@@ -292,6 +292,7 @@ Front-end JavaScript frameworks are at the forefront of modern front-end develop
 ### :book: Learning Areas and Ideas
 
 - Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - Refactor your website as a React app!
 - Note: `create-react-app` is a convenient tool to scaffold new React projects.
 
