@@ -81,7 +81,7 @@ CSS is another essential component of web development. While it is mainly used t
 - External CSS with `<link>`
 - Styling elements
 - Selectors
-- Floats, clearning floats
+- Floats, clearing floats
 - Layouts (grid, flexbox)
 - Fonts, custom fonts
 - Style the HTML page(s) you made when learning HTML!
