@@ -12,7 +12,7 @@ This curriculum was influenced significantly by Kamran Ahmed's [Modern Frontend 
 
 # :calendar: Curriculum
 
-The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely exprienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. 
+The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely experienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. 
 
 It is anticipated that everyone is at a different level of proficiency when starting this challenge, and that's okay. Beginner and expert front-end developers alike can benefit from timeboxed practice in each of these areas.
 
