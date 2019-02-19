@@ -31,7 +31,7 @@ The recommended day-by-day activities are as follows:
 - Day 55: [BEM](#bem)
 - Days 57-61: [Gulp](#gulp)
 - Days 62-65: [Webpack](#webpack)
-- Day 66: [ESLint](eslint)
+- Day 66: [ESLint](#eslint)
 - Days 68-83: [React](#react)
 - Days 84-89: [Redux](#redux)
 - Days 90-94: [Jest](#jest)
