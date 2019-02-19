@@ -36,7 +36,7 @@ The recommended day-by-day activities are as follows:
 - Days 84-89: [Redux](#redux)
 - Days 90-94: [Jest](#jest)
 - Days 95-97: [TypeScript](#typescript)
-- Days 98-100: [NextJS0](#nextjs)
+- Days 98-100: [NextJS](#nextjs)
 
 # :mag_right: The Details
 
