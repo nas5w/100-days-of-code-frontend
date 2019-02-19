@@ -18,25 +18,25 @@ It is anticipated that everyone is at a different level of proficiency when star
 
 The recommended day-by-day activities are as follows:
 
-- Days 1-8: HTML
-- Days 9-16: CSS
-- Days 17-24: JavaScript Basics
-- Days 25-27: jQuery
-- Days 28-33: Responsive Web Design
-- Days 34-36: Accessibility
-- Days 37-39: Git
-- Days 40-44: Node and NPM
-- Days 45-50: Sass
-- Days 51-54: Bootstrap
-- Day 55: BEM
-- Days 57-61: Gulp
-- Days 62-65: Webpack
-- Day 66: ESLint
-- Days 68-83: React
-- Days 84-89: Redux
-- Days 90-94: Jest
-- Days 95-97: TypeScript
-- Days 98-100: NextJS
+- Days 1-8: [HTML](#html)
+- Days 9-16: [CSS](#css)
+- Days 17-24: [JavaScript Basics](#javascript)
+- Days 25-27: [jQuery](#jquery)
+- Days 28-33: [Responsive Web Design](#rwd)
+- Days 34-36: [Accessibility](#accessibility)
+- Days 37-39: [Git](#git)
+- Days 40-44: [Node and NPM](#node)
+- Days 45-50: [Sass](#sass)
+- Days 51-54: [Bootstrap](#bootstrap)
+- Day 55: [BEM](#bem)
+- Days 57-61: [Gulp](#gulp)
+- Days 62-65: [Webpack](#webpack)
+- Day 66: [ESLint](#eslint)
+- Days 68-83: [React](#react)
+- Days 84-89: [Redux](#redux)
+- Days 90-94: [Jest](#jest)
+- Days 95-97: [TypeScript](#typescript)
+- Days 98-100: [NextJS](#nextjs)
 
 # :mag_right: The Details
 
@@ -44,6 +44,7 @@ Below you can find a little information about each topic in the curriculum as we
 
 As part of the timeboxing principle, it's okay if you don't get through all of the items in the "Learning Areas and Ideas" sections. You should instead focus on getting the most you can out of the number of days assigned to each area and then move on.
 
+<a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
@@ -65,6 +66,7 @@ HTML is really the foundation of web development. Even in the javascript-based f
 - Forms and form elements
 - Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
 
+<a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
@@ -86,7 +88,8 @@ CSS is another essential component of web development. While it is mainly used t
 - Fonts, custom fonts
 - Style the HTML page(s) you made when learning HTML!
 
-![JavaScipt](https://i.imgur.com/oHdD86j.jpg)
+<a name="javascript"></a>
+![JavaScript](https://i.imgur.com/oHdD86j.jpg)
 
 JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
@@ -105,6 +108,7 @@ JavaScript has become increasingly important in the front-end world. While it wa
 - Reference vs. value
 - Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
 
+<a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
@@ -123,6 +127,7 @@ After you have spent some time with plain (also called "vanilla") javascript, yo
 - Add or move HTML elements
 - Add jQuery to your site!
 
+<a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
 Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
@@ -139,6 +144,7 @@ Responsive web design is all about making web applications look and function pro
 - Make your website responsive!
 - Use Chrome DevTools to view your site on different devices/viewports.
 
+<a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
 Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
@@ -154,6 +160,7 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 - Review their [checklist](https://a11yproject.com/checklist)
 - Update your site(s) for accessibility based on this checklist
 
+<a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
@@ -178,6 +185,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - rebase
 - Add your existing projects to github!
 
+<a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
@@ -193,6 +201,7 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 - Create a simple javascript file and run it with node
 - Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
 
+<a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
 Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
@@ -208,6 +217,7 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 - Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
 - Update your existing site to generate your CSS using Sass!
 
+<a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
 \* Some alternatives: Foundation, Bulma, Materialize
@@ -225,6 +235,7 @@ There are many options for laying out, styling, and making your web application 
 - Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
 - Refactor your site using bootstrap!
 
+<a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
 The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
@@ -239,6 +250,7 @@ It's important to know naming and organization systems like BEM exist and why th
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 - Create a simple webpage using BEM conventions.
 
+<a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
 Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
@@ -257,6 +269,7 @@ In modern front-end development, you'll often find yourself needing to automate 
   - Move your web pages to the build directory
   - Inject a reference to your generated CSS file into your web pages
 
+<a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
 At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
@@ -271,6 +284,7 @@ Imagine that you have a large web development project with a number of different
 - [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
 - [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
+<a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
 ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
@@ -285,6 +299,7 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - Lint your JavaScript
 
+<a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
 \* Some alternatives: Vue, Angular, Ember
@@ -302,6 +317,7 @@ Front-end JavaScript frameworks are at the forefront of modern front-end develop
 - Refactor your website as a React app!
 - Note: `create-react-app` is a convenient tool to scaffold new React projects.
 
+<a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
 Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
@@ -320,6 +336,7 @@ As you build bigger and bigger front-end applications, you start realizing that 
   - Changes are made with pure functions
 - Add Redux state management to your app!
 
+<a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
@@ -334,6 +351,7 @@ It is very important to set up automated testing for your front-end projects. Se
 - If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
 - Add tests to your application!
 
+<a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
 \* Alternative: Flow
@@ -350,6 +368,7 @@ JavaScript is dynamically typed. However, it is a common belief that static typi
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
 - Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
+<a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
 Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
