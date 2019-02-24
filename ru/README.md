@@ -47,24 +47,24 @@
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
-Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
+Язык разметки гипертекста (HTML) является стандартным языком разметки для создания веб-страниц и веб-приложений. С помощью каскадных таблиц стилей (CSS) и JavaScript он образует триаду краеугольных технологий для Всемирной паутины. Веб-браузеры получают документы HTML с веб-сервера или из локального хранилища и выводят документы на мультимедийные веб-страницы. HTML описывает структуру веб-страницы семантически и изначально включает подсказки для внешнего вида документа. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
-### :bulb: Quick Takeaway
+### :bulb: Быстрый вынос
 
-HTML is really the foundation of web development. Even in the javascript-based frameworks, you end up writing HTML in one form or another.
+HTML действительно является основой веб-разработки. Даже в основанных на javascript фраеморках вы в конечном итоге пишете HTML в той или иной форме.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
-- Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- HTML page structure
-- HTML elements
-- Nesting HTML elements
-- Semantic markup
-- Links / multiple pages
-- Images
-- Audio/video media
-- Forms and form elements
-- Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
+- Начните с [Основы HTML и HTML5](https://learn.freecodecamp.org/) на freeCodeCamp.
+- HTML структура страницы
+- HTML элементы
+- Вложенные HTML-элементы
+- Семантическая разметка
+- Ссылки / несколько страниц
+- Изображения
+- Аудио / видео медиа
+- Формы и элементы формы
+- Создайте многостраничный сайт! (Смотрите [Идеи проекта](#project-ideas) если вам нужно вдохновение).
 
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
@@ -75,7 +75,7 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Take the [Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/) on freeCodeCamp.
 - In-line CSS
@@ -97,7 +97,7 @@ JavaScript , often abbreviated as JS, is a high-level, interpreted programming l
 
 JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Too many language fundamentals to list here!
@@ -117,7 +117,7 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 
 After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Document ready
@@ -136,7 +136,7 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 
 Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Media queries, breakpoints
@@ -153,7 +153,7 @@ Web accessibility is the inclusive practice of ensuring there are no barriers th
 
 Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - Read some content on [The A11Y Project](https://a11yproject.com/about)
@@ -169,7 +169,7 @@ Git is a free and open source distributed version control system designed to han
 
 Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - Install git
@@ -194,7 +194,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment that e
 
 While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Research node and how it is different than the browser
 - Install node (npm comes with it)
@@ -210,7 +210,7 @@ Sass is an extension of CSS that adds power and elegance to the basic language. 
 
 Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - [Install Sass](https://sass-lang.com/install) globally with npm!
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
@@ -228,7 +228,7 @@ Bootstrap is a free and open-source front-end framework for developing websites 
 
 There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Learn what Bootstrap is and why you would want to use it
 - [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
@@ -244,7 +244,7 @@ The Block, Element, Modifier methodology (commonly referred to as BEM) is a popu
 
 It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Read the [BEM introduction](http://getbem.com/introduction/)
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
@@ -259,7 +259,7 @@ Gulp is a toolkit for automating painful or time-consuming tasks in your develop
 
 In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Install gulp with npm
 - Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
@@ -278,7 +278,7 @@ At its core, webpack is a static module bundler for modern JavaScript applicatio
 
 Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Read [webpack concepts](https://webpack.js.org/concepts/)
 - [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
@@ -293,7 +293,7 @@ ESLint is an open source JavaScript linting utility originally created by Nichol
 
 Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Install eslint using npm
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
@@ -310,7 +310,7 @@ React (also known as React.js or ReactJS) is a JavaScript library for building u
 
 Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
@@ -326,7 +326,7 @@ Redux is a predictable state container for JavaScript apps. It helps you write a
 
 As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
 - This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
@@ -345,7 +345,7 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It
 
 It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
 - If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
@@ -362,7 +362,7 @@ TypeScript is an open-source programming language developed and maintained by Mi
 
 JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
@@ -377,7 +377,7 @@ Next.js is a minimalistic framework for server-rendered React applications. (Sou
 
 Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
 
-### :book: Learning Areas and Ideas
+### :book: Области обучения и идеи
 
 - Next.js [Getting Started](https://nextjs.org/learn/)
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
