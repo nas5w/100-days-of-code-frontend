@@ -49,9 +49,9 @@
 
 Язык разметки гипертекста (HTML) является стандартным языком разметки для создания веб-страниц и веб-приложений. С помощью каскадных таблиц стилей (CSS) и JavaScript он образует триаду краеугольных технологий для Всемирной паутины. Веб-браузеры получают документы HTML с веб-сервера или из локального хранилища и выводят документы на мультимедийные веб-страницы. HTML описывает структуру веб-страницы семантически и изначально включает подсказки для внешнего вида документа. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
-HTML действительно является основой веб-разработки. Даже в основанных на javascript фраеморках вы в конечном итоге пишете HTML в той или иной форме.
+HTML действительно является основой веб-разработки. Даже в основанных на javascript фраемворках вы в конечном итоге пишете HTML в той или иной форме.
 
 ### :book: Области обучения и идеи
 
@@ -71,7 +71,7 @@ HTML действительно является основой веб-разр�
 
 Каскадные таблицы стилей (CSS) - это язык таблиц стилей, используемый для описания представления документа, написанного на языке разметки, например HTML. CSS является краеугольной технологией Всемирной паутины, наряду с HTML и JavaScript. CSS предназначен для разделения представления и содержимого, включая макет, цвета и шрифты. Такое разделение может улучшить доступность контента, обеспечить большую гибкость и контроль в спецификации характеристик презентации, дать возможность нескольким веб-страницам совместно использовать форматирование, указав соответствующий CSS в отдельном файле .css, а также уменьшить сложность и повторяемость структурного контента. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 CSS является еще одним важным компонентом веб-разработки. Хотя он в основном используется для стилизации и размещения элементов HTML, он становится все более способным к более динамичным задачам (например, анимации), которые когда-то обрабатывались бы JavaScript.
 
@@ -91,35 +91,35 @@ CSS является еще одним важным компонентом ве�
 <a name="javascript"></a>
 ![JavaScript](https://i.imgur.com/oHdD86j.jpg)
 
-JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
+JavaScript, часто называемый JS, является интерпретируемым языком программирования высокого уровня, который соответствует спецификации ECMAScript. Это язык, который также характеризуется как динамический, слабо типизированный, основанный на прототипах и мультипарадигмальный. Наряду с HTML и CSS, JavaScript является одной из трех основных технологий Всемирной паутины. JavaScript обеспечивает интерактивные веб-страницы и, следовательно, является неотъемлемой частью веб-приложений. Подавляющее большинство веб-сайтов используют его, и все основные веб-браузеры имеют специальный механизм JavaScript для его выполнения. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
-JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
+JavaScript становится все более важным в мире переднего плана. Хотя когда-то он использовался главным образом для придания страницам динамического характера, сейчас он является основой многих интерфейсных сред. Эти структуры обрабатывают множество задач, которые ранее выполнялись серверной частью (например, маршрутизация и отображение различных представлений).
 
 ### :book: Области обучения и идеи
 
-- Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Too many language fundamentals to list here!
-- `<script>` tag and placement
-- Accessing HTML elements
-- The event loop, call stack, and event queue
-- Prototypal Inheritance
-- Reference vs. value
-- Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
+- Начните с [Основы JavaScript и ES6](https://learn.freecodecamp.org/) на freeCodeCamp.
+- Слишком много основ языка, чтобы перечислить здесь!
+- `<script>` тег и размещение
+- Доступ к элементам HTML
+- Цикл событий, стек вызовов и очередь событий
+- Прототип наследования
+- Ссылка против значения
+- Добавьте некоторые динамические элементы или логику к вашим HTML / CSS страницам, разработанным ранее!
 
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Источник: [jQuery.com](https://jquery.com/))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
 
 ### :book: Области обучения и идеи
 
-- Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
+- Начните с [jQuery section](https://learn.freecodecamp.org/) на freeCodeCamp.
 - Document ready
 - Selectors
 - Toggle classes
@@ -130,15 +130,15 @@ After you have spent some time with plain (also called "vanilla") javascript, yo
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
-Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
+Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
 
 ### :book: Области обучения и идеи
 
-- Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
+- Начните с [Responsive Web Design Principles section](https://learn.freecodecamp.org/) на freeCodeCamp.
 - Media queries, breakpoints
 - Responsive images
 - Make your website responsive!
@@ -147,15 +147,15 @@ Responsive web design is all about making web applications look and function pro
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
-Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
 
 ### :book: Области обучения и идеи
 
-- Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
+- Начните с [Applied Accessibility section](https://learn.freecodecamp.org/) на freeCodeCamp.
 - Read some content on [The A11Y Project](https://a11yproject.com/about)
 - Review their [checklist](https://a11yproject.com/checklist)
 - Update your site(s) for accessibility based on this checklist
@@ -163,9 +163,9 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Источник: [git-scm.com](https://git-scm.com/))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
 
@@ -188,9 +188,9 @@ Version/code control is an essential part of any web developer's toolkit. There 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
+Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
 
@@ -204,9 +204,9 @@ While nodejs is typically known as a back-end solution, it is used quite frequen
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
-Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
+Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Источник: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
 
@@ -222,9 +222,9 @@ Sass allows you to write CSS in a more programmatic way. If you've done some CSS
 
 \* Some alternatives: Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
+Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
 
@@ -238,9 +238,9 @@ There are many options for laying out, styling, and making your web application 
 <a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
-The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
+The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Источник: [css-tricks.com](https://css-tricks.com/bem-101/))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
 
@@ -253,9 +253,9 @@ It's important to know naming and organization systems like BEM exist and why th
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
-Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
+Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Источник: [gulpjs.com](https://gulpjs.com/))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
 
@@ -272,9 +272,9 @@ In modern front-end development, you'll often find yourself needing to automate 
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
-At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
+At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Источник: [webpack.js.org](https://webpack.js.org/concepts/))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
 
@@ -287,9 +287,9 @@ Imagine that you have a large web development project with a number of different
 <a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
-ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
+ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Источник: [eslint.org](https://eslint.org/docs/about/))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
 
@@ -304,15 +304,15 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 
 \* Some alternatives: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
 
 ### :book: Области обучения и идеи
 
-- Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- Начните с [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - Refactor your website as a React app!
 - Note: `create-react-app` is a convenient tool to scaffold new React projects.
@@ -320,9 +320,9 @@ Front-end JavaScript frameworks are at the forefront of modern front-end develop
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
+Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Источник: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
 
@@ -339,9 +339,9 @@ As you build bigger and bigger front-end applications, you start realizing that 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Источник: [jestjs.io](https://jestjs.io))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
 
@@ -356,9 +356,9 @@ It is very important to set up automated testing for your front-end projects. Se
 
 \* Alternative: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
 
@@ -371,9 +371,9 @@ JavaScript is dynamically typed. However, it is a common belief that static typi
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.js is a minimalistic framework for server-rendered React applications. (Источник: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
-### :bulb: Быстрый вынос
+### :bulb: Кратко
 
 Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
 
