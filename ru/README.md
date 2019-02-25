@@ -83,8 +83,8 @@ CSS является еще одним важным компонентом ве�
 - Внешний CSS с `<link>`
 - Стилизация элементов
 - Селекторы
-- Floats, очистка floats
-- Макеты (grid, flexbox)
+- Флоаты, очистка флоатов
+- Сетки (grid, flexbox)
 - Шрифты, кастомные шрифты
 - Стилизируйте HTML-страницы, которые вы создали, изучая HTML!
 
@@ -111,38 +111,38 @@ JavaScript становится все более важным в мире пе�
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Источник: [jQuery.com](https://jquery.com/))
+jQuery - это быстрая, небольшая и многофункциональная библиотека JavaScript. Она делает такие вещи, как обход и манипулирование документами HTML, обработка событий, анимация и Ajax намного проще с простым в использовании API, который работает во множестве браузеров. Благодаря сочетанию универсальности и расширяемости, jQuery изменил способ, которым миллионы людей пишут JavaScript. (Источник: [jQuery.com](https://jquery.com/))
 
 ### :bulb: Кратко
 
-After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
+После того, как вы потратили некоторое время на простой (также называемый «ванильным») javascript, некоторые задачи могут оказаться немного громоздкими, особенно те, которые связаны с доступом к элементам HTML и манипулированием ими. В течение долгого времени jQuery была доступной библиотекой для упрощения и согласования таких задач в разных браузерах. В настоящее время jQuery не обязательно является «обязательным» обучением из-за улучшений в vanilla javascript, CSS и более новых фреймворках javascript (мы рассмотрим фреймворки позже). Тем не менее, было бы полезно потратить немного времени на изучение jQuery и применить его к небольшому проекту.
 
 ### :book: Области обучения и идеи
 
-- Начните с [jQuery section](https://learn.freecodecamp.org/) на freeCodeCamp.
-- Document ready
-- Selectors
-- Toggle classes
-- Animation
-- Add or move HTML elements
-- Add jQuery to your site!
+- Начните с [jQuery секция](https://learn.freecodecamp.org/) на freeCodeCamp.
+- Готовые документы
+- Cелекторы
+- Переключение классов
+- Анимация
+- Добавление или перемещение элементов HTML
+- Добавьте jQuery на свой сайт!
 
 <a name="rwd"></a>
-![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
+![Отзывчивый веб-дизайн](https://i.imgur.com/Bt1zWwq.jpg)
 
-Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
+Отзывчивый веб-дизайн (RWD) - это подход к веб-дизайну, позволяющий хорошо отображать веб-страницы на различных устройствах и размерах окон или экранов. Недавняя работа также рассматривает близость зрителя как часть контекста просмотра как расширение для RWD. Содержание, дизайн и производительность необходимы на всех устройствах, чтобы обеспечить удобство использования и удовлетворение. Сайт, созданный с использованием RWD, адаптирует макет к среде просмотра с помощью плавных, пропорциональных сеток, гибких изображений и медиазапросов CSS3, что является расширением правила @media. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
 ### :bulb: Кратко
 
-Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+Адаптивный веб-дизайн - это все то, чтобы веб-приложения выглядели и функционировали должным образом при любых условиях. Простой и быстрый пример: веб-браузер должен выглядеть и функционировать должным образом как в настольном веб-браузере, так и в браузере мобильного телефона. Понимание адаптивного дизайна имеет решающее значение для любого front-end разработчика!
 
 ### :book: Области обучения и идеи
 
 - Начните с [Responsive Web Design Principles section](https://learn.freecodecamp.org/) на freeCodeCamp.
-- Media queries, breakpoints
-- Responsive images
-- Make your website responsive!
-- Use Chrome DevTools to view your site on different devices/viewports.
+- Медиа-запросы, брекпоинты
+- Адаптивные изображения
+- Сделайте свой сайт отзывчивым!
+- Используйте Chrome DevTools для просмотра вашего сайта на разных устройствах / экранах.
 
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
