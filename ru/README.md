@@ -145,36 +145,36 @@ jQuery - это быстрая, небольшая и многофункцион
 - Используйте Chrome DevTools для просмотра вашего сайта на разных устройствах / экранах.
 
 <a name="accessibility"></a>
-![Accessibility](https://i.imgur.com/ayioMQw.jpg)
+![Доступность](https://i.imgur.com/ayioMQw.jpg)
 
-Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+Доступность веб-сайтов - это всеобъемлющая практика, гарантирующая, что нет никаких препятствий, мешающих взаимодействию или доступу к веб-сайтам во Всемирной паутине людьми с ограниченными возможностями. Когда сайты правильно спроектированы, разработаны и отредактированы, как правило, все пользователи имеют равный доступ к информации и функциональности. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
 ### :bulb: Кратко
 
-Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
+Доступность, часто пишущая как a11y, является одной из самых важных тем в интерфейсной веб-разработке, но, похоже, часто теряет популярность. Создание доступных веб-приложений является не только этически обоснованным, но также имеет большой смысл для бизнеса, учитывая дополнительную аудиторию, которая сможет просматривать ваши приложения, когда они будут доступны.
 
 ### :book: Области обучения и идеи
 
 - Начните с [Applied Accessibility section](https://learn.freecodecamp.org/) на freeCodeCamp.
-- Read some content on [The A11Y Project](https://a11yproject.com/about)
-- Review their [checklist](https://a11yproject.com/checklist)
-- Update your site(s) for accessibility based on this checklist
+- Чтения некоторых материалов о [The A11Y Project](https://a11yproject.com/about)
+- Просмотра [чеклист](https://a11yproject.com/checklist)
+- Обновите сайт(ы) для обеспечения доступности на основе этого чеклиста
 
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Источник: [git-scm.com](https://git-scm.com/))
+Git - это бесплатная распределенная система управления версиями с открытым исходным кодом, предназначенная для быстрой и эффективной работы со всем, от небольших до очень крупных проектов. (Источник: [git-scm.com](https://git-scm.com/))
 
 ### :bulb: Кратко
 
-Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
+Контроль версий / кода является неотъемлемой частью инструментария любого веб-разработчика. Существует множество различных систем контроля версий, но Git на данный момент является наиболее распространенным на данный момент. Вы можете (и должны!) Использовать его для отслеживания своих проектов в процессе обучения!
 
 ### :book: Области обучения и идеи
 
-- [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- Install git
-- Set up a [github](https://github.com) account
-- Learn the most-used git commands:
+- [Git учебник для начинающих (Видео)](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- Установка git
+- Настройка [github](https://github.com) акаунта
+- Изучите наиболее часто используемые команды git:
   - init
   - clone
   - add
@@ -183,7 +183,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - pull
   - merge
   - rebase
-- Add your existing projects to github!
+- Добавьте существующие проекты в github!
 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
