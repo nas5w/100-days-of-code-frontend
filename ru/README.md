@@ -204,18 +204,18 @@ Node.js - это кроссплатформенная среда выполне�
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
-Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Источник: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
+Sass - это расширение CSS, которое добавляет мощность и элегантность базовому языку. Он позволяет вам использовать переменные, вложенные правила, миксины, встроенный импорт и многое другое, все с полностью совместимым с CSS синтаксисом. Sass помогает хорошо организовать большие таблицы стилей и быстро запускать небольшие таблицы стилей, особенно с помощью библиотеки стилей Compass. (Источник: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
 ### :bulb: Кратко
 
-Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
+Sass позволяет писать CSS более программным способом. Если вы сделали немного CSS, вы, возможно, заметили, что в конечном итоге вы повторяете много информации - например, задаете тот же цветовой код. В Sass вы можете использовать такие вещи, как переменные, циклы и вложения, чтобы уменьшить избыточность и улучшить читаемость. После написания вашего кода на Sass вы можете быстро и легко скомпилировать его в обычный CSS.
 
 ### :book: Области обучения и идеи
 
-- [Install Sass](https://sass-lang.com/install) globally with npm!
+- [Установка Sass](https://sass-lang.com/install) глобально с npm!
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
-- Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
-- Update your existing site to generate your CSS using Sass!
+- Следуйте [Изучение Sass](https://sass-lang.com/guide) учебное пособие и/или[freeCodeCamp](https://learn.freecodecamp.org/) Sass руководство.
+- Обновите существующий сайт, чтобы сгенерировать CSS с помощью Sass!
 
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
