@@ -186,20 +186,20 @@ Git - это бесплатная распределенная система у
 - Добавьте существующие проекты в github!
 
 <a name="node"></a>
-![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
+![Node и NPM](https://i.imgur.com/8ik2alD.jpg)
 
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
+Node.js - это кроссплатформенная среда выполнения JavaScript с открытым исходным кодом, которая выполняет код JavaScript вне браузера. JavaScript используется в основном для сценариев на стороне клиента, в которых сценарии, написанные на JavaScript, встроены в HTML веб-страницы и выполняются на стороне клиента механизмом JavaScript в веб-браузере пользователя. Node.js позволяет разработчикам использовать JavaScript для написания инструментов командной строки и для сценариев на стороне сервера - запуск сценариев на стороне сервера для создания динамического содержимого веб-страницы перед ее отправкой в веб-браузер пользователя. Следовательно, Node.js представляет собой парадигму «JavaScript везде», объединяющую разработку веб-приложений вокруг единого языка программирования, а не разных языков для сценариев на стороне сервера и на стороне клиента. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
 ### :bulb: Кратко
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+Хотя nodejs обычно называют серверным решением, он довольно часто используется для поддержки фронт-энда. Он делает это несколькими способами, включая такие, как запуск инструментов сборки, тестирование и линтинг (все будет рассмотрено в ближайшее время!). Node Package Manager (npm) - является еще одной замечательной особенностью node и может использоваться для управления зависимостями вашего проекта (т.е. библиотеки кода, на которые может положиться ваш проект, например, jQuery!).
 
 ### :book: Области обучения и идеи
 
-- Research node and how it is different than the browser
-- Install node (npm comes with it)
-- Create a simple javascript file and run it with node
-- Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
+- Исследовательский node и чем он отличается от браузера
+- Установить node (npm идет с ним)
+- Создайте простой файл JavaScript и запустите его с узлом
+- Используйте NPM для управления любыми зависимостями в существующих проектах (например, jQuery!)
 
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
