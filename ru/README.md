@@ -302,54 +302,54 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
-\* Some alternatives: Vue, Angular, Ember
+\* Некоторые альтернативы: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+React (также известный как React.js или ReactJS) - это библиотека JavaScript для создания пользовательских интерфейсов. Он поддерживается компанией Facebook и сообществом индивидуальных разработчиков и компаний. React может быть использован как основа для разработки одностраничных и мобильных приложений. Комплексные React-приложения обычно требуют использования дополнительных библиотек для управления состояниями, роутинга и взаимодействия с API. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 ### :bulb: Кратко
 
-Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
+Front-end JavaScript фреймфорки находятся на передовой современной front-end разработки. Один из важнейших выводов здесь - это то, что React, несмотря на внушительную популярность, является всего лишь библиоткой для построения пользовательских интерфейсов, в то время, как фреймворки вроде Vue и Angular стремятся быть более функциональными. Например, если вы делаете приложение на React которому необходима маршрутизация на другие views, вам необходимо привнести в него что-то вроде `react-router`.
 
 ### :book: Области обучения и идеи
 
 - Начните с [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-- Refactor your website as a React app!
-- Note: `create-react-app` is a convenient tool to scaffold new React projects.
+- Проведите рефакторинг вашего вебсайта под React приложение!
+- Замечание: `create-react-app` - удобный инструмент для создания новых проектов на React.
 
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Источник: [redux.js.org](https://redux.js.org/introduction/getting-started))
+Redux является контейнером прогнозируемого состояния для JavaScript приложений. Он помогает вам писать приложения, которые ведут себя единообразно, работая в различном окружении (клиент, сервер, и естественное окружение), и легки для тестирования. Кроме того, он предоставляет большие возможности разработки, такие как редактирование кода в реальном времени в комбинации с отладчиком, с возможностью двигаться по ходу работы приложения в обратном направлении (Источник: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
 ### :bulb: Кратко
 
-As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
+В то время как вы создаете все более и более объемные front-end приложения, вы начинаете понимать как сложно обслуживать состояние приложения: такие как авторизован ли пользователь, кто этот пользователь, и особенно что происходит в приложении. Redux это замечательная беблиотека, которая поможет вам иметь один источник состояния, на котором ваше приложение будет основывать свою логику.
 
 ### :book: Области обучения и идеи
 
-- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
-- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
-  - Single source of truth
-  - State is read-only
-  - Changes are made with pure functions
-- Add Redux state management to your app!
+- Это [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- Это [Redux video series](https://egghead.io/courses/getting-started-with-redux) от Dan Abramov, создателя Redux
+- Возьмите на заметку [Redux three principles](https://redux.js.org/introduction/three-principles)
+  - Единственный источник истины
+  - Состояние только для чтения
+  - Изменения сделаные на чистых функциях
+- Добавьте Redux для управления состоянием в ваше приложение!
 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Источник: [jestjs.io](https://jestjs.io))
+Jest - восхитительный JavaScript Framework для тестирования с упором на простоту. Его применяют в проектах, использующих: Babel, TypeScript, Node, React, Angular, Vue и других! (Источник: [jestjs.io](https://jestjs.io))
 
 ### :bulb: Кратко
 
-It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
+Очень важно настроить автоматическое тестирование на ваших front-end проектах. Использование автоматического тестирования позволит делать будущие изменения с уверенностью - если вы сделали изменения и тесты прошли успешно, вы будете достаточно уверены, что не сломали никакую дополнительную функциональность. Есть множество фреймворков для тестирования; Jest - один из моих любимых.
 
 ### :book: Области обучения и идеи
 
-- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
-- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
-- Add tests to your application!
+- Изучите [Jest basics](https://jestjs.io/docs/en/getting-started)
+- Если вы используете `create-react-app`, [Jest уже настроен](https://facebook.github.io/create-react-app/docs/running-tests).
+- Добавьте тесты в ваше приложение!
 
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
