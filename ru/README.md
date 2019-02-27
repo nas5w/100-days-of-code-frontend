@@ -354,19 +354,19 @@ Jest - восхитительный JavaScript Framework для тестиров
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
-\* Alternative: Flow
+\* Альтернатива: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+TypeScript - это язык програмирования с открытым исходным кодом, разработанный и поддерживаемый Microsoft. Это строго типизированное расширинение JavaScript, добавляющее в него возможность статической типизации. TypeScript предназначен для разработки больших приложений и транспилируется в JavaScript. Так как TypeScript расширяет JavaScript, существующие программы JavaScript также являются допустимыми TypeScript программами. TypeScript может быть использован для разработки JavaScript приложений, выполняемых как на стороне клиента, так и на стороне сервера(Node.js). (Источник: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Кратко
 
-JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+JavaScript имеет динамическую типизацию. Тем не менее, распространено мнение, что статическая типизация (т.е., определение типов переменных, классов, интерфейсов заранее) и яснее, и снижает вероятность появления дефектов/ошибок. Независимо от того, как вы относитесь к этому, важно, по крайней мере, испытать статически типизированную версию JavaScript, такую как TypeScript. Обратите внимание, что TypeScript компилируется в JavaScript и таким образом может быть интерпретирован браузерами (т.е., браузеры не имеют встроенной поддержки TypeScript).
 
 ### :book: Области обучения и идеи
 
 - [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
-- Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
+- Опционально [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
