@@ -214,7 +214,7 @@ Sass позволяет писать CSS более программным сп�
 
 - [Установка Sass](https://sass-lang.com/install) глобально с npm!
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
-- Следуйте [Изучение Sass](https://sass-lang.com/guide) учебное пособие и/или[freeCodeCamp](https://learn.freecodecamp.org/) Sass руководство.
+- Следуйте [Изучение Sass](https://sass-lang.com/guide) учебное пособие и/или [freeCodeCamp](https://learn.freecodecamp.org/) Sass руководство.
 - Обновите существующий сайт, чтобы сгенерировать CSS с помощью Sass!
 
 <a name="bootstrap"></a>
