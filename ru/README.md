@@ -247,57 +247,58 @@ Bootstrap - это бесплатная платформа с открытым �
 ### :book: Области обучения и идеи
 
 - Прочтите [BEM introduction](http://getbem.com/introduction/)
+- Прочтите [БЭМ](https://ru.bem.info/)
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 - Создайте простую веб-страницу, используя методологию БЭМ.
 
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
-Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Источник: [gulpjs.com](https://gulpjs.com/))
+Gulp представляет собой набор инструментов для автоматизации болезненных или трудоемких задач в рабочем процессе разработки, так что вы можете перестать возиться и что-то создавать. (Источник: [gulpjs.com](https://gulpjs.com/))
 
 ### :bulb: Кратко
 
-In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
+В современной Frontend разработке часто возникает необходимость автоматизировать такие задачи, как связывание, перемещение файлов и вставка ссылок в файлы HTML. Gulp - один из инструментов, который может помочь вам в этом!
 
 ### :book: Области обучения и идеи
 
-- Install gulp with npm
-- Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
-- In your website, set up gulp to:
-  - Compile Sass for you
-  - Put the generated CSS file in `build` subdirectory
-  - Move your web pages to the build directory
-  - Inject a reference to your generated CSS file into your web pages
+- Установка gulp с помощью npm
+- Следуйте [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) на CSS-Tricks
+- На вашем сайте настройте gulp на:
+  - Скомпилируйте Sass для вас
+  - Поместите сгенерированный CSS-файл в подкаталог `build`
+  - Переместите ваши веб-страницы в каталог сборки
+  - Вставьте ссылку на ваш сгенерированный файл CSS на ваши веб-страницы
 
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
-At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Источник: [webpack.js.org](https://webpack.js.org/concepts/))
+По своей сути webpack представляет собой пакет статических модулей для современных приложений JavaScript. Когда webpack обрабатывает ваше приложение, он самостоятельно строит граф зависимостей, который отображает каждый модуль, в котором нуждается ваш проект, и генерирует один или несколько пакетов. (Источник: [webpack.js.org](https://webpack.js.org/concepts/))
 
 ### :bulb: Кратко
 
-Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
+Представьте, что у вас есть большой проект веб-разработки с множеством разных разработчиков, работающих над множеством разных задач. Вместо того, чтобы работать в одних и тех же файлах, вы можете захотеть максимально их модульно оформить. Webpack помогает сделать это, позволяя вашей команде работать модульно, а затем, когда придет время создавать приложение, Webpack соберет все вместе: HTML, CSS / Sass, JavasScript, изображения и т.д. Webpack - не единственный пакет модулей, но является, лидером на данный момент.
 
 ### :book: Области обучения и идеи
 
-- Read [webpack concepts](https://webpack.js.org/concepts/)
+- Прочтите [webpack concepts](https://webpack.js.org/concepts/)
 - [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
 - [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
 <a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
-ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Источник: [eslint.org](https://eslint.org/docs/about/))
+ESLint - это утилита линтинга JavaScript с открытым исходным кодом, изначально созданная Николасом К. Закасом в июне 2013 года. Линтирование кода - это тип статического анализа, который часто используется для поиска проблемных шаблонов или кода, который не соответствует определенным рекомендациям по стилю. Для большинства языков программирования существуют кодовые линтеры, и компиляторы иногда включают линтинг в процесс компиляции. (Источник: [eslint.org](https://eslint.org/docs/about/))
 
 ### :bulb: Кратко
 
-Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
+Linting - это фантастический инструмент для качества кода, читабельности и согласованности. Использование линтера поможет вам отследить синтаксические ошибки и ошибки форматирования до того, как они поступят в производство. Вы можете запускать линтеры вручную или включать их в процесс сборки / развертывания.
 
 ### :book: Области обучения и идеи
 
-- Install eslint using npm
+- Установите eslint используя npm
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
-- Lint your JavaScript
+- "Отлинте" ваш JavaScript
 
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
