@@ -302,131 +302,132 @@ Linting is a fantastic tool for code quality, readability, and consistency. Usin
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
-\* Some alternatives: Vue, Angular, Ember
+\* Некоторые альтернативы: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+React (также известный как React.js или ReactJS) - это библиотека JavaScript для создания пользовательских интерфейсов. Он поддерживается компанией Facebook и сообществом индивидуальных разработчиков и компаний. React может быть использован как основа для разработки одностраничных и мобильных приложений. Комплексные React-приложения обычно требуют использования дополнительных библиотек для управления состояниями, роутинга и взаимодействия с API. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 ### :bulb: Кратко
 
-Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
+Front-end JavaScript фреймфорки находятся на передовой современной front-end разработки. Один из важнейших выводов здесь - это то, что React, несмотря на внушительную популярность, является всего лишь библиоткой для построения пользовательских интерфейсов, в то время, как фреймворки вроде Vue и Angular стремятся быть более функциональными. Например, если вы делаете приложение на React которому необходима маршрутизация на другие views, вам необходимо привнести в него что-то вроде `react-router`.
 
 ### :book: Области обучения и идеи
 
 - Начните с [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-- Refactor your website as a React app!
-- Note: `create-react-app` is a convenient tool to scaffold new React projects.
+- Проведите рефакторинг вашего вебсайта под React приложение!
+- Замечание: `create-react-app` - удобный инструмент для создания новых проектов на React.
 
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Источник: [redux.js.org](https://redux.js.org/introduction/getting-started))
+Redux является контейнером прогнозируемого состояния для JavaScript приложений. Он помогает вам писать приложения, которые ведут себя единообразно, работая в различном окружении (клиент, сервер, и естественное окружение), и легки для тестирования. Кроме того, он предоставляет большие возможности разработки, такие как редактирование кода в реальном времени в комбинации с отладчиком, с возможностью двигаться по ходу работы приложения в обратном направлении (Источник: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
 ### :bulb: Кратко
 
-As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
+В то время как вы создаете все более и более объемные front-end приложения, вы начинаете понимать как сложно обслуживать состояние приложения: такие как авторизован ли пользователь, кто этот пользователь, и особенно что происходит в приложении. Redux это замечательная беблиотека, которая поможет вам иметь один источник состояния, на котором ваше приложение будет основывать свою логику.
 
 ### :book: Области обучения и идеи
 
-- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
-- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
-  - Single source of truth
-  - State is read-only
-  - Changes are made with pure functions
-- Add Redux state management to your app!
+- Это [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- Это [Redux video series](https://egghead.io/courses/getting-started-with-redux) от Dan Abramov, создателя Redux
+- Возьмите на заметку [Redux three principles](https://redux.js.org/introduction/three-principles)
+  - Единственный источник истины
+  - Состояние только для чтения
+  - Изменения сделаные на чистых функциях
+- Добавьте Redux для управления состоянием в ваше приложение!
 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Источник: [jestjs.io](https://jestjs.io))
+Jest - восхитительный JavaScript Framework для тестирования с упором на простоту. Его применяют в проектах, использующих: Babel, TypeScript, Node, React, Angular, Vue и других! (Источник: [jestjs.io](https://jestjs.io))
 
 ### :bulb: Кратко
 
-It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
+Очень важно настроить автоматическое тестирование на ваших front-end проектах. Использование автоматического тестирования позволит делать будущие изменения с уверенностью - если вы сделали изменения и тесты прошли успешно, вы будете достаточно уверены, что не сломали никакую дополнительную функциональность. Есть множество фреймворков для тестирования; Jest - один из моих любимых.
 
 ### :book: Области обучения и идеи
 
-- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
-- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
-- Add tests to your application!
+- Изучите [Jest basics](https://jestjs.io/docs/en/getting-started)
+- Если вы используете `create-react-app`, [Jest уже настроен](https://facebook.github.io/create-react-app/docs/running-tests).
+- Добавьте тесты в ваше приложение!
 
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
-\* Alternative: Flow
+\* Альтернатива: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Источник: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+TypeScript - это язык програмирования с открытым исходным кодом, разработанный и поддерживаемый Microsoft. Это строго типизированное расширинение JavaScript, добавляющее в него возможность статической типизации. TypeScript предназначен для разработки больших приложений и транспилируется в JavaScript. Так как TypeScript расширяет JavaScript, существующие программы JavaScript также являются допустимыми TypeScript программами. TypeScript может быть использован для разработки JavaScript приложений, выполняемых как на стороне клиента, так и на стороне сервера(Node.js). (Источник: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Кратко
 
-JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+JavaScript имеет динамическую типизацию. Тем не менее, распространено мнение, что статическая типизация (т.е., определение типов переменных, классов, интерфейсов заранее) и яснее, и снижает вероятность появления дефектов/ошибок. Независимо от того, как вы относитесь к этому, важно, по крайней мере, испытать статически типизированную версию JavaScript, такую как TypeScript. Обратите внимание, что TypeScript компилируется в JavaScript и таким образом может быть интерпретирован браузерами (т.е., браузеры не имеют встроенной поддержки TypeScript).
 
 ### :book: Области обучения и идеи
 
 - [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
-- Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
+- Опционально [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Источник: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.js - это минималистичный фреймворк для серверных приложений React. (Источник: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
 ### :bulb: Кратко
 
-Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+Теперь приступим к продвинутому! К настоящему времени вы создали приложение React (или Vue или Angular), которое выполняет довольно мало работы в браузере. По разным причинам (например, SEO, озабоченность клиента по поводу эффективности), вы могли бы хотеть, чтобы ваше front-end приложение выполнялось на сервере, а не на клиенте. Вот тут и появляется такой фреймворк, как next.js.
 
 ### :book: Области обучения и идеи
 
 - Next.js [Getting Started](https://nextjs.org/learn/)
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- Create a Next.js app or migrate your existing app to Next.js
+- Создайте приложение на Next.js или переведите ваше существующее приложение на Next.js
 
-# But What About X?
+# Но что дальше?
 
-This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
+Предполагается, что этот список даст вам широкое представление о front-end экосистеме, но просто невозможно затронуть каждую отдельную тему, не говоря уже о бесчисленных инструментах в каждой области! Если вы считаете, что я упустил что-то важное, пожалуйста, посмотрите раздел [Вклад] (#contributing), чтобы узнать, как вы можете помочь улучшить это руководство.
 
-# Project Ideas
+# Идеи проектов
 
-As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+По мере прохождения #100DaysOfCode, вам понадобится один или несколько проектов, к которым вы можете применить свои новые знания. В этом разделе я попытаюсь представить несколько идей проектов, которые вы можете использовать. В качестве альтернативы, вам предлагается придумать свои собственные идеи проектот, так как эти идеи могут вас заинтересовать и мотивировать больше.
 
-- Beginner ideas:
-  - Build a portfolio website
-- Intermediate/Advanced ideas:
-  - Build a tweet analysis app (If you know back-end and API integration already)
+- Идеи для начинающих:
+  - Создайте сайт-портфолио
+- Идеи для средних/продвинутых:
+  - Создайте приложение для анализа твитов (Если вы уже знаете back-end и интеграцию с API)
   
-# Need Help?
+# Нужна помощь?
 
-Generally, I have found the following resources invaluable to learning software development:
+Как правило, я считаю следующие ресурсы бесценными для обучения разработке программного обеспечения:
 
-- Googling the issue
-- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
+- Погуглить вопрос
+- [StackOverflow](http://www.stackoverflow.com) (Есть хороший шанс, что ваш вопрос уже был задан и будет иметь высокий рейтинг в поиске Google.).
 - [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- Local software development Meetups! Most are very friendly to all experience levels.
+- Митапы местных разработчиков програмного обеспечения! Большинство из них очень дружелюбны ко всем уровням опыта.
 
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
+Если вы хотите моего вклада во что-либо, не стесняйтесь [связаться со мной в Twitter](http://www.twitter.com/nas5w), и я сделаю все возможное, чтобы попытаться предложить некоторую помощь. 
+Если вы думаете, что с учебной программой есть проблемы или у вас есть рекомендации, смотрите [секцию Помощь](#contributing) ниже.
 
-# Contributing
+# Вклад
 
-## Spread the Word
+## Распространите это
 
-If you appreciate the work done here, you can contribute significantly by spreading the word about this repository, including things like:
+Если вы цените работу, проделанную здесь, вы можете внести существенный вклад, распространяя информацию об этом репозитории:
 
-- Starring and forking this repository
-- Sharing this repository on social media
+- Поставьте звезду и сделайте форк этого репозитория
+- Делитесь этим репозиторием в социальных сетях
 
-## Contribute to this Repository
+## Внесите вклад в этот репозиторий
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
+Эта работа еще не завершена, и я очень ценю любую помощь в поддержании этой базы знаний!
 
-When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+При внесении вклада в этот репозиторий, пожалуйста, сначала обсудите изменения, которые вы хотите сделать с помощью issue, прежде чем вносить изменения. В противном случае будет очень трудно понять ваше предложение, и это может привести к тому, что вы проделаете много работы над изменением, которое не будет слито.
 
-Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
+Обратите внимание, что все участники этого проекта либо пытаются учиться, либо пытаются помочь--Будьте добры!
 
-## Pull Request Process
+## Процесс Pull Request
 
-1. Create an issue outlining the proposed pull request.
-2. Obtain approval from a project owner to make the proposed change.
-3. Create the pull request.
+1. Создайте issue с описанием предложенного pull request.
+2. Получите одобрение от владельца проекта для внесения предложенных изменений.
+3. Создайте pull request.
