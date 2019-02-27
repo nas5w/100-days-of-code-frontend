@@ -383,50 +383,51 @@ Next.js - это минималистичный фреймворк для сер
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 - Создайте приложение на Next.js или переведите ваше существующее приложение на Next.js
 
-# But What About X?
+# Но что дальше?
 
-This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
+Предполагается, что этот список даст вам широкое представление о front-end экосистеме, но просто невозможно затронуть каждую отдельную тему, не говоря уже о бесчисленных инструментах в каждой области! Если вы считаете, что я упустил что-то важное, пожалуйста, посмотрите раздел [Вклад] (#contributing), чтобы узнать, как вы можете помочь улучшить это руководство.
 
-# Project Ideas
+# Идеи проектов
 
-As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+По мере прохождения #100DaysOfCode, вам понадобится один или несколько проектов, к которым вы можете применить свои новые знания. В этом разделе я попытаюсь представить несколько идей проектов, которые вы можете использовать. В качестве альтернативы, вам предлагается придумать свои собственные идеи проектот, так как эти идеи могут вас заинтересовать и мотивировать больше.
 
-- Beginner ideas:
-  - Build a portfolio website
-- Intermediate/Advanced ideas:
-  - Build a tweet analysis app (If you know back-end and API integration already)
+- Идеи для начинающих:
+  - Создайте сайт-портфолио
+- Идеи для средних/продвинутых:
+  - Создайте приложение для анализа твитов (Если вы уже знаете back-end и интеграцию с API)
   
-# Need Help?
+# Нужна помощь?
 
-Generally, I have found the following resources invaluable to learning software development:
+Как правило, я считаю следующие ресурсы бесценными для обучения разработке программного обеспечения:
 
-- Googling the issue
-- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
+- Погуглить вопрос
+- [StackOverflow](http://www.stackoverflow.com) (Есть хороший шанс, что ваш вопрос уже был задан и будет иметь высокий рейтинг в поиске Google.).
 - [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- Local software development Meetups! Most are very friendly to all experience levels.
+- Митапы местных разработчиков програмного обеспечения! Большинство из них очень дружелюбны ко всем уровням опыта.
 
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
+Если вы хотите моего вклада во что-либо, не стесняйтесь [связаться со мной в Twitter](http://www.twitter.com/nas5w), и я сделаю все возможное, чтобы попытаться предложить некоторую помощь. 
+Если вы думаете, что с учебной программой есть проблемы или у вас есть рекомендации, смотрите [секцию Помощь](#contributing) ниже.
 
-# Contributing
+# Вклад
 
-## Spread the Word
+## Распространите это
 
-If you appreciate the work done here, you can contribute significantly by spreading the word about this repository, including things like:
+Если вы цените работу, проделанную здесь, вы можете внести существенный вклад, распространяя информацию об этом репозитории:
 
-- Starring and forking this repository
-- Sharing this repository on social media
+- Поставьте звезду и сделайте форк этого репозитория
+- Делитесь этим репозиторием в социальных сетях
 
-## Contribute to this Repository
+## Внесите вклад в этот репозиторий
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
+Эта работа еще не завершена, и я очень ценю любую помощь в поддержании этой базы знаний!
 
-When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+При внесении вклада в этот репозиторий, пожалуйста, сначала обсудите изменения, которые вы хотите сделать с помощью issue, прежде чем вносить изменения. В противном случае будет очень трудно понять ваше предложение, и это может привести к тому, что вы проделаете много работы над изменением, которое не будет слито.
 
-Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
+Обратите внимание, что все участники этого проекта либо пытаются учиться, либо пытаются помочь--Будьте добры!
 
-## Pull Request Process
+## Процесс Pull Request
 
-1. Create an issue outlining the proposed pull request.
-2. Obtain approval from a project owner to make the proposed change.
-3. Create the pull request.
+1. Создайте issue с описанием предложенного pull request.
+2. Получите одобрение от владельца проекта для внесения предложенных изменений.
+3. Создайте pull request.
