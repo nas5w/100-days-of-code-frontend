@@ -371,17 +371,17 @@ JavaScript имеет динамическую типизацию. Тем не �
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Источник: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.js - это минималистичный фреймворк для серверных приложений React. (Источник: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
 ### :bulb: Кратко
 
-Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+Теперь приступим к продвинутому! К настоящему времени вы создали приложение React (или Vue или Angular), которое выполняет довольно мало работы в браузере. По разным причинам (например, SEO, озабоченность клиента по поводу эффективности), вы могли бы хотеть, чтобы ваше front-end приложение выполнялось на сервере, а не на клиенте. Вот тут и появляется такой фреймворк, как next.js.
 
 ### :book: Области обучения и идеи
 
 - Next.js [Getting Started](https://nextjs.org/learn/)
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- Create a Next.js app or migrate your existing app to Next.js
+- Создайте приложение на Next.js или переведите ваше существующее приложение на Next.js
 
 # But What About X?
 
