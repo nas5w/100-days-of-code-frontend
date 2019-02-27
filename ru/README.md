@@ -220,35 +220,35 @@ Sass позволяет писать CSS более программным сп�
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
-\* Some alternatives: Foundation, Bulma, Materialize
+\* Другие альтернативы: Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
+Bootstrap - это бесплатная платформа с открытым исходным кодом для разработки веб-сайтов и веб-приложений. Он содержит HTML и CSS шаблоны оформления для типографики, форм, кнопок, навигации и прочих компонентов интерфейсов, включая JavaScript расширения. (Источник: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
 
 ### :bulb: Кратко
 
-There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
+Существует много вариантов компоновки, стилизации и создания динамического веб-приложения, но вы обнаружите, что начинание с фреймворка очень помогает вам быстро начать работу. Bootstrap - один из таких фреймворков, но это определенно далеко не единственный вариант! Я рекомендую ознакомиться с одним из таких фреймворков, но гораздо важнее понять основы HTML, CSS и JavaScript, чем увязать в каком-либо одном фреймворке.
 
 ### :book: Области обучения и идеи
 
-- Learn what Bootstrap is and why you would want to use it
+- Узнайте, что такое Bootstrap и почему вы хотите его использовать
 - [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
-- Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
-- Refactor your site using bootstrap!
+- Выполните раздел Bootstrap на [freeCodeCamp](https://learn.freecodecamp.org/)
+- Рефакторинг вашего сайта с помощью Bootstrap!
 
 <a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
-The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Источник: [css-tricks.com](https://css-tricks.com/bem-101/))
+Методология Block, Element, Modifier (обычно называемая BEM) - это популярное соглашение об именах для классов в HTML и CSS. Его цель, разработанная командой «Яндекс», заключается в том, чтобы помочь разработчикам лучше понять взаимосвязь между HTML и CSS в данном проекте. (Источник: [css-tricks.com](https://css-tricks.com/bem-101/))
 
 ### :bulb: Кратко
 
-It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
+Важно знать, что системы именования и организации, такие как BEM, существуют и почему они используются. Проведите здесь некоторое исследование, но на начальном уровне я бы не рекомендовал уделять слишком много времени этому вопросу.
 
 ### :book: Области обучения и идеи
 
-- Read the [BEM introduction](http://getbem.com/introduction/)
+- Прочтите [BEM introduction](http://getbem.com/introduction/)
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
-- Create a simple webpage using BEM conventions.
+- Создайте простую веб-страницу, используя методологию БЭМ.
 
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
@@ -424,7 +424,7 @@ Next.js - это минималистичный фреймворк для сер
 
 При внесении вклада в этот репозиторий, пожалуйста, сначала обсудите изменения, которые вы хотите сделать с помощью issue, прежде чем вносить изменения. В противном случае будет очень трудно понять ваше предложение, и это может привести к тому, что вы проделаете много работы над изменением, которое не будет слито.
 
-Обратите внимание, что все участники этого проекта либо пытаются учиться, либо пытаются помочь--Будьте добры!
+Обратите внимание, что все участники этого проекта либо пытаются учиться, либо пытаются помочь - Будьте добры!
 
 ## Процесс Pull Request
 
