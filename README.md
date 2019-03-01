@@ -10,6 +10,12 @@ This curriculum was influenced significantly by Kamran Ahmed's [Modern Frontend 
 
 **Note**: I know front-end development means a lot of different things to a lot of people! If you're a front-end developer and you think this guide could be improved, please let me know by raising an issue as described in the [Contributing](#contributing) section. Thank you!
 
+# Translations
+
+Thanks to some incredible contributors, this curriculum has been translated into the following languages!
+
+- [Russian русский](/ru) (translation by @Ibochkarev and @JonikUl)
+
 # :calendar: Curriculum
 
 The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely experienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. 
