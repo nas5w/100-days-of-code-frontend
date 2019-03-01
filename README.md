@@ -14,7 +14,7 @@ This curriculum was influenced significantly by Kamran Ahmed's [Modern Frontend 
 
 Thanks to some incredible contributors, this curriculum has been translated into the following languages!
 
-- [Russian русский](/ru) (translation by @Ibochkarev and @JonikUl)
+- [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
 
 # :calendar: Curriculum
 
