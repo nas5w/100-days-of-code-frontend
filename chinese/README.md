@@ -10,13 +10,13 @@
 
 **注意**：我知道不同的人对前端开发的理解或者掌握是不一样的，如果您是个前端开发者，认为这个课程可以做的更好，请在[Contributing](#contributing)功能区提交一个issue来描述您的想法，谢谢！
 
-# Translations
+# 翻译
 
 感谢一些热情的贡献者，这个课程已经被翻译成如下的语言！
 
 - [俄文](/ru) (翻译者： [@Ibochkarev](https://github.com/Ibochkarev) 和 [@JonikUl](https://github.com/JonikUl))
 
-# :calendar: Curriculum
+# :calendar: 总课程
 
 这个仓库的核心原则是[时间盒](https://en.wikipedia.org/wiki/Timeboxing)。如果你过去你已经发费了一些时间学习web开发或者相似的技能，你可能已经经历过课程中一些主题。这个仓库的目的就是给每个主题划定一个时间段，一旦是个主题的时间已过，你就应该前往下一个主题继续学习。
 
@@ -44,7 +44,7 @@
 - 第 95-97 天: [TypeScript](#typescript)
 - 第 98-100 天: [NextJS](#nextjs)
 
-# :mag_right: The Details
+# :mag_right: 细节
 
 接下来你能从这个课程里找到一些有关每个主题的信息或者学习向导。获取与此项目有关的一些灵感，请看[项目思想章节](#project-ideas)。
 
@@ -55,11 +55,11 @@
 
 超文本标记语言（HTML）是创建web页面和应用的标准语言。加上层叠样式表（CSS），是万维网的基石。Web浏览器从服务端或者本地存储接收HTML文档，然后将它渲染层页面。HTML从语义上描述了一个页面的结构，以及包含了文档结构的提示。（来源：[Wikipedia](https://en.wikipedia.org/wiki/HTML)）
 
-### :bulb: Quick Takeaway
+### :bulb: 快速开始
 
 HTML真的是web开发的基石。即使是在基于javascript开发框架的今天，你只不过是以另一种形式编写HTML而已。
 
-### :book: Learning Areas and Ideas
+### :book: 学习章节和灵感
 
 - Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
 - HTML page structure
@@ -72,36 +72,48 @@ HTML真的是web开发的基石。即使是在基于javascript开发框架的今
 - Forms and form elements
 - Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
 
+- 在freeCodeCamp上学习[基础HTML和HTML5章节](https://learn.freecodecamp.org/).
+- HTML页面结构
+- HTML元素
+- 嵌套HTML元素
+- 语义化标记
+- 链接 / 多页
+- 图片
+- 音频 / 视频媒体
+- 表单和表单元素
+- 创建一个多页网站 (如果你需要一些灵感，查看 [项目灵感](#project-ideas) ).
+
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
+层叠样式表（CSS）是一个样式脚本语言，被用来描述通过标记语言例如HTML编写的文档的表现。CSS是万维网的基石技术。CSS能够使文档的表现和内容分离，包括布局，颜色和尺寸。这种分离能够提高文本的可访问性，在表现特征方面，提供了更多的灵活性和可控制性，通过引入分离开的.css文件，使多页应用能够共享表现，降低了复杂度和重复性的内容。（来源：[Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)）
 
-### :bulb: Quick Takeaway
 
-CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
+### :bulb: 快速开始
 
-### :book: Learning Areas and Ideas
+CSS是另外一种很重要的的web组件开发的技术。因为它主要被用于描述和层现HTML元素，它逐渐变得变得越来强大，能够处理一些之前只能由javascript处理的内容，比如动画。
 
-- Take the [Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- In-line CSS
-- `<style>` tags
-- External CSS with `<link>`
-- Styling elements
-- Selectors
-- Floats, clearing floats
-- Layouts (grid, flexbox)
-- Fonts, custom fonts
-- Style the HTML page(s) you made when learning HTML!
+### :book: 学习章节和灵感
+
+- 在freeCodeCamp上学习[基础CSS，CSS felxbox, 和CSS grid 布局部分](https://learn.freecodecamp.org/).
+- 形内CSS
+- `<style>` 标签
+- 通过 `<link>` 引入CSS
+- 样式元素
+- 选择器
+- 浮动，清除浮动
+- 布局 (grid, flexbox)
+- 字体，自定义字体
+- 当学习HTML的时候，布局HTML页面
 
 <a name="javascript"></a>
 ![JavaScript](https://i.imgur.com/oHdD86j.jpg)
 
-JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
+JavaScript，经常被简称为JS，是一个高水准的，符合ECMAScript规范的解释性语言。它同时也是一个动态型的，弱类型的，基于原型的语言。和HTML和CSS一样，JavaScript是web开发当中三种核心技术之一。JavaScript能够使web页面具有可交互性，因此是web应用开发当中重要的一部分。绝大多数网站都使用它，并且大多数web浏览器都有专门的javascript引擎来执行它。(来源: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
 ### :bulb: Quick Takeaway
 
-JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
+在今天的前端开发世界，JavaScript已经变得越来越重要了。过去它只是被用来创建动态页面，如今它是很多前端开发框架的基石。这些框架处理了很多过去常常是后端处理的一些任务，比如路由和分发不同的视图。
 
 ### :book: Learning Areas and Ideas
 
@@ -114,33 +126,42 @@ JavaScript has become increasingly important in the front-end world. While it wa
 - Reference vs. value
 - Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
 
+- 在freeCodeCamp上学习[JavaScript基础知识以及ES6相关知识](https://learn.freecodecamp.org/)。
+- 太多有关这门语言的基础需要罗列
+- `<script>` 标签和放置位置
+- 访问HTML元素
+- 事件循环、调用栈和事件队列
+- 原型继承
+- 值引用和地址引用
+- 动态添加一些元素和逻辑到您的页面上
+
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
+jQuery是一个快速的，小巧的和功能丰富的JavaScript库。相比使用原生API，他让遍历和操控HTML文档，事件处理，动画和发送Ajax请求变得更容易。由于它的丰富功能以及可扩展性，jQuery已经改变了成千上万开发者编写JavaScript的方式。(来源: [jQuery.com](https://jquery.com/))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速开始
 
-After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
+在您花费了一些时间使用原生javascript之后，您可能发现它会有点繁琐，尤其是访问和操纵HTML元素。相当一段时间，jQuery是首选的让这些跨浏览器的事情处理起来更容易的库，如今，随着原生javascript，css和新的框架的不断发展（我们之后再细看框架），jQuery不再是必需要学的技术点，然而，花费少量时间去学习它并且把它运用在一些小的项目里还是值得的。
 
 ### :book: Learning Areas and Ideas
 
-- Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Document ready
-- Selectors
-- Toggle classes
-- Animation
-- Add or move HTML elements
-- Add jQuery to your site!
+- 在freeCodeCamp上学习[jQuery](https://learn.freecodecamp.org/).
+- 文档初始化
+- 选择器
+- 切换类
+- 动画
+- 增加或者删除元素
+- 添加jQuery到你的网站上！
 
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
-Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
+响应式设计（RWD）是一种能够使页面在不同设备窗口或不同屏幕尺寸良好渲染的设计方式。现在还需要将试图内容显示优先级作为RWD设计的一部分。内容，设计和性能都是重要的，确保跨设备访问的易用性和满意度。一个响应式设计的网站通过使用流式布局，基于比例的网格，伸缩性图片和CSS3媒体查询使得网站能够适配布局不同的显示环境。(来源: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
 ### :bulb: Quick Takeaway
 
-Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+响应式设计的全部内容就是使得web应用能够在所有的设备里面正常查看和运行。一个实际点的描述就是一个网站能够在桌面浏览器和移动端手机浏览器上能够正常查看和运行。理解响应式设计对于前端开发者来讲很重要。
 
 ### :book: Learning Areas and Ideas
 
@@ -150,14 +171,20 @@ Responsive web design is all about making web applications look and function pro
 - Make your website responsive!
 - Use Chrome DevTools to view your site on different devices/viewports.
 
+- 在freeCodeCamp上学习[响应式设计布局方法](https://learn.freecodecamp.org/).
+- 媒体查询，断点
+- 响应式图片
+- 让你的网站能够响应式
+- 使用Chrome开发者工具查看你的网站在不同设备/视图的展现
+
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
-Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+页面可访问性是指网站能够让残疾人正常访问和交互的包容性的一种做法。一个网站如果被合理的设计，开发，应该是能够让所有用户都能够获取信息和使用功能的。(来源: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
 ### :bulb: Quick Takeaway
 
-Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
+可访问性，经常被简写为a11y，是前端web开发重要的主题之一，然而它经常被忽视。创建可访问性web应用不仅仅是出于道德，考虑这部分用户从商业角度也是存在很多价值的。
 
 ### :book: Learning Areas and Ideas
 
@@ -165,22 +192,30 @@ Accessibility, often written as a11y, is one of the most important topics in fro
 - Read some content on [The A11Y Project](https://a11yproject.com/about)
 - Review their [checklist](https://a11yproject.com/checklist)
 - Update your site(s) for accessibility based on this checklist
+- 从freeCodeCamp上学习 [使用可访问性设计](https://learn.freecodecamp.org/).
+- 阅读一些有关a11y的内容 [A11y项目](https://a11yproject.com/about)
+- 回顾可防性的一些关键细节 [checklist](https://a11yproject.com/checklist)
+- 基于这个checklist，给你的网站加上可访问性的一些功能
 
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
 
+Git是一个免费和开源的分布式版本控制系统，提升项目开发的速度和效率。(来源： [git-scm.com](https://git-scm.com/))
+
 ### :bulb: Quick Takeaway
 
 Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
 
+版本控制是web开发者重要的工具之一。有许多不同的版本控制系统，如今Git是最流行的一个。你应该学会使用Git来管理你的项目！
+
 ### :book: Learning Areas and Ideas
 
-- [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- Install git
-- Set up a [github](https://github.com) account
-- Learn the most-used git commands:
+- [面向初学者的Git教程](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- 安装git
+- 简历一个 [github](https://github.com) 账户
+- 学习最常使用的Git命令:
   - init
   - clone
   - add
@@ -189,250 +224,249 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - pull
   - merge
   - rebase
-- Add your existing projects to github!
+- 把您本地的项目上传到github
 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
+Node.js是一个开源的，跨平台的能够使javascript代码在浏览器之外运行的环境。JavaScript主要用于客户端脚本，其中用JavaScript编写的脚本嵌入在网页的HTML中，并在用户的Web浏览器中通过JavaScript引擎在客户端运行。Node.js允许开发人员使用JavaScript编写命令行工具，并在服务器端运行脚本，以便在将页面发送到用户的Web浏览器之前生成动态网页内容。因此，Node.js代表了“JavaScript无处不在”的范例，围绕单一编程语言统一Web应用程序开发，而不是服务器端和客户端脚本的不同语言。
+
 ### :bulb: Quick Takeaway
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+虽然nodejs通常被称为后端解决方案，但它经常用于支持前端开发。它通过多种方式实现这一点，包括运行构建工具，测试和规范检查（所有这些都很快就会被覆盖！）。节点包管理器（npm）是node的另一个重要特性，可用于管理项目的依赖关系（即，项目可能依赖的代码库 - jQuery就是一个例子！）。
 
 ### :book: Learning Areas and Ideas
 
-- Research node and how it is different than the browser
-- Install node (npm comes with it)
-- Create a simple javascript file and run it with node
-- Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
+- 研究node以及它与浏览器的不同之处
+- 安装node（包含npm）
+- 创建一个简单的javascript文件并使用node运行它
+- 使用NPM管理现有项目中的任何依赖项（例如，jQuery！）
 
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
-Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
-
+Sass是CSS的扩展，为基本语言增添了力量和优雅。它允许您使用变量，嵌套规则，混合，内联导入等，所有这些都使用完全CSS兼容的语法。 Sass有助于保持大型样式表的良好组织，并使小样式表快速启动和运行，特别是在Compass样式库的帮助下。(来源: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 ### :bulb: Quick Takeaway
 
-Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
+Sass允许您以更加编程的方式编写CSS。如果您已经完成了一些CSS，您可能已经注意到最终会重复大量信息 - 例如，指定相同的颜色代码。在Sass中，您可以使用变量，循环和嵌套等内容来减少冗余并提高可读性。在Sass中编写代码后，您可以快速轻松地将其编译为常规CSS。
 
 ### :book: Learning Areas and Ideas
 
-- [Install Sass](https://sass-lang.com/install) globally with npm!
+- [Install Sass](https://sass-lang.com/install) 通过npm全局安装!
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
-- Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
-- Update your existing site to generate your CSS using Sass!
+- 关注 [Learn Sass](https://sass-lang.com/guide) 教程或者 [freeCodeCamp](https://learn.freecodecamp.org/) Sass 教程.
+- 更新现有网站，使用Sass生成CSS！
 
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
-\* Some alternatives: Foundation, Bulma, Materialize
+\* 相似的库: Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
-
+Bootstrap是一个免费的开源前端框架，用于开发网站和Web应用程序。它包含用于排版，表单，按钮，导航和其他界面组件的HTML和基于CSS的设计模板，以及可选的JavaScript扩展。(摘自: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
 ### :bulb: Quick Takeaway
 
-There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
+布局，样式化和使Web应用程序动态化有很多选择，但是你会发现从框架开始可以帮助你获得良好的开端。 Bootstrap就是这样一个框架，但它绝对不是唯一的选择！我建议熟悉这样的一个框架，但掌握HTML，CSS和JavaScript基础知识要比陷入任何一个框架要重要得多。
 
 ### :book: Learning Areas and Ideas
 
-- Learn what Bootstrap is and why you would want to use it
+- 了解Bootstrap是什么以及为什么要使用它
 - [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
-- Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
-- Refactor your site using bootstrap!
+- 完成Bootstrap部分在 [freeCodeCamp](https://learn.freecodecamp.org/)
+- 使用bootstrap重构您的网站！
 
 <a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
-The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
+块，元素，修饰符方法（通常称为BEM）是HTML和CSS中类的流行命名约定。由Yandex团队开发，其目标是帮助开发人员更好地理解给定项目中HTML和CSS之间的关系。(摘自: [css-tricks.com](https://css-tricks.com/bem-101/))
 
 ### :bulb: Quick Takeaway
 
-It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
+了解BEM等命名和组织系统以及使用它们的原因非常重要。在这里做一些研究，但如果您是初学者，我不建议花太多时间在这个主题上。
 
 ### :book: Learning Areas and Ideas
 
-- Read the [BEM introduction](http://getbem.com/introduction/)
+- 了解 [BEM 介绍](http://getbem.com/introduction/)
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
-- Create a simple webpage using BEM conventions.
+- 使用BEM约定创建一个简单的网页。
 
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
-Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
+Gulp是一个工具包，用于在开发工作流程中自动执行痛苦或耗时的任务，因此您可以停止杂乱的开发并构建一些东西。(摘自: [gulpjs.com](https://gulpjs.com/))
 
 ### :bulb: Quick Takeaway
 
-In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
+在现代前端开发中，您经常会发现自己需要自动执行捆绑，移动文件和将引用注入HTML文件等任务。 Gulp是一款可以帮助您完成这些工作的工具！
 
 ### :book: Learning Areas and Ideas
 
-- Install gulp with npm
-- Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
-- In your website, set up gulp to:
-  - Compile Sass for you
-  - Put the generated CSS file in `build` subdirectory
-  - Move your web pages to the build directory
-  - Inject a reference to your generated CSS file into your web pages
+- 用npm安装gulp
+- 关于CSS-Tricks的[gulp for beginners tutorial]（https://css-tricks.com/gulp-for-beginners/）
+- 在您的网站上，设置gulp为：
+   - 为你编译Sass
+   - 将生成的CSS文件放在`build`子目录中
+   - 将您的网页移动到构建目录
+   - 将生成的CSS文件的引用注入到您的网页中
 
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
-At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
+webpack的核心是现代JavaScript应用程序的静态模块捆绑器。当webpack处理您的应用程序时，它会在内部构建一个依赖关系图，它映射您的项目所需的每个模块并生成一个或多个包。 (摘自: [webpack.js.org](https://webpack.js.org/concepts/))
 
 ### :bulb: Quick Takeaway
 
-Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
+想象一下，您有一个大型的Web开发项目，其中有许多不同的开发人员正在处理许多不同的任务。您可能希望尽可能地模块化它们，而不是所有工作在相同的文件中。 Webpack通过让您的团队以模块化方式工作来帮助实现这一目标，然后花点时间构建应用程序，Webpack将它们粘在一起：HTML，CSS / Sass，JavasScript，图像等.Webpack不是唯一的模块捆绑器，但它目前似乎是领跑者。
 
 ### :book: Learning Areas and Ideas
 
-- Read [webpack concepts](https://webpack.js.org/concepts/)
-- [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
-- [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+- 阅读 [webpack 核心概念](https://webpack.js.org/concepts/)
+- [webpack是什么，它是怎么工作的? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+- [webpack 教程](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
 <a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
-ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
+ESLint是一个开源JavaScript linting实用程序，最初由Nicholas C. Zakas于2013年6月创建。代码linting是一种静态分析，经常用于查找不符合某些样式指南的有问题的模式或代码。大多数编程语言都有代码链接，编译器有时会在编译过程中加入linting。 (摘自: [eslint.org](https://eslint.org/docs/about/))
 
 ### :bulb: Quick Takeaway
 
-Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
+Linting是代码质量，可读性和一致性的绝佳工具。使用linter将帮助您在进入生产之前捕获语法和格式错误。您可以手动运行linters或将其包含在构建/部署过程中。
 
 ### :book: Learning Areas and Ideas
 
-- Install eslint using npm
+- 使用npm安装eslint
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
-- Lint your JavaScript
+- 检查您的代码
 
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
 \* Some alternatives: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+React（也称为React.js或ReactJS）是用于构建用户界面的JavaScript库。它由Facebook和个人开发者和公司的社区维护。 React可以用作开发单页或移动应用程序的基础。 复杂的React应用程序通常需要使用其他库来进行状态管理，路由以及与API的交互。 (摘自: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 ### :bulb: Quick Takeaway
 
-Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
+前端JavaScript框架处于现代前端开发的最前沿。这里的一个重要内容是React尽管非常受欢迎，但它只是一个用于构建用户界面的库，而像Vue和Angular这样的框架旨在提供更全面的功能。例如，如果你在React中构建一个需要路由到不同视图的应用程序，你需要引入类似`react-router`的东西。
 
 ### :book: Learning Areas and Ideas
 
-- Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
-- [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-- Refactor your website as a React app!
-- Note: `create-react-app` is a convenient tool to scaffold new React projects.
+- 参考[React tutorial]（https://reactjs.org/tutorial/tutorial.html）
+- [跟着Mosh学习react]（https://www.youtube.com/watch?v=Ke90Tje7VS0）
+- 将您的网站重构为React应用程序！
+- 注意：`create-react-app`是一个支持新React项目的便捷工具。
 
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
+Redux是JavaScript应用程序的可预测状态容器。它可以帮助您编写行为一致的应用程序，在不同的环境（客户端，服务器和本机）中运行，并且易于测试。最重要的是，它提供了出色的开发人员体验，例如实时代码编辑与时间旅行调试器相结合。 (摘自: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
 ### :bulb: Quick Takeaway
 
-As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
+随着您构建越来越大的前端应用程序，您开始意识到维护应用程序状态很难：例如用户是否登录，用户是谁，以及应用程序中正在发生的事情。 Redux是一个很棒的库，可以帮助您维护应用程序可以基于其逻辑的单一状态源。
 
 ### :book: Learning Areas and Ideas
 
-- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
-- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
-  - Single source of truth
-  - State is read-only
-  - Changes are made with pure functions
-- Add Redux state management to your app!
-
+- [Redux视频教程]（https://www.youtube.com/watch?v=93p3LxR9xfM）
+- Redux的创建者Dan Abramov的[Redux视频系列]（https://egghead.io/courses/getting-started-with-redux）
+- 注意[Redux三原则]（https://redux.js.org/introduction/three-principles）
+   - 单一的事实来源
+   - 状态是只读的
+   - 使用纯函数进行更改
+- 将Redux状态管理添加到您的应用程序
+  
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
+Jest是一个令人愉快的JavaScript测试框架，专注于简单性。它适用于以下项目：Babel，TypeScript，Node，React，Angular，Vue等等！ (摘自: [jestjs.io](https://jestjs.io))
 
 ### :bulb: Quick Takeaway
 
-It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
+为前端项目设置自动化测试非常重要。设置自动化测试将使您可以放心地进行未来的更改 - 如果您进行了更改并且测试仍然通过，那么您可以相当自在地放弃任何现有功能。要列出的测试框架太多了; Jest只是我最喜欢的一个。
 
 ### :book: Learning Areas and Ideas
 
-- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
-- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
-- Add tests to your application!
+- 学习 [Jest 基础](https://jestjs.io/docs/en/getting-started)
+- 如果你用 `create-react-app`, [Jest 已经被集成了](https://facebook.github.io/create-react-app/docs/running-tests).
+- 给你的应用增加测试
 
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
-\* Alternative: Flow
+\* 可选择的相似的库: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+TypeScript是Microsoft开发和维护的一种开源编程语言。它是JavaScript的严格语法超集，并为该语言添加了可选的静态类型。 TypeScript旨在开发大型应用程序并转换为JavaScript。由于TypeScript是JavaScript的超集，现有的JavaScript程序也是有效的TypeScript程序。 TypeScript可用于为客户端和服务器端（Node.js）执行开发JavaScript应用程序。(摘自: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Quick Takeaway
 
-JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+JavaScript是动态类型的。然而，人们普遍认为静态类型（即，提前指定变量类型，类，接口）更清晰并且降低了缺陷/错误的可能性。无论您对该主题的看法如何，至少要了解像TypeScript这样的静态类型的JavaScript。请注意，TypeScript可编译为JavaScript，因此浏览器可以解释它（即浏览器本身不会解释TypeScript）。
 
 ### :book: Learning Areas and Ideas
 
-- [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
-- [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
-- Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
+- [5分钟内学习TypeScript](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
+- [50分钟内学习TypeScript (视频)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
+- 可选的 [通过TypeScript来编写一个React应用](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.js是服务器呈现的React应用程序的简约框架。(摘自: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
 ### :bulb: Quick Takeaway
 
-Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+现在我们正在进步！到目前为止，您已经构建了一个React（或Vue或Angular）应用程序，它在浏览器中完成了相当多的工作。由于各种原因（例如，SEO，对客户端性能的担忧），您可能实际上希望您的前端应用程序在服务端渲染，而不是在客户端。这就是像next.js这样的框架进来的地方。
 
 ### :book: Learning Areas and Ideas
 
-- Next.js [Getting Started](https://nextjs.org/learn/)
-- [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- Create a Next.js app or migrate your existing app to Next.js
+- Next.js [开始学习](https://nextjs.org/learn/)
+- [Next.js速成课程 (视频)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+- 创建Next.js应用程序或将现有应用程序迁移到Next.js
 
 # But What About X?
 
-This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
+这个列表可以让你广泛接触前端生态系统，但是根本不可能覆盖到每一个主题，更不用说每个领域内的无数工具了！如果您认为我遗漏了一些非常重要的内容，请参阅[贡献]（＃contributions）部分，了解如何帮助您更好地完善本指南。
 
 # Project Ideas
 
-As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+当您进入＃100DaysOfCode时，您想要一个或多个项目能够运用您学习到的新知识。在本节中，我将尝试提供一些您可以使用的项目创意。或者，我们鼓励您提出自己的项目想法，因为这些想法可能会引起您的兴趣和激励。
 
-- Beginner ideas:
-  - Build a portfolio website
-- Intermediate/Advanced ideas:
-  - Build a tweet analysis app (If you know back-end and API integration already)
-  
+- 初学者的想法：
+   - 建立投资组合网站
+- 中级/高级创意：
+   - 构建推文分析应用程序（如果您已经知道后端和API集成）
+
 # Need Help?
 
-Generally, I have found the following resources invaluable to learning software development:
+通常，我发现以下资源对学习软件开发非常宝贵：
+- 谷歌搜索问题
+- [StackOverflow]（http://www.stackoverflow.com）（很有可能你的问题已被提出，并且在谷歌搜索时将是一个高级别的结果）。
+- [Mozilla MDN Web Docs]（https://developer.mozilla.org/en-US/）
+- [freeCodeCamp]（https://www.freecodecamp.org/）
+- 本地软件开发Meetups！大多数人对所有经验水平都非常友好。
 
-- Googling the issue
-- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
-- [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- Local software development Meetups! Most are very friendly to all experience levels.
-
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
+如果你喜欢我对任何事情的意见，请随时[在Twitter上与我联系]（http://www.twitter.com/nas5w），我会尽力提供一些帮助。如果您认为课程有问题或有建议，请参阅下面的[贡献部分]（＃contributions）。
 
 # Contributing
 
 ## Spread the Word
 
-If you appreciate the work done here, you can contribute significantly by spreading the word about this repository, including things like:
+如果您喜欢这个项目，您可以通过传播有关这个仓库的信息来做出重大贡献，包括：
 
-- Starring and forking this repository
-- Sharing this repository on social media
+- Starring和forking此仓库
+- 在社交媒体上共享这个仓库
 
 ## Contribute to this Repository
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
+这是一项正在进行中的工作，我非常感谢您在维护此知识库方面的任何帮助！
 
-When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+在您为这个仓库做贡献时，请先在issue提出您需要贡献的主题。否则，我将很难理解您的提案，并可能导致您为不会合并的更改投入大量工作。
 
-Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
+请注意，参与此项目的每个人都在尝试学习或尝试提供帮助 - 请保持友善！
 
 ## Pull Request Process
 
-1. Create an issue outlining the proposed pull request.
-2. Obtain approval from a project owner to make the proposed change.
-3. Create the pull request.
+1. 建立一个issue，描述您需要提的pr的目的
+2. 获得项目所有者的批准以进行建议的更改。
+3. 提一个pr
