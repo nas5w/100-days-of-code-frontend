@@ -4,9 +4,9 @@
 
 ---
 
-这是一个稍微有失公证的在100天内学会前端开发的课程。由于这个课程涉及了大部分的前端开发相关的主题，并没有深入的去探究某个主题，因而它更适合用来作为一个学习方向性的指导。理想情况下，您完成了这个课程之后，您对每个主题至少都能了解，并且在将来需要的时候能够方便的进行深入探究。
+这是一门有点宽泛的在#100DaysOfCode学习前端开发的课程。由于这个课程涉及了大部分的前端开发相关的主题，但并没有深入的去探究某个主题，因而它更适合用来作为一个学习方向性的指导。理想情况下，您完成了这个课程之后，您至少对每个主题都能了解，并且在将来需要的时候能够方便的进行深入探究。
 
-这个课程被 Kamran Ahmed's [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) 图谱深刻影响，请关注下这个非常优秀的图谱。
+这个课程受 Kamran Ahmed's [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) 图谱深刻影响，请关注下这个非常优秀的图谱。
 
 **注意**：我知道不同的人对前端开发的理解或者掌握是不一样的，如果您是个前端开发者，认为这个课程可以做的更好，请在[Contributing](#contributing)功能区提交一个issue来描述您的想法，谢谢！
 
@@ -18,7 +18,7 @@
 
 # :calendar: 总课程
 
-这个仓库的核心原则是[时间盒](https://en.wikipedia.org/wiki/Timeboxing)。如果你过去你已经发费了一些时间学习web开发或者相似的技能，你可能已经经历过课程中一些主题。这个仓库的目的就是给每个主题划定一个时间段，一旦是个主题的时间已过，你就应该前往下一个主题继续学习。
+这个仓库的核心原则是[时间区块](https://en.wikipedia.org/wiki/Timeboxing)。如果你过去你已经花费了一些时间学习web开发或者相似的技能，你可能已经经历过课程中一些主题。这个仓库的目的就是给每个主题划定一个时间段，一旦某个主题的时间已过，你就应该前往下一个主题继续学习。
 
 开始这个挑战前，可能每个参加者的开发水平不一致，这没关系，不管您是初学者或者是专家，都能从每个主题里面收获到新的知识。
 
@@ -44,33 +44,22 @@
 - 第 95-97 天: [TypeScript](#typescript)
 - 第 98-100 天: [NextJS](#nextjs)
 
-# :mag_right: 细节
+# :mag_right: 说明
 
 接下来你能从这个课程里找到一些有关每个主题的信息或者学习向导。获取与此项目有关的一些灵感，请看[项目思想章节](#project-ideas)。
 
-作为时间盒原则的一部分，如果你不能通过“学习领域和思想”当中的所有项目。你应该把主要精力放在你能够投入的部分，然后继续学习其他部分。
+作为时间区块原则的一部分，如果你不能通过“学习章节和灵感”当中的所有项目。你应该把主要精力放在你能够投入的部分，然后继续学习其他部分。
 
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
 超文本标记语言（HTML）是创建web页面和应用的标准语言。加上层叠样式表（CSS），是万维网的基石。Web浏览器从服务端或者本地存储接收HTML文档，然后将它渲染层页面。HTML从语义上描述了一个页面的结构，以及包含了文档结构的提示。（来源：[Wikipedia](https://en.wikipedia.org/wiki/HTML)）
 
-### :bulb: 快速开始
+### :bulb: 快速了解
 
 HTML真的是web开发的基石。即使是在基于javascript开发框架的今天，你只不过是以另一种形式编写HTML而已。
 
-### :book: 学习章节和灵感
-
-- Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- HTML page structure
-- HTML elements
-- Nesting HTML elements
-- Semantic markup
-- Links / multiple pages
-- Images
-- Audio/video media
-- Forms and form elements
-- Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
+### :book: 学习要点和想法
 
 - 在freeCodeCamp上学习[基础HTML和HTML5章节](https://learn.freecodecamp.org/).
 - HTML页面结构
@@ -82,14 +71,13 @@ HTML真的是web开发的基石。即使是在基于javascript开发框架的今
 - 音频 / 视频媒体
 - 表单和表单元素
 - 创建一个多页网站 (如果你需要一些灵感，查看 [项目灵感](#project-ideas) ).
-
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
 层叠样式表（CSS）是一个样式脚本语言，被用来描述通过标记语言例如HTML编写的文档的表现。CSS是万维网的基石技术。CSS能够使文档的表现和内容分离，包括布局，颜色和尺寸。这种分离能够提高文本的可访问性，在表现特征方面，提供了更多的灵活性和可控制性，通过引入分离开的.css文件，使多页应用能够共享表现，降低了复杂度和重复性的内容。（来源：[Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)）
 
 
-### :bulb: 快速开始
+### :bulb: 快速了解
 
 CSS是另外一种很重要的的web组件开发的技术。因为它主要被用于描述和层现HTML元素，它逐渐变得变得越来强大，能够处理一些之前只能由javascript处理的内容，比如动画。
 
@@ -111,20 +99,11 @@ CSS是另外一种很重要的的web组件开发的技术。因为它主要被�
 
 JavaScript，经常被简称为JS，是一个高水准的，符合ECMAScript规范的解释性语言。它同时也是一个动态型的，弱类型的，基于原型的语言。和HTML和CSS一样，JavaScript是web开发当中三种核心技术之一。JavaScript能够使web页面具有可交互性，因此是web应用开发当中重要的一部分。绝大多数网站都使用它，并且大多数web浏览器都有专门的javascript引擎来执行它。(来源: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 在今天的前端开发世界，JavaScript已经变得越来越重要了。过去它只是被用来创建动态页面，如今它是很多前端开发框架的基石。这些框架处理了很多过去常常是后端处理的一些任务，比如路由和分发不同的视图。
 
-### :book: Learning Areas and Ideas
-
-- Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Too many language fundamentals to list here!
-- `<script>` tag and placement
-- Accessing HTML elements
-- The event loop, call stack, and event queue
-- Prototypal Inheritance
-- Reference vs. value
-- Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
+### :book: 学习要点和想法
 
 - 在freeCodeCamp上学习[JavaScript基础知识以及ES6相关知识](https://learn.freecodecamp.org/)。
 - 太多有关这门语言的基础需要罗列
@@ -140,11 +119,11 @@ JavaScript，经常被简称为JS，是一个高水准的，符合ECMAScript规�
 
 jQuery是一个快速的，小巧的和功能丰富的JavaScript库。相比使用原生API，他让遍历和操控HTML文档，事件处理，动画和发送Ajax请求变得更容易。由于它的丰富功能以及可扩展性，jQuery已经改变了成千上万开发者编写JavaScript的方式。(来源: [jQuery.com](https://jquery.com/))
 
-### :bulb: 快速开始
+### :bulb: 快速了解
 
 在您花费了一些时间使用原生javascript之后，您可能发现它会有点繁琐，尤其是访问和操纵HTML元素。相当一段时间，jQuery是首选的让这些跨浏览器的事情处理起来更容易的库，如今，随着原生javascript，css和新的框架的不断发展（我们之后再细看框架），jQuery不再是必需要学的技术点，然而，花费少量时间去学习它并且把它运用在一些小的项目里还是值得的。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 在freeCodeCamp上学习[jQuery](https://learn.freecodecamp.org/).
 - 文档初始化
@@ -152,24 +131,18 @@ jQuery是一个快速的，小巧的和功能丰富的JavaScript库。相比使�
 - 切换类
 - 动画
 - 增加或者删除元素
-- 添加jQuery到你的网站上！
+- 在您的网站上使用jQuery！
 
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
 响应式设计（RWD）是一种能够使页面在不同设备窗口或不同屏幕尺寸良好渲染的设计方式。现在还需要将试图内容显示优先级作为RWD设计的一部分。内容，设计和性能都是重要的，确保跨设备访问的易用性和满意度。一个响应式设计的网站通过使用流式布局，基于比例的网格，伸缩性图片和CSS3媒体查询使得网站能够适配布局不同的显示环境。(来源: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 响应式设计的全部内容就是使得web应用能够在所有的设备里面正常查看和运行。一个实际点的描述就是一个网站能够在桌面浏览器和移动端手机浏览器上能够正常查看和运行。理解响应式设计对于前端开发者来讲很重要。
 
-### :book: Learning Areas and Ideas
-
-- Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Media queries, breakpoints
-- Responsive images
-- Make your website responsive!
-- Use Chrome DevTools to view your site on different devices/viewports.
+### :book: 学习要点和想法
 
 - 在freeCodeCamp上学习[响应式设计布局方法](https://learn.freecodecamp.org/).
 - 媒体查询，断点
@@ -182,35 +155,27 @@ jQuery是一个快速的，小巧的和功能丰富的JavaScript库。相比使�
 
 页面可访问性是指网站能够让残疾人正常访问和交互的包容性的一种做法。一个网站如果被合理的设计，开发，应该是能够让所有用户都能够获取信息和使用功能的。(来源: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 可访问性，经常被简写为a11y，是前端web开发重要的主题之一，然而它经常被忽视。创建可访问性web应用不仅仅是出于道德，考虑这部分用户从商业角度也是存在很多价值的。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
-- Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Read some content on [The A11Y Project](https://a11yproject.com/about)
-- Review their [checklist](https://a11yproject.com/checklist)
-- Update your site(s) for accessibility based on this checklist
-- 从freeCodeCamp上学习 [使用可访问性设计](https://learn.freecodecamp.org/).
-- 阅读一些有关a11y的内容 [A11y项目](https://a11yproject.com/about)
-- 回顾可防性的一些关键细节 [checklist](https://a11yproject.com/checklist)
-- 基于这个checklist，给你的网站加上可访问性的一些功能
+- 在freeCodeCamp上学习 [Applied Accessibility section](https://learn.freecodecamp.org/) .
+- 查看一些有关响应式设计的项目 [The A11Y Project](https://a11yproject.com/about)
+- 复查它们的实现功能列表 [checklist](https://a11yproject.com/checklist)
+- 根据这个checklist核查自己的网站并完善遗漏的功能
 
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
-
 Git是一个免费和开源的分布式版本控制系统，提升项目开发的速度和效率。(来源： [git-scm.com](https://git-scm.com/))
 
-### :bulb: Quick Takeaway
-
-Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
+### :bulb: 快速了解
 
 版本控制是web开发者重要的工具之一。有许多不同的版本控制系统，如今Git是最流行的一个。你应该学会使用Git来管理你的项目！
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - [面向初学者的Git教程](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - 安装git
@@ -229,15 +194,13 @@ Version/code control is an essential part of any web developer's toolkit. There 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
-
 Node.js是一个开源的，跨平台的能够使javascript代码在浏览器之外运行的环境。JavaScript主要用于客户端脚本，其中用JavaScript编写的脚本嵌入在网页的HTML中，并在用户的Web浏览器中通过JavaScript引擎在客户端运行。Node.js允许开发人员使用JavaScript编写命令行工具，并在服务器端运行脚本，以便在将页面发送到用户的Web浏览器之前生成动态网页内容。因此，Node.js代表了“JavaScript无处不在”的范例，围绕单一编程语言统一Web应用程序开发，而不是服务器端和客户端脚本的不同语言。
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 虽然nodejs通常被称为后端解决方案，但它经常用于支持前端开发。它通过多种方式实现这一点，包括运行构建工具，测试和规范检查（所有这些都很快就会被覆盖！）。节点包管理器（npm）是node的另一个重要特性，可用于管理项目的依赖关系（即，项目可能依赖的代码库 - jQuery就是一个例子！）。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 研究node以及它与浏览器的不同之处
 - 安装node（包含npm）
@@ -248,11 +211,12 @@ Node.js是一个开源的，跨平台的能够使javascript代码在浏览器之
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
 Sass是CSS的扩展，为基本语言增添了力量和优雅。它允许您使用变量，嵌套规则，混合，内联导入等，所有这些都使用完全CSS兼容的语法。 Sass有助于保持大型样式表的良好组织，并使小样式表快速启动和运行，特别是在Compass样式库的帮助下。(来源: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
-### :bulb: Quick Takeaway
+
+### :bulb: 快速了解
 
 Sass允许您以更加编程的方式编写CSS。如果您已经完成了一些CSS，您可能已经注意到最终会重复大量信息 - 例如，指定相同的颜色代码。在Sass中，您可以使用变量，循环和嵌套等内容来减少冗余并提高可读性。在Sass中编写代码后，您可以快速轻松地将其编译为常规CSS。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - [Install Sass](https://sass-lang.com/install) 通过npm全局安装!
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
@@ -265,11 +229,11 @@ Sass允许您以更加编程的方式编写CSS。如果您已经完成了一些C
 \* 相似的库: Foundation, Bulma, Materialize
 
 Bootstrap是一个免费的开源前端框架，用于开发网站和Web应用程序。它包含用于排版，表单，按钮，导航和其他界面组件的HTML和基于CSS的设计模板，以及可选的JavaScript扩展。(摘自: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 布局，样式化和使Web应用程序动态化有很多选择，但是你会发现从框架开始可以帮助你获得良好的开端。 Bootstrap就是这样一个框架，但它绝对不是唯一的选择！我建议熟悉这样的一个框架，但掌握HTML，CSS和JavaScript基础知识要比陷入任何一个框架要重要得多。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 了解Bootstrap是什么以及为什么要使用它
 - [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
@@ -281,11 +245,11 @@ Bootstrap是一个免费的开源前端框架，用于开发网站和Web应用�
 
 块，元素，修饰符方法（通常称为BEM）是HTML和CSS中类的流行命名约定。由Yandex团队开发，其目标是帮助开发人员更好地理解给定项目中HTML和CSS之间的关系。(摘自: [css-tricks.com](https://css-tricks.com/bem-101/))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 了解BEM等命名和组织系统以及使用它们的原因非常重要。在这里做一些研究，但如果您是初学者，我不建议花太多时间在这个主题上。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 了解 [BEM 介绍](http://getbem.com/introduction/)
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
@@ -296,11 +260,11 @@ Bootstrap是一个免费的开源前端框架，用于开发网站和Web应用�
 
 Gulp是一个工具包，用于在开发工作流程中自动执行痛苦或耗时的任务，因此您可以停止杂乱的开发并构建一些东西。(摘自: [gulpjs.com](https://gulpjs.com/))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 在现代前端开发中，您经常会发现自己需要自动执行捆绑，移动文件和将引用注入HTML文件等任务。 Gulp是一款可以帮助您完成这些工作的工具！
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 用npm安装gulp
 - 关于CSS-Tricks的[gulp for beginners tutorial]（https://css-tricks.com/gulp-for-beginners/）
@@ -315,11 +279,11 @@ Gulp是一个工具包，用于在开发工作流程中自动执行痛苦或耗�
 
 webpack的核心是现代JavaScript应用程序的静态模块捆绑器。当webpack处理您的应用程序时，它会在内部构建一个依赖关系图，它映射您的项目所需的每个模块并生成一个或多个包。 (摘自: [webpack.js.org](https://webpack.js.org/concepts/))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 想象一下，您有一个大型的Web开发项目，其中有许多不同的开发人员正在处理许多不同的任务。您可能希望尽可能地模块化它们，而不是所有工作在相同的文件中。 Webpack通过让您的团队以模块化方式工作来帮助实现这一目标，然后花点时间构建应用程序，Webpack将它们粘在一起：HTML，CSS / Sass，JavasScript，图像等.Webpack不是唯一的模块捆绑器，但它目前似乎是领跑者。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 阅读 [webpack 核心概念](https://webpack.js.org/concepts/)
 - [webpack是什么，它是怎么工作的? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
@@ -330,11 +294,11 @@ webpack的核心是现代JavaScript应用程序的静态模块捆绑器。当web
 
 ESLint是一个开源JavaScript linting实用程序，最初由Nicholas C. Zakas于2013年6月创建。代码linting是一种静态分析，经常用于查找不符合某些样式指南的有问题的模式或代码。大多数编程语言都有代码链接，编译器有时会在编译过程中加入linting。 (摘自: [eslint.org](https://eslint.org/docs/about/))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 Linting是代码质量，可读性和一致性的绝佳工具。使用linter将帮助您在进入生产之前捕获语法和格式错误。您可以手动运行linters或将其包含在构建/部署过程中。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 使用npm安装eslint
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
@@ -347,11 +311,11 @@ Linting是代码质量，可读性和一致性的绝佳工具。使用linter将�
 
 React（也称为React.js或ReactJS）是用于构建用户界面的JavaScript库。它由Facebook和个人开发者和公司的社区维护。 React可以用作开发单页或移动应用程序的基础。 复杂的React应用程序通常需要使用其他库来进行状态管理，路由以及与API的交互。 (摘自: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 前端JavaScript框架处于现代前端开发的最前沿。这里的一个重要内容是React尽管非常受欢迎，但它只是一个用于构建用户界面的库，而像Vue和Angular这样的框架旨在提供更全面的功能。例如，如果你在React中构建一个需要路由到不同视图的应用程序，你需要引入类似`react-router`的东西。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 参考[React tutorial]（https://reactjs.org/tutorial/tutorial.html）
 - [跟着Mosh学习react]（https://www.youtube.com/watch?v=Ke90Tje7VS0）
@@ -363,11 +327,11 @@ React（也称为React.js或ReactJS）是用于构建用户界面的JavaScript�
 
 Redux是JavaScript应用程序的可预测状态容器。它可以帮助您编写行为一致的应用程序，在不同的环境（客户端，服务器和本机）中运行，并且易于测试。最重要的是，它提供了出色的开发人员体验，例如实时代码编辑与时间旅行调试器相结合。 (摘自: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 随着您构建越来越大的前端应用程序，您开始意识到维护应用程序状态很难：例如用户是否登录，用户是谁，以及应用程序中正在发生的事情。 Redux是一个很棒的库，可以帮助您维护应用程序可以基于其逻辑的单一状态源。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - [Redux视频教程]（https://www.youtube.com/watch?v=93p3LxR9xfM）
 - Redux的创建者Dan Abramov的[Redux视频系列]（https://egghead.io/courses/getting-started-with-redux）
@@ -382,11 +346,11 @@ Redux是JavaScript应用程序的可预测状态容器。它可以帮助您编�
 
 Jest是一个令人愉快的JavaScript测试框架，专注于简单性。它适用于以下项目：Babel，TypeScript，Node，React，Angular，Vue等等！ (摘自: [jestjs.io](https://jestjs.io))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 为前端项目设置自动化测试非常重要。设置自动化测试将使您可以放心地进行未来的更改 - 如果您进行了更改并且测试仍然通过，那么您可以相当自在地放弃任何现有功能。要列出的测试框架太多了; Jest只是我最喜欢的一个。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - 学习 [Jest 基础](https://jestjs.io/docs/en/getting-started)
 - 如果你用 `create-react-app`, [Jest 已经被集成了](https://facebook.github.io/create-react-app/docs/running-tests).
@@ -399,11 +363,11 @@ Jest是一个令人愉快的JavaScript测试框架，专注于简单性。它适
 
 TypeScript是Microsoft开发和维护的一种开源编程语言。它是JavaScript的严格语法超集，并为该语言添加了可选的静态类型。 TypeScript旨在开发大型应用程序并转换为JavaScript。由于TypeScript是JavaScript的超集，现有的JavaScript程序也是有效的TypeScript程序。 TypeScript可用于为客户端和服务器端（Node.js）执行开发JavaScript应用程序。(摘自: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 JavaScript是动态类型的。然而，人们普遍认为静态类型（即，提前指定变量类型，类，接口）更清晰并且降低了缺陷/错误的可能性。无论您对该主题的看法如何，至少要了解像TypeScript这样的静态类型的JavaScript。请注意，TypeScript可编译为JavaScript，因此浏览器可以解释它（即浏览器本身不会解释TypeScript）。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - [5分钟内学习TypeScript](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 - [50分钟内学习TypeScript (视频)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
@@ -414,11 +378,11 @@ JavaScript是动态类型的。然而，人们普遍认为静态类型（即，�
 
 Next.js是服务器呈现的React应用程序的简约框架。(摘自: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
-### :bulb: Quick Takeaway
+### :bulb: 快速了解
 
 现在我们正在进步！到目前为止，您已经构建了一个React（或Vue或Angular）应用程序，它在浏览器中完成了相当多的工作。由于各种原因（例如，SEO，对客户端性能的担忧），您可能实际上希望您的前端应用程序在服务端渲染，而不是在客户端。这就是像next.js这样的框架进来的地方。
 
-### :book: Learning Areas and Ideas
+### :book: 学习要点和想法
 
 - Next.js [开始学习](https://nextjs.org/learn/)
 - [Next.js速成课程 (视频)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
