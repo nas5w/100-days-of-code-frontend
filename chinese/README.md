@@ -268,7 +268,7 @@ Gulp是一个工具包，用于在开发工作流程中自动执行痛苦或耗�
 ### :book: 学习要点和想法
 
 - 用npm安装gulp
-- 关于CSS-Tricks的[gulp for beginners tutorial]（https://css-tricks.com/gulp-for-beginners/）
+- 关于CSS-Tricks的[gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/)
 - 在您的网站上，设置gulp为：
    - 为你编译Sass
    - 将生成的CSS文件放在`build`子目录中
@@ -318,8 +318,8 @@ React（也称为React.js或ReactJS）是用于构建用户界面的JavaScript�
 
 ### :book: 学习要点和想法
 
-- 参考[React tutorial]（https://reactjs.org/tutorial/tutorial.html）
-- [跟着Mosh学习react]（https://www.youtube.com/watch?v=Ke90Tje7VS0）
+- 参考[React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [跟着Mosh学习react](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - 将您的网站重构为React应用程序！
 - 注意：`create-react-app`是一个支持新React项目的便捷工具。
 
@@ -334,9 +334,9 @@ Redux是JavaScript应用程序的可预测状态容器。它可以帮助您编�
 
 ### :book: 学习要点和想法
 
-- [Redux视频教程]（https://www.youtube.com/watch?v=93p3LxR9xfM）
-- Redux的创建者Dan Abramov的[Redux视频系列]（https://egghead.io/courses/getting-started-with-redux）
-- 注意[Redux三原则]（https://redux.js.org/introduction/three-principles）
+- [Redux视频教程](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- Redux的创建者Dan Abramov的[Redux视频系列](https://egghead.io/courses/getting-started-with-redux)
+- 注意[Redux三原则](https://redux.js.org/introduction/three-principles)
    - 单一的事实来源
    - 状态是只读的
    - 使用纯函数进行更改
@@ -406,9 +406,9 @@ Next.js是服务器呈现的React应用程序的简约框架。(摘自: [Next.js
 
 通常，我发现以下资源对学习软件开发非常宝贵：
 - 谷歌搜索问题
-- [StackOverflow]（http://www.stackoverflow.com）（很有可能你的问题已被提出，并且在谷歌搜索时将是一个高级别的结果）。
-- [Mozilla MDN Web Docs]（https://developer.mozilla.org/en-US/）
-- [freeCodeCamp]（https://www.freecodecamp.org/）
+- [StackOverflow](http://www.stackoverflow.com)（很有可能你的问题已被提出，并且在谷歌搜索时将是一个高级别的结果）。
+- [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 - 本地软件开发Meetups！大多数人对所有经验水平都非常友好。
 
 如果你喜欢我对任何事情的意见，请随时[在Twitter上与我联系]（http://www.twitter.com/nas5w），我会尽力提供一些帮助。如果您认为课程有问题或有建议，请参阅下面的[贡献部分]（＃contributions）。
