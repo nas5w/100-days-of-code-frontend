@@ -15,109 +15,108 @@ Esse currículo foi influenciado fortemente pelo [Mapa de Conceitos Front-End Mo
 **Nota**: Eu sei que desenvolvimento front-end pode representar várias coisas diferentes para pessoas diferentes. Se você é um desenvolvedor front-end e acha que esse guia pode ser melhorado, por favor me avise criando um issue como descrito na seção [Contribuindo](#contributing). Obrigado!
 
 # Traduções
+Graças à alguns contribuidores incríveis, esse currículo foi traduzido para as seguintes linguagens:
 
-Thanks to some incredible contributors, this curriculum has been translated into the following languages!
-
-- [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
-- [Chinese 中文](/chinese) (translation by [@simplefeel](https://github.com/simplefeel))
+- [Russo русский](/ru) (traduzido por [@Ibochkarev](https://github.com/Ibochkarev) e [@JonikUl](https://github.com/JonikUl))
+- [Chinês 中文](/chinese) (traduzido por [@simplefeel](https://github.com/simplefeel))
 
 # :calendar: Currículo
 
-O princípio desse repositório é o [timeboxing](https://eadbox.com/timeboxing/). Se você já If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely experienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. 
+O princípio desse repositório é o [timeboxing](https://eadbox.com/timeboxing/). Se você já usou seu tempo no passado tentando aprender desenvolvimento web ou uma habilidade similar, você provavelmente já teve a experiência de se aprofundar demais em um determinado tópico. Esse repositório visa definir um certo número de dias para cada tecnologia e propõe a você passar para a próxima tecnologia assim que esse número de dias passe.
 
-It is anticipated that everyone is at a different level of proficiency when starting this challenge, and that's okay. Beginner and expert front-end developers alike can benefit from timeboxed practice in each of these areas.
+É antecipado que todos estejam em um nível diferente de conhecimento quando começarem esse desafio, mas isso não tem problema. Qualquer desenvolvedor front-end, seja ele iniciante ou experiente, pode tirar proveito do uso do método *timeboxing* para praticar cada uma dessas áreas.
 
-The recommended day-by-day activities are as follows:
+As atividades recomendadas para cada período de tempo são:
 
-- Days 1-8: [HTML](#html)
-- Days 9-16: [CSS](#css)
-- Days 17-24: [JavaScript Basics](#javascript)
-- Days 25-27: [jQuery](#jquery)
-- Days 28-33: [Responsive Web Design](#rwd)
-- Days 34-36: [Accessibility](#accessibility)
-- Days 37-39: [Git](#git)
-- Days 40-44: [Node and NPM](#node)
-- Days 45-50: [Sass](#sass)
-- Days 51-54: [Bootstrap](#bootstrap)
-- Day 55: [BEM](#bem)
-- Days 57-61: [Gulp](#gulp)
-- Days 62-65: [Webpack](#webpack)
-- Day 66: [ESLint](#eslint)
-- Days 68-83: [React](#react)
-- Days 84-89: [Redux](#redux)
-- Days 90-94: [Jest](#jest)
-- Days 95-97: [TypeScript](#typescript)
-- Days 98-100: [NextJS](#nextjs)
+- Dias 1-8: [HTML](#html)
+- Dias 9-16: [CSS](#css)
+- Dias 17-24: [Javascript Básico](#javascript)
+- Dias 25-27: [jQuery](#jquery)
+- Dias 28-33: [Web Design Responsivo](#rwd)
+- Dias 34-36: [Acessibilidade](#accessibility)
+- Dias 37-39: [Git](#git)
+- Dias 40-44: [Node e NPM](#node)
+- Dias 45-50: [Sass](#sass)
+- Dias 51-54: [Bootstrap](#bootstrap)
+- Dia 55: [BEM](#bem)
+- Dias 57-61: [Gulp](#gulp)
+- Dias 62-65: [Webpack](#webpack)
+- Dia 66: [ESLint](#eslint)
+- Dias 68-83: [React](#react)
+- Dias 84-89: [Redux](#redux)
+- Dias 90-94: [Jest](#jest)
+- Dias 95-97: [TypeScript](#typescript)
+- Dias 98-100: [NextJS](#nextjs)
 
-# :mag_right: The Details
+# :mag_right: Os Detalhes
 
-Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each. For inspiration on projects to do alongside this curriculum, see the [Project Ideas section](#project-ideas).
+Abaixo você vai encontrar informações sobre cada tópico junto com um guia/ideias do que fazer para cada um. Caso você queira ideias de projetos para fazer junto com esse currículo, veja a seção de [Ideias de Projetos](#project-ideas).
 
-As part of the timeboxing principle, it's okay if you don't get through all of the items in the "Learning Areas and Ideas" sections. You should instead focus on getting the most you can out of the number of days assigned to each area and then move on.
+Como parte do princípio do *timeboxing*, não tem problema se você não completar todos os itens nas seções de "Áreas de aprendizado e ideias". Ao invés disso, você deve se focar em conseguir tirar o maior proveito do número de dias dedicados à cada área e então ir adiante.
 
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
-Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
+A Linguagem de Marcação de Hipertexto (HyperText Markup Language - HTML) é a linguagem de marcação padrão para criar páginas e aplicações web. Junto com as Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) e o JavaScript, é formada a tríade das tecnologias fundamentais para a World Wide Web (WWW). Navegadores Web recebem documentos HTML de um servidor web ou do armazenamento local e renderiza os documentos em páginas multimídia. O HTML descreve a estrutura da página de maneira semântica e originalmente também descrevia parte de sua aparência. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/HTML))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-HTML is really the foundation of web development. Even in the javascript-based frameworks, you end up writing HTML in one form or another.
+HTML é a base do desenvolvimento web. Mesmo em frameworks baseados em JavaScript você acaba escrevendo HTML, de uma forma ou de outra.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- HTML page structure
-- HTML elements
-- Nesting HTML elements
-- Semantic markup
-- Links / multiple pages
-- Images
-- Audio/video media
-- Forms and form elements
-- Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
+- Faça a seção de [HTML e HTML5 básico](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Estrutura de página no HTML
+- Elementos HTML
+- Encadeamento de elementos HTML
+- Marcação Semântica
+- Links / diversas páginas
+- Imagens
+- Mídia de áudio/vídeo
+- Formulários e elementos de formulário
+- Crie um website com diversas páginas! (Veja as [Ideias de Projetos](#project-ideas) se você precisar se inspirar).
 
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
+Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) é uma linguagem de folhas de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação (como HTML). CSS é uma tecnologia fundamental na World Wide Web (WWW), assim como o HTML e o JavaScript. O CSS foi desenhado para possibilitar a separação entre a apresentação e o conteúdo, incluindo o layout, as cores e as fontes. Essa separação melhora à acessibilidade ao conteúdo, provém mais flexibilidade e controle na especificação das características da apresentação, possibilita múltiplas páginas web compartilharem a formatação especificando o CSS em um arquivo .css separado e reduz a complexidade e a repetição no conteúdo estrutural. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
+CSS é outro componente essencial no desenvolvimento web. Mesmo sendo usado principalmente para estilizar e posicionar elementos HTML, ele vem se tornando cada vez mais capaz de realizar tarefas mais dinâmicas (como animações) que seriam originalmente feitas com JavaScript.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- In-line CSS
-- `<style>` tags
-- External CSS with `<link>`
-- Styling elements
-- Selectors
-- Floats, clearing floats
+- Faça as seções de [CSS básico, CSS flexbox, e CSS grid](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- CSS in-line
+- elementos `<style>`
+- CSS externo com `<link>`
+- Estilizando elementos
+- Seletores
+- Floats, limpando floats
 - Layouts (grid, flexbox)
-- Fonts, custom fonts
-- Style the HTML page(s) you made when learning HTML!
+- Fontes, fontes customizadas
+- Estilize a página HTML que você fez quando estava aprendendo HTML!
 
 <a name="javascript"></a>
 ![JavaScript](https://i.imgur.com/oHdD86j.jpg)
 
-JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
+JavaScript, frequentemente abreviado como JS, é uma linguagem interpretada de alto nível que está de acordo com a especificação ECMAScript. Possui tipagem dinâmica fraca, é baseada em protótipos e é multi-paradigma. Junto com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. O JavaScript possibilita páginas web interativas e, portanto, é uma parte essencial das aplicações web. A grande maioria dos websites a usam, e todos os principais navegadores possuem um motor JavaScript que possibilita executá-lo. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/JavaScript))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
+JavaScript vem se tornando cada vez mais importante no mundo front-end. Ao contrário de quando era usado principalmente para fazer páginas dinâmicas, agora ele é a base de vários frameworks front-end. Esses frameworks realizam diversas tarefas que eram originalmente realizadas pelo back-end (como, por exemplo, roteamento e mostrar diferentes páginas).
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Too many language fundamentals to list here!
-- `<script>` tag and placement
-- Accessing HTML elements
-- The event loop, call stack, and event queue
-- Prototypal Inheritance
-- Reference vs. value
-- Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
+- Faça as seções de [JavaScript básico e ES6](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Muitos fundamentos da linguagem para poder listar aqui!
+- Elemento `<script>` e seu posicionamento
+- Acessar elementos HTML
+- O loop de eventos, a pilha de chamadas e a fila de eventos
+- Herança de Protótipos
+- Referência X Valor
+- Adicione alguns elementos dinâmicos ou alguma lógica à sua(s) página(s) HTML/CSS desenvolvidas anteriormente!
 
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
