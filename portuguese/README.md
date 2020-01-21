@@ -4,11 +4,11 @@
 
 ---
 
-Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsletter gratuita](https://buttondown.email/typeofnan) onde eu mando regularmente porções de conhecimento front-end!
+Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsletter gratuita](https://buttondown.email/typeofnan) onde eu mando regularmente porções de conhecimento sobre front-end!
 
 ---
 
-Esse é um currículo, feito um pouco baseado na minha opinião, para aprender desenvolvimento front-end durante os #100DiasDeCodigo. Como ele cobre uma diversa gama de tópicos sobre front-ent, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
+Esse é um currículo feito (com uma certa base na minha opinião) para aprender desenvolvimento front-end durante os #100DiasDeCodigo. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
 
 Esse currículo foi influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
 
