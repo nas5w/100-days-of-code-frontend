@@ -105,7 +105,7 @@ JavaScript, frequentemente abreviado como JS, é uma linguagem interpretada de a
 
 ### :bulb: Para Lembrar
 
-JavaScript vem se tornando cada vez mais importante no mundo front-end. Ao contrário de quando era usado principalmente para fazer páginas dinâmicas, agora ele é a base de vários frameworks front-end. Esses frameworks realizam diversas tarefas que eram originalmente realizadas pelo back-end (como, por exemplo, roteamento e mostrar diferentes páginas).
+JavaScript vem se tornando cada vez mais popular no mundo front-end. Ao contrário de quando era usado principalmente para fazer páginas dinâmicas, agora ele é a base de vários frameworks front-end. Esses frameworks realizam diversas tarefas que eram originalmente realizadas pelo back-end (como, por exemplo, roteamento e mostrar diferentes páginas).
 
 ### :book: Áreas de Aprendizado e Ideias
 
