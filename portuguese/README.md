@@ -65,7 +65,7 @@ HTML é a base do desenvolvimento web. Mesmo em frameworks baseados em JavaScrip
 
 ### :book: Áreas de Aprendizado e Ideias
 
-- Faça a seção de [HTML e HTML5 básico](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Faça a [seção de HTML e HTML5 básicos](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Estrutura de página no HTML
 - Elementos HTML
 - Encadeamento de elementos HTML
@@ -87,7 +87,7 @@ CSS é outro componente essencial no desenvolvimento web. Mesmo sendo usado prin
 
 ### :book: Áreas de Aprendizado e Ideias
 
-- Faça as seções de [CSS básico, CSS flexbox, e CSS grid](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Faça as [seções de CSS básico, CSS flexbox, e CSS grid](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - CSS in-line
 - elementos `<style>`
 - CSS externo com `<link>`
@@ -109,11 +109,11 @@ JavaScript vem se tornando cada vez mais popular no mundo front-end. Ao contrár
 
 ### :book: Áreas de Aprendizado e Ideias
 
-- Faça as seções de [JavaScript básico e ES6](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Faça as [seções de JavaScript básico e ES6](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Muitos fundamentos da linguagem para poder listar aqui!
 - Elemento `<script>` e seu posicionamento
 - Acessar elementos HTML
-- O loop de eventos, a pilha de chamadas e a fila de eventos
+- Event-loop, pilha de chamadas e fila de eventos
 - Herança de Protótipos
 - Referência X Valor
 - Adicione alguns elementos dinâmicos ou alguma lógica à sua(s) página(s) HTML/CSS desenvolvidas anteriormente!
@@ -121,21 +121,21 @@ JavaScript vem se tornando cada vez mais popular no mundo front-end. Ao contrár
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
+jQuery é uma biblioteca JavaScript rápida, pequena e rica em funcionalidades. Ela simplifica conceitos como a travessia e manipulação de documentos HTML, eventos, animação e Ajax com uma API fácil de usar que funciona em diversos navegadores. Com uma combinação de versabilidade e extensibilidade, jQuery mudou a maneira como milhões de pessoas escrevem JavaScript (Fonte: [jQuery.com](https://jquery.com/))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
+Depois que você tiver usado um pouco o JavaScript puro (também chamado "vanilla"), você pode ter achado algumas tarefas muito pesadas, especialmente aquelas que envolvem acessar e manipular elementos HTML. Por um bom tempo, jQuery era a principal solução para facilitar essas tarefas e as tornar consistentes em diferentes navegadores. Hoje em dia, o jQuery não é mais tão necessário devido aos avanços no JavaScript puro, no CSS e frameworks JavaScript mais novos (nós veremos esses frameworks mais à frente). Mesmo assim, pode ser benéfico aprender um pouco de jQuery e aplicá-lo em algum projeto pequeno.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
+- Faça a [seção de jQuery](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Document ready
-- Selectors
-- Toggle classes
-- Animation
-- Add or move HTML elements
-- Add jQuery to your site!
+- Seletores
+- Alternância de classes
+- Animação
+- Adicionar ou mover elementos HTML
+- Adicione jQuery ao seu site!
 
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
