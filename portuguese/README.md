@@ -24,7 +24,7 @@ Graças à alguns contribuidores incríveis, esse currículo foi traduzido para 
 
 O princípio desse repositório é o [timeboxing](https://eadbox.com/timeboxing/). Se você já usou seu tempo no passado tentando aprender desenvolvimento web ou uma habilidade similar, você provavelmente já teve a experiência de se aprofundar demais em um determinado tópico. Esse repositório visa definir um certo número de dias para cada tecnologia e propõe a você passar para a próxima tecnologia assim que esse número de dias passe.
 
-É antecipado que todos estejam em um nível diferente de conhecimento quando começarem esse desafio, mas isso não tem problema. Qualquer desenvolvedor front-end, seja ele iniciante ou experiente, pode tirar proveito do uso do método *timeboxing* para praticar cada uma dessas áreas.
+É antecipado que todos estejam em um nível diferente de conhecimento quando começarem esse desafio, mas isso não é um problema. Qualquer desenvolvedor front-end, seja ele iniciante ou experiente, pode tirar proveito do uso do método *timeboxing* para praticar cada uma dessas áreas.
 
 As atividades recomendadas para cada período de tempo são:
 
@@ -48,7 +48,7 @@ As atividades recomendadas para cada período de tempo são:
 - Dias 95-97: [TypeScript](#typescript)
 - Dias 98-100: [NextJS](#nextjs)
 
-# :mag_right: Os Detalhes
+# :mag_right: Detalhes
 
 Abaixo você vai encontrar informações sobre cada tópico junto com um guia/ideias do que fazer para cada um. Caso você queira ideias de projetos para fazer junto com esse currículo, veja a seção de [Ideias de Projetos](#project-ideas).
 
