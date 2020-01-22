@@ -140,51 +140,51 @@ Depois que você tiver usado um pouco o JavaScript puro (também chamado "vanill
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
-Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
+Desing Web Responsivo (Responsive Web Desing - RWD) é uma abordagem de design web que faz páginas serem bem apresentadas em uma variedade de dispositivos e tamanhos de tela. Recentemente também vem se considerando a proximidade do usuário como parte do contexto, como uma extensão ao Web Design Responsivo. Conteúdo, design e performance são necessários em todos os dispositivos para garantir usabilidade e satisfação. Um site responsivo adapta o layout à tela usando grids baseados em proporção, imagens flexíveis e *media queries* do CSS3. (Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+A principal ideia do Design Web Responsivo é fazer as aplicações web parecerem e funcionarem corretamente em todos os tipos de dispositivos. Um exemplo é que um site tem que parecer e funcionar bem tanto em um computador quanto em um celular. Entender o Design Web Responsivo é essencial para todos os desenvolvedores front-end!
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Media queries, breakpoints
-- Responsive images
-- Make your website responsive!
-- Use Chrome DevTools to view your site on different devices/viewports.
+- Faça a [seção de Princípios de Design Web Responsivo](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Media queries e breakpoints
+- Imagens responsivas
+- Faça seu site desenvolvido anteriormente responsivo!
+- Use a extensão Chrome DevTools para ver seu site em diferentes dispositivos/tamanhos.
 
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
-Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+Acessibilidade na Web é a prática de incluir, garantindo que não existam barreiras que impessam a interação ou o acesso a um website por pessoas com deficiência. Quando um site é desenhado, desenvolvido e editado de maneira correta, geralmente todos os usuários podem acessar as funcionalidades e o conteúdo. (Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
+Acessibilidade, às vezes escrita como "a11y", é um dos tópicos mais importantes no desenvolvimento web front-end, mas às vezes ela não recebe a atenção que merece. Criar aplicações web acessíveis não é somente eticamente correto, mas também faz sentido no âmbito empresarial, se considerado o aumento do público que poderá ver as suas aplicações.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Read some content on [The A11Y Project](https://a11yproject.com/about)
-- Review their [checklist](https://a11yproject.com/checklist)
-- Update your site(s) for accessibility based on this checklist
+- Faça a [seção de Acessibilidade Aplicada](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Leia um pouco no site do [Projeto A11Y](https://a11yproject.com/about) (em Inglês).
+- Veja a [checklist](https://a11yproject.com/checklist) deles
+- Deixe seu website acessível com base nessa checklist
 
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
+Git é um sistema de versionamento gratuito e de código aberto, feito para lidar com todos os tipos e tamanhos de projetos com velocidade e eficiência. (Fonte: [git-scm.com](https://git-scm.com/))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
+Versionamento/Controle de Código é uma ferramenta essencial para todos os desenvolvedores web. Existem diversos sistemas de versionamento de código diferentes, mas o Git é, sem sombra de dúvidas, a mais popular atualmente. Você pode (e deve!) usá-lo para monitorar seus projetos enquanto você aprende.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- Install git
-- Set up a [github](https://github.com) account
-- Learn the most-used git commands:
+- [Tutorial de Git para iniciantes (Vídeo em inglês)](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- Instale o git
+- Crie uma conta no [GitHub](https://github.com)
+- Aprenda os comandos do git mais usados:
   - init
   - clone
   - add
@@ -193,7 +193,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - pull
   - merge
   - rebase
-- Add your existing projects to github!
+- Adicione os seus projetos ao GitHub!
 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
