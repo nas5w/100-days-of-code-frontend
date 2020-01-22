@@ -57,7 +57,7 @@ Como parte do princípio do *timeboxing*, não tem problema se você não comple
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
-A Linguagem de Marcação de Hipertexto (HyperText Markup Language - HTML) é a linguagem de marcação padrão para criar páginas e aplicações web. Junto com as Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) e o JavaScript, é formada a tríade das tecnologias fundamentais para a World Wide Web (WWW). Navegadores Web recebem documentos HTML de um servidor web ou do armazenamento local e renderiza os documentos em páginas multimídia. O HTML descreve a estrutura da página de maneira semântica e originalmente também descrevia parte de sua aparência. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/HTML))
+A Linguagem de Marcação de Hipertexto (HyperText Markup Language - HTML) é a linguagem de marcação padrão para criar páginas e aplicações web. Junto com as Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) e o JavaScript, é formada a tríade das tecnologias fundamentais para a World Wide Web (WWW). Navegadores Web recebem documentos HTML de um servidor web ou do armazenamento local e renderizam os documentos em páginas multimídia. O HTML descreve a estrutura da página de maneira semântica e originalmente também descrevia parte de sua aparência. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/HTML))
 
 ### :bulb: Para Lembrar
 
@@ -79,7 +79,7 @@ HTML é a base do desenvolvimento web. Mesmo em frameworks baseados em JavaScrip
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
-Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) é uma linguagem de folhas de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação (como HTML). CSS é uma tecnologia fundamental na World Wide Web (WWW), assim como o HTML e o JavaScript. O CSS foi desenhado para possibilitar a separação entre a apresentação e o conteúdo, incluindo o layout, as cores e as fontes. Essa separação melhora à acessibilidade ao conteúdo, provém mais flexibilidade e controle na especificação das características da apresentação, possibilita múltiplas páginas web compartilharem a formatação especificando o CSS em um arquivo .css separado e reduz a complexidade e a repetição no conteúdo estrutural. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets))
+Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) é uma linguagem de folhas de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação (como HTML). CSS é uma tecnologia fundamental na World Wide Web (WWW), assim como o HTML e o JavaScript. O CSS foi desenhado para possibilitar a separação entre a apresentação e o conteúdo, incluindo o layout, as cores e as fontes. Essa separação melhora a acessibilidade ao conteúdo, provém mais flexibilidade e controle na especificação das características da apresentação, possibilita múltiplas páginas web compartilharem a formatação especificando o CSS em um arquivo .css separado e reduz a complexidade e a repetição no conteúdo estrutural. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 ### :bulb: Para Lembrar
 
