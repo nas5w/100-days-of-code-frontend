@@ -8,7 +8,7 @@ Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsle
 
 ---
 
-Esse é um currículo feito (com uma certa base na minha opinião) para aprender desenvolvimento front-end durante os #100DiasDeCodigo. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
+Esse é um currículo feito (com uma certa base na minha opinião) para aprender desenvolvimento front-end durante o desafio dos #100DiasDeCodigo. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
 
 Esse currículo foi influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
 
@@ -198,34 +198,34 @@ Versionamento/Controle de Código é uma ferramenta essencial para todos os dese
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
+O Node.js é um ambiente de tempo de execução de código aberto e multiplataforma, que executa código JavaScript fora de um navegador. O JavaScript é usado principalmente no cliente, onde códigos escritos em JavaScript são executados pelo navegador em uma página HTML. O Node.js permite que os desenvolvedores usem JavaScript para desenvolver ferramentas de linha de comando e scripts do lado do servidor - executando scripts no lado do servidor para produzir conteúdo dinâmico na página web antes que a página seja enviada ao navegador do usuário. Consequentemente, o Node.js representa um paradigma de "JavaScript em todos os lugares", unificando o desenvolvimento de aplicativos da Web em torno de uma única linguagem de programação, em vez de diferentes linguagens para scripts do servidor e do cliente. (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Node.js))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+Mesmo o Node.js sendo tipicamente usado como uma ferramenta para o back-end, ele é usado com certa frequência como suporte para o desenvolvimento front-end. Isso é feito de diversas maneiras, incluindo coisas como rodar ferramentas de build, teste e lintagem (Todas serão vistas em breve!). O Node Package Manager (npm) é uma outra funcionalidade interessante do node, usada para gerenciar as dependências do seu projeto (por exemplo, bibliotecas de código que o seu projeto usa, como jQuery).
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Research node and how it is different than the browser
-- Install node (npm comes with it)
-- Create a simple javascript file and run it with node
-- Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
+- Pesquise sobre o node e veja como ele é diferente do navegador
+- Instale o node (o NPM vem junto)
+- Crie um arquivo JavaScript simples e execute-o com node
+- Use o NPM para gerenciar as dependências em seus projetos existentes (jQuery, por exemplo)
 
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
-Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
+O Sass é uma extensão do CSS que o deixa mais poderoso e elegante. Ela possibilita o uso de variáveis, regras encadeadas, mixins, importações inline e mais, tudo com uma sintaxe compatível com o CSS. O Sass ajuda a manter folhas de estilo grandes organizadas, e possibilita preparar pequenas folhas de estilo rapidamente, com a ajuda da biblioteca de estilos Compass. (Fonte: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
+Sass possibilita escrever CSS de uma maneira mais parecida com uma linguagem de programação. Se você já usou CSS, pode ser que você tenha percebido que existe muita repetição de informações (especificar várias vezes a mesma cor, por exemplo). No Sass, é possível usar variáveis, laços de repetição e encadeamento para reduzir a redundância e facilitar o entendimento. O código em Sass pode ser fácil e rapidamente compilado para CSS normal.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- [Install Sass](https://sass-lang.com/install) globally with npm!
-- [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
-- Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
-- Update your existing site to generate your CSS using Sass!
+- [Instale o Sass](https://sass-lang.com/install) globalmente com o npm!
+- [Curso introdutório de Sass (Vídeo em Inglês)](https://www.youtube.com/watch?v=roywYSEPSvc)
+- Siga o [Tutorial do Sass](https://sass-lang.com/guide) e/ou o [Tutorial do Sass no freeCodeCamp](https://learn.freecodecamp.org/) (Sites em Inglês)
+- Atualize seu site existente e gere o CSS usando Sass!
 
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
