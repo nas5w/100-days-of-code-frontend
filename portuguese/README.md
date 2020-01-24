@@ -230,54 +230,55 @@ Sass possibilita escrever CSS de uma maneira mais parecida com uma linguagem de 
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
-\* Some alternatives: Foundation, Bulma, Materialize
+\* Algumas alternativas: Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
+O Bootstrap é um framework front-end gratuito e de código aberto para desenvolver sites e aplicações web. Ele contém templates baseados em HTML e CSS para tipografia, formulários, botões, navegação e outros componentes de interface, além de extensões JavaScript opcionais. (Fonte: [Wikipedia](<https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)>))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
+Existem muitas opções para montar o layout, estilizar e dinamizar a sua aplicação web, mas você verá que começar com um framework vai te ajudar muito a dar o pontapé inicial uma página. O Bootstrap é um desses frameworks, mas está longe de ser o único! Eu recomendo você se familiarizar com algum framework como esse, mas é muito mais importante saber os fundamentos do HTML, CSS e JavaScript do que se viciar em algum framework.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Learn what Bootstrap is and why you would want to use it
-- [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
-- Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
-- Refactor your site using bootstrap!
+- Aprenda o que é Bootstrap e porquê você deveria usá-lo
+- [Curso introdutório de Bootstrap 4 (Vídeo em Inglês)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
+- Complete a [seção de Bootstrap](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
+- Refatore o seu site usando Bootstrap!
 
 <a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
-The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
+A metodologia Bloco, Elemento, Modificador (conhecida como BEM) é uma convenção de nomeação de classes no HTML e no CSS. Desenvolvida pela Yandex, o seu objetivo é ajudar os desenvolvedores a entenderem melhor a relação entre HTML e CSS em um projeto. (Fonte: [css-tricks.com](https://css-tricks.com/bem-101/))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
+É importante saber que sistemas de nomeação/organização como o BEM existem e para quê eles são usados. Pesquise um pouco sobre o BEM, mas em um nível iniciante eu não recomendaria dedicar muito tempo nisso.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Read the [BEM introduction](http://getbem.com/introduction/)
-- [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
-- Create a simple webpage using BEM conventions.
+- Leia a [introdução ao BEM](http://getbem.com/introduction/) (Site em Inglês)
+- Como alternativa, [leia esse artigo em Portugês](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
+- [Porquê eu uso o BEM (Vídeo em inglês)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
+- Crie uma página web simples usando as convenções do BEM.
 
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
-Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
+O Gulp é um kit de ferramentas para automatizar tarefas demoradas ou entediantes no seu workflow de desenvolvimento, para que você possa parar de brincar e realmente construir algo. (Fonte: [gulpjs.com](https://gulpjs.com/))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
+No desenvolvimento front-end moderno, você vai frequentemente se encontrar precisando automatizar tarefas como combinar e mover arquivos e injetar referências em arquivos HTML. O Gulp é uma ferramenta que pode te ajudar a realizar essas coisas!
 
 ### :book: Learning Areas and Ideas
 
-- Install gulp with npm
-- Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
-- In your website, set up gulp to:
-  - Compile Sass for you
-  - Put the generated CSS file in `build` subdirectory
-  - Move your web pages to the build directory
-  - Inject a reference to your generated CSS file into your web pages
+- Instale o Gulp com o npm
+- Siga o [tutorial de Gulp para iniciantes](https://css-tricks.com/gulp-for-beginners/) no site CSS-Tricks (Em Inglês)
+- No seu site, use o Gulp para:
+  - Compilar o Sass para você
+  - Colocar o arquivo CSS gerado no subdiretório `build`
+  - Mova suas páginas web para o diretório da build
+  - Injetar uma referência à seu arquivo CSS gerado anteriormente nas suas páginas.
 
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
