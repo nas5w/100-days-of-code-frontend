@@ -236,7 +236,7 @@ O Bootstrap é um framework front-end gratuito e de código aberto para desenvol
 
 ### :bulb: Para Lembrar
 
-Existem muitas opções para montar o layout, estilizar e dinamizar a sua aplicação web, mas você verá que começar com um framework vai te ajudar muito a dar o pontapé inicial uma página. O Bootstrap é um desses frameworks, mas está longe de ser o único! Eu recomendo você se familiarizar com algum framework como esse, mas é muito mais importante saber os fundamentos do HTML, CSS e JavaScript do que se viciar em algum framework.
+Existem muitas opções para montar o layout, estilizar e dinamizar a sua aplicação web, mas você verá que começar com um framework vai te ajudar muito a dar o pontapé inicial em uma página. O Bootstrap é um desses frameworks, mas está longe de ser o único! Eu recomendo você se familiarizar com algum framework como esse, mas é muito mais importante saber os fundamentos do HTML, CSS e JavaScript do que se viciar em algum framework.
 
 ### :book: Áreas de Aprendizado e Ideias
 
@@ -252,7 +252,7 @@ A metodologia Bloco, Elemento, Modificador (conhecida como BEM) é uma convenç�
 
 ### :bulb: Para Lembrar
 
-É importante saber que sistemas de nomeação/organização como o BEM existem e para quê eles são usados. Pesquise um pouco sobre o BEM, mas em um nível iniciante eu não recomendaria dedicar muito tempo nisso.
+É importante saber que sistemas de nomeação/organização como o BEM existem e para quê eles são usados. Pesquise um pouco sobre o BEM, mas em um nível iniciante eu não recomendaria dedicar muito tempo a isso.
 
 ### :book: Áreas de Aprendizado e Ideias
 
