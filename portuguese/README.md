@@ -270,7 +270,7 @@ O Gulp é um kit de ferramentas para automatizar tarefas demoradas ou entediante
 
 No desenvolvimento front-end moderno, você vai frequentemente se encontrar precisando automatizar tarefas como combinar e mover arquivos e injetar referências em arquivos HTML. O Gulp é uma ferramenta que pode te ajudar a realizar essas coisas!
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
 - Instale o Gulp com o npm
 - Siga o [tutorial de Gulp para iniciantes](https://css-tricks.com/gulp-for-beginners/) no site CSS-Tricks (Em Inglês)
@@ -283,50 +283,50 @@ No desenvolvimento front-end moderno, você vai frequentemente se encontrar prec
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
-At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
+Em seu núcleo, o webpack é um agrupador de módulos estáticos para aplicações JavaScript modernas. Quando o webpack processa uma aplicação, ele mapeia internamente todos os módulos necessários para sua execução e gera um ou mais agrupamentos. (Fonte: [webpack.js.org](https://webpack.js.org/concepts/))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
+Imagine que você tenha um projeto de desenvolvimento web grande, com diversos desenvolvedores trabalhando em diversas tarefas. Ao invés de ter todos eles trabalhando no mesmo arquivo, pode ser que você prefira modularizar os arquivos tanto quanto possível. O webpack ajuda a fazer isso, pois ele deixa o seu time trabalhar de forma modularizada e então, quando for a hora de construir a aplicação, o webpack junta tudo: HTML, CSS/Sass, JavaScript, imagens, etc. O webpack não é o único agrupador de módulos, mas no momento ele está na liderança.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Read [webpack concepts](https://webpack.js.org/concepts/)
-- [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
-- [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+- Leia os [conceitos de webpack](https://webpack.js.org/concepts/) (Site em Inglês)
+- [O que é webpack e como ele funciona? (Vídeo em Inglês)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+- [Esse tutorial de webpack](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) (Site em Inglẽs)
 
 <a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
-ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
+O ESLint é uma utilidade de código aberto de lintagem de código JavaScript, criada originalmente por Nicholas C. Zakas em Junho de 2013. Lintagem de código é um tipo de análise estática que é usado frequentemente para encontrar padrões problemáticos ou código que não cumpre certas convenções. Existem softwares de lintagem para a maioria das linguagens de programação, e algumas vezes os próprios compiladores possuem o processo de lintagem incorporado com o processo de compilação. (Fonte: [eslint.org](https://eslint.org/docs/about/))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
+A lintagem é uma ferramenta fantástica para manter a qualidade, a consistência e a legibilidade do código. Usar um software de lintagem vai ajudar a achar erros de sintaxe e formação antes de eles irem para a produção. Você pode rodar esses softwares manualmente ou incluí-los no seu processo de build/deploy.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Install eslint using npm
-- [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
-- Lint your JavaScript
+- Instale o ESLint usando o npm
+- [Como configurar o VS Code + Prettier + ESLint (Vídeo em Inglês)](https://www.youtube.com/watch?v=YIvjKId9m2c)
+- Use o ESLint em um arquivo JavaScript
 
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
-\* Some alternatives: Vue, Angular, Ember
+\* Algumas Alternativas: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+O React (também conhecido como React.js ou ReactJS) é uma biblioteca JavaScript usada para construir interfaces. Ela é mantida pelo Facebook e por uma comunidade de desenvolvedores e empresas. O React pode ser usado como uma base no desenvolvimento de aplicações de uma página só (SPAs) e aplicações mobile. Aplicações React complexas normalmente necessitam do uso de bibliotecas adicionais para fazer o gerenciamento de estado, roteamento e interações com APIs. (Fonte: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
+Frameworks JavaScript para front-end são os líderes no desenvolvimento front-end moderno. Algo importante para se lembrar é que, apesar de ser incrivelmente popular, o React é somente uma bilbioteca para construir interfaces de usuários, enquanto frameworks como Vue e Angular possuem mais funcionalidades. Por exemplo, se você construir uma aplicação com React que precise rotear para diferentes visões (ver [MVC](https://pt.wikipedia.org/wiki/MVC)), você precisará de algo como o `react-router`.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
-- [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-- Refactor your website as a React app!
-- Note: `create-react-app` is a convenient tool to scaffold new React projects.
+- Faça o [tutorial do React](https://pt-br.reactjs.org/tutorial/tutorial.html) (Site em Português)
+- [Aprenda React com o Mosh (Vídeo em Inglês)](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+- Refatore o seu site como uma aplicação React!
+- Nota: o `create-react-app` é uma ferramenta conveniente para montar o esqueleto de novos projetos React.
 
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
