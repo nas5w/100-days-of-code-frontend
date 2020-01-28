@@ -400,7 +400,7 @@ Essa lista existe para te dar uma visão abrangente do ecossistema de front-end,
 
 # Ideias de Projetos
 
-Enquanto você estiver progredindo pelo desafio dos 100 Dias de Código, você vai querer fazer um ou mais projetos nos quais você possa aplicar seus novos conhecimentos. Nessa seção, eu tento disponibilizar algumas ideias de projetos que você pode fazer. Como alternativa, você é encorajado a pensar em seus próprios projetos, já que estes podem te interessar e motivar mais.
+Enquanto você estiver progredindo pelo desafio dos 100 Dias de Código, seria bom se você fizesse um ou mais projetos nos quais você possa aplicar seus novos conhecimentos. Nessa seção, eu tento disponibilizar algumas ideias de projetos que você pode fazer. Como alternativa, você é encorajado a pensar em seus próprios projetos, já que estes podem te interessar e motivar mais.
 
 - Ideias para iniciantes:
   - Construa um site de portfolio
