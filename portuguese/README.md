@@ -4,11 +4,11 @@
 
 ---
 
-Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsletter gratuita](https://buttondown.email/typeofnan) onde eu mando regularmente porções de conhecimento sobre front-end!
+Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsletter gratuita](https://buttondown.email/typeofnan) para receber dicas sobre desenvolvimento front-end!
 
 ---
 
-Esse é um currículo feito (com uma certa base na minha opinião) para aprender desenvolvimento front-end durante o desafio dos #100DiasDeCodigo. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
+Esse é um currículo feito (com uma certa base na minha opinião) para aprender desenvolvimento front-end durante o desafio dos 100 Dias de Código. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
 
 Esse currículo foi influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
 
@@ -350,64 +350,64 @@ As you build bigger and bigger front-end applications, you start realizing that 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
+O Jest é um framework para Testes em programas JavaScript, focado em simplicidade. Ele funciona com projetos contendo Babel, TypeScript, Node, React, Angular, Vue e outros! (Fonte: [jestjs.io](https://jestjs.io))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
+É muito importante desenvolver testes automatizados para seus projetos de front-end. Configurar testes automatizados vai te possibilitar fazer mudanças futuras com confiança. Se você fez mudanças e os testes ainda passam, você vai poder ter quase certeza de que nada foi quebrado. Existem muitos frameworks de testes para poder listar todos, mas o Jest é um dos meus favoritos.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
-- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
-- Add tests to your application!
+- Aprenda os [básicos do Jest](https://jestjs.io/docs/pt-BR/getting-started)
+- Se você usou o comando `create-react-app`, [o Jest já está configurado](https://facebook.github.io/create-react-app/docs/running-tests).
+- Crie testes para a sua aplicação!
 
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
-\* Alternative: Flow
+\* Alternativa: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+O TypeScript é uma linguagem de programação open-source desenvolvida e mantida pela Microsoft. É um superconjunto sintático do JavaScript, e adiciona tipagem estática opcional à linguagem. O TypeScript foi feito para o desenvolvimento de grandes aplicações e ele transcompila para JavaScript. Já que o TypeScript é um superconjunto do JavaScript, programas em JavaScript também são programas em TypeScript. O TypeScript pode ser usado para desenvolver aplicações JavaScript para serem executadas tanto do lado do cliente quanto do lado do servidor (Node.js). (Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/TypeScript)
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+O JavaScript é dinamicamente tipado. No entanto, é uma crença popular que a tipagem estática (especificando tipos de variáveis, classes e interfaces na declaração) é mais limpa e reduz a possibilidade de ocorrência de erros e bugs. Independente da sua opinião, é importante pelo menos experimentar uma versão com tipagem estática para o JavaScript (como o TypeScript). Perceba que o TypeScript é transpilado para JavaScript, para que ele pode ser interpretado pelo navegador, ou seja, os navegadores não interpretam o TypeScript nativamente.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
-- [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
-- Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
+- [Aprenda TypeScript em 5 minutos](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb) (artigo em Inglês)
+- [Aprenda TypeScript em 50 minutos (Vídeo em Inglês)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
+- Opcionalmente, [crie um app React usando TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4) (artigo em Inglês)
 
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.js é um framework minimalista para renderizar aplicações React do lado do servidor. (Fonte: [Next.js — Renderização Correta do React no Servidor](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+Agora tá ficando avançado! Você já construiu uma aplicação em React (ou Vue ou Angular) que faz bastante trabalho no navegador. Por diversas razões (SEO, preocupação com performance do lado do cliente...), você pode querer que sua aplicação front-end seja renderizada no servidor e não no cliente. É aí que entram frameworks como o next.js.
 
-### :book: Learning Areas and Ideas
+### :book: Áreas de Aprendizado e Ideias
 
-- Next.js [Getting Started](https://nextjs.org/learn/)
-- [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- Create a Next.js app or migrate your existing app to Next.js
+- [Iniciando no Next.js](https://nextjs.org/learn/) (Site em Inglês)
+- [Curso Introdutório de Next.js (Vídeo em Inglês)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+- Crie uma aplicação usando o Next.js ou migre a sua aplicação existente para usá-lo!
 
-# But What About X?
+# Mas e X tecnologia?
 
-This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
+Essa lista existe para te dar uma visão abrangente do ecossistema de front-end, mas é simplesmente impossível abordar todos os tópicos existentes, sem nem mencionar a grande quantidade de ferramentas dentro de cada área! Se você acha que eu esqueci de algo importante, por favor veja a seção de [Contribuição](#contributing) para ver como você pode ajudar a melhorar esse guia!
 
-# Project Ideas
+# Ideias de Projetos
 
-As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+Enquanto você estiver progredindo pelo desafio dos 100 Dias de Código, você vai querer fazer um ou mais projetos nos quais você possa aplicar seus novos conhecimentos. Nessa seção, eu tento disponibilizar algumas ideias de projetos que você pode fazer. Como alternativa, você é encorajado a pensar em seus próprios projetos, já que estes podem te interessar e motivar mais.
 
-- Beginner ideas:
-  - Build a portfolio website
-- Intermediate/Advanced ideas:
-  - Build a tweet analysis app (If you know back-end and API integration already)
+- Ideias para iniciantes:
+  - Construa um site de portfolio
+- Ideias intermediárias/avançadas:
+  - Construa uma aplicação de análise de tweets (Se você já souber como integrar com back-ends e APIs)
   
-# Need Help?
+# Precisa de Ajuda?
 
 Generally, I have found the following resources invaluable to learning software development:
 
