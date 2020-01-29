@@ -8,14 +8,14 @@ Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsle
 
 ---
 
-Esse é um currículo feito (com uma certa base na minha opinião) para aprender desenvolvimento front-end durante o desafio dos 100 Dias de Código. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o currículo é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando for necessário.
+Esse é um currículo feito (com uma certa base na minha opinião) para lhe ajudar a aprender desenvolvimento front-end durante o desafio dos 100 Dias de Código. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o guia é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando necessário.
 
-Esse currículo foi influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
+Esse currículo é influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
 
-**Nota**: Eu sei que desenvolvimento front-end pode representar várias coisas diferentes para pessoas diferentes. Se você é um desenvolvedor front-end e acha que esse guia pode ser melhorado, por favor me avise criando um issue como descrito na seção [Contribuindo](#contribuindo). Obrigado!
+**Nota**: Eu sei que desenvolvimento front-end pode representar várias coisas diferentes para pessoas diferentes. Se você é um desenvolvedor front-end e acha que esse guia pode ser melhorado, por favor me avise criando um *issue* como descrito na seção [Contribuindo](#contribuindo). Obrigado!
 
 # Traduções
-Graças à alguns contribuidores incríveis, esse currículo foi traduzido para as seguintes linguagens:
+Graças à alguns contribuidores incríveis, esse guia foi traduzido para as seguintes linguagens:
 
 - [Russo русский](/ru) (traduzido por [@Ibochkarev](https://github.com/Ibochkarev) e [@JonikUl](https://github.com/JonikUl))
 - [Chinês 中文](/chinese) (traduzido por [@simplefeel](https://github.com/simplefeel))
@@ -144,14 +144,14 @@ Desing Web Responsivo (Responsive Web Desing - RWD) é uma abordagem de design w
 
 ### :bulb: Para Lembrar
 
-A principal ideia do Design Web Responsivo é fazer as aplicações web parecerem e funcionarem corretamente em todos os tipos de dispositivos. Um exemplo é que um site tem que parecer e funcionar bem tanto em um computador quanto em um celular. Entender o Design Web Responsivo é essencial para todos os desenvolvedores front-end!
+O principal objetivo do Design Web Responsivo é fazer as aplicações web parecerem e funcionarem corretamente em todos os tipos de dispositivos. Um exemplo é que um site tem que parecer e funcionar bem tanto em um computador quanto em um celular. Entender o Design Web Responsivo é essencial para todos os desenvolvedores front-end!
 
 ### :book: Ideias de Estudos
 
 - Faça a [seção de Princípios de Design Web Responsivo](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Media queries e breakpoints
 - Imagens responsivas
-- Faça seu site desenvolvido anteriormente responsivo!
+- Faça seu site desenvolvido anteriormente ficar responsivo!
 - Use a extensão Chrome DevTools para ver seu site em diferentes dispositivos/tamanhos.
 
 <a name="accessibility"></a>
