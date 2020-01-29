@@ -12,7 +12,7 @@ Esse é um currículo feito (com uma certa base na minha opinião) para aprender
 
 Esse currículo foi influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
 
-**Nota**: Eu sei que desenvolvimento front-end pode representar várias coisas diferentes para pessoas diferentes. Se você é um desenvolvedor front-end e acha que esse guia pode ser melhorado, por favor me avise criando um issue como descrito na seção [Contribuindo](#contributing). Obrigado!
+**Nota**: Eu sei que desenvolvimento front-end pode representar várias coisas diferentes para pessoas diferentes. Se você é um desenvolvedor front-end e acha que esse guia pode ser melhorado, por favor me avise criando um issue como descrito na seção [Contribuindo](#contribuindo). Obrigado!
 
 # Traduções
 Graças à alguns contribuidores incríveis, esse currículo foi traduzido para as seguintes linguagens:
@@ -52,7 +52,7 @@ As atividades recomendadas para cada período de tempo são:
 
 Abaixo você vai encontrar informações sobre cada tópico junto com um guia/ideias do que fazer para cada um. Caso você queira ideias de projetos para fazer junto com esse currículo, veja a seção de [Ideias de Projetos](#project-ideas).
 
-Como parte do princípio do *timeboxing*, não tem problema se você não completar todos os itens nas seções de "Áreas de aprendizado e ideias". Ao invés disso, você deve se focar em conseguir tirar o maior proveito do número de dias dedicados à cada área e então ir adiante.
+Como parte do princípio do *timeboxing*, não tem problema se você não completar todos os itens nas seções de "Ideias de Estudos". Ao invés disso, você deve se focar em conseguir tirar o maior proveito do número de dias dedicados à cada área e então ir adiante.
 
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
@@ -63,7 +63,7 @@ A Linguagem de Marcação de Hipertexto (HyperText Markup Language - HTML) é a 
 
 HTML é a base do desenvolvimento web. Mesmo em frameworks baseados em JavaScript você acaba escrevendo HTML, de uma forma ou de outra.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça a [seção de HTML e HTML5 básicos](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Estrutura de página no HTML
@@ -85,7 +85,7 @@ Folhas de Estilo em Cascata (Cascading Style Sheets - CSS) é uma linguagem de f
 
 CSS é outro componente essencial no desenvolvimento web. Mesmo sendo usado principalmente para estilizar e posicionar elementos HTML, ele vem se tornando cada vez mais capaz de realizar tarefas mais dinâmicas (como animações) que seriam originalmente feitas com JavaScript.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça as [seções de CSS básico, CSS flexbox, e CSS grid](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - CSS in-line
@@ -107,7 +107,7 @@ JavaScript, frequentemente abreviado como JS, é uma linguagem interpretada de a
 
 JavaScript vem se tornando cada vez mais popular no mundo front-end. Ao contrário de quando era usado principalmente para fazer páginas dinâmicas, agora ele é a base de vários frameworks front-end. Esses frameworks realizam diversas tarefas que eram originalmente realizadas pelo back-end (como, por exemplo, roteamento e mostrar diferentes páginas).
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça as [seções de JavaScript básico e ES6](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Muitos fundamentos da linguagem para poder listar aqui!
@@ -127,7 +127,7 @@ jQuery é uma biblioteca JavaScript rápida, pequena e rica em funcionalidades. 
 
 Depois que você tiver usado um pouco o JavaScript puro (também chamado "vanilla"), você pode ter achado algumas tarefas muito pesadas, especialmente aquelas que envolvem acessar e manipular elementos HTML. Por um bom tempo, jQuery era a principal solução para facilitar essas tarefas e as tornar consistentes em diferentes navegadores. Hoje em dia, o jQuery não é mais tão necessário devido aos avanços no JavaScript puro, no CSS e frameworks JavaScript mais novos (nós veremos esses frameworks mais à frente). Mesmo assim, pode ser benéfico aprender um pouco de jQuery e aplicá-lo em algum projeto pequeno.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça a [seção de jQuery](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Document ready
@@ -146,7 +146,7 @@ Desing Web Responsivo (Responsive Web Desing - RWD) é uma abordagem de design w
 
 A principal ideia do Design Web Responsivo é fazer as aplicações web parecerem e funcionarem corretamente em todos os tipos de dispositivos. Um exemplo é que um site tem que parecer e funcionar bem tanto em um computador quanto em um celular. Entender o Design Web Responsivo é essencial para todos os desenvolvedores front-end!
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça a [seção de Princípios de Design Web Responsivo](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Media queries e breakpoints
@@ -163,7 +163,7 @@ Acessibilidade na Web é a prática de incluir, garantindo que não existam barr
 
 Acessibilidade, às vezes escrita como "a11y", é um dos tópicos mais importantes no desenvolvimento web front-end, mas às vezes ela não recebe a atenção que merece. Criar aplicações web acessíveis não é somente eticamente correto, mas também faz sentido no âmbito empresarial, se considerado o aumento do público que poderá ver as suas aplicações.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça a [seção de Acessibilidade Aplicada](https://learn.freecodecamp.org/) no site freeCodeCamp (em Inglês).
 - Leia um pouco no site do [Projeto A11Y](https://a11yproject.com/about) (em Inglês).
@@ -179,7 +179,7 @@ Git é um sistema de versionamento gratuito e de código aberto, feito para lida
 
 Versionamento/Controle de Código é uma ferramenta essencial para todos os desenvolvedores web. Existem diversos sistemas de versionamento de código diferentes, mas o Git é, sem sombra de dúvidas, a mais popular atualmente. Você pode (e deve!) usá-lo para monitorar seus projetos enquanto você aprende.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - [Tutorial de Git para iniciantes (Vídeo em inglês)](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - Instale o git
@@ -204,7 +204,7 @@ O Node.js é um ambiente de tempo de execução de código aberto e multiplatafo
 
 Mesmo o Node.js sendo tipicamente usado como uma ferramenta para o back-end, ele é usado com certa frequência como suporte para o desenvolvimento front-end. Isso é feito de diversas maneiras, incluindo coisas como rodar ferramentas de build, teste e lintagem (Todas serão vistas em breve!). O Node Package Manager (npm) é uma outra funcionalidade interessante do node, usada para gerenciar as dependências do seu projeto (por exemplo, bibliotecas de código que o seu projeto usa, como jQuery).
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Pesquise sobre o node e veja como ele é diferente do navegador
 - Instale o node (o NPM vem junto)
@@ -220,7 +220,7 @@ O Sass é uma extensão do CSS que o deixa mais poderoso e elegante. Ela possibi
 
 Sass possibilita escrever CSS de uma maneira mais parecida com uma linguagem de programação. Se você já usou CSS, pode ser que você tenha percebido que existe muita repetição de informações (especificar várias vezes a mesma cor, por exemplo). No Sass, é possível usar variáveis, laços de repetição e encadeamento para reduzir a redundância e facilitar o entendimento. O código em Sass pode ser fácil e rapidamente compilado para CSS normal.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - [Instale o Sass](https://sass-lang.com/install) globalmente com o npm!
 - [Curso introdutório de Sass (Vídeo em Inglês)](https://www.youtube.com/watch?v=roywYSEPSvc)
@@ -238,7 +238,7 @@ O Bootstrap é um framework front-end gratuito e de código aberto para desenvol
 
 Existem muitas opções para montar o layout, estilizar e dinamizar a sua aplicação web, mas você verá que começar com um framework vai te ajudar muito a dar o pontapé inicial em uma página. O Bootstrap é um desses frameworks, mas está longe de ser o único! Eu recomendo você se familiarizar com algum framework como esse, mas é muito mais importante saber os fundamentos do HTML, CSS e JavaScript do que se viciar em algum framework.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Aprenda o que é Bootstrap e porquê você deveria usá-lo
 - [Curso introdutório de Bootstrap 4 (Vídeo em Inglês)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
@@ -254,7 +254,7 @@ A metodologia Bloco, Elemento, Modificador (conhecida como BEM) é uma convenç�
 
 É importante saber que sistemas de nomeação/organização como o BEM existem e para quê eles são usados. Pesquise um pouco sobre o BEM, mas em um nível iniciante eu não recomendaria dedicar muito tempo a isso.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Leia a [introdução ao BEM](http://getbem.com/introduction/) (Site em Inglês)
 - Como alternativa, [leia esse artigo em Portugês](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
@@ -270,7 +270,7 @@ O Gulp é um kit de ferramentas para automatizar tarefas demoradas ou entediante
 
 No desenvolvimento front-end moderno, você vai frequentemente se encontrar precisando automatizar tarefas como combinar e mover arquivos e injetar referências em arquivos HTML. O Gulp é uma ferramenta que pode te ajudar a realizar essas coisas!
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Instale o Gulp com o npm
 - Siga o [tutorial de Gulp para iniciantes](https://css-tricks.com/gulp-for-beginners/) no site CSS-Tricks (Em Inglês)
@@ -289,7 +289,7 @@ Em seu núcleo, o webpack é um agrupador de módulos estáticos para aplicaçõ
 
 Imagine que você tenha um projeto de desenvolvimento web grande, com diversos desenvolvedores trabalhando em diversas tarefas. Ao invés de ter todos eles trabalhando no mesmo arquivo, pode ser que você prefira modularizar os arquivos tanto quanto possível. O webpack ajuda a fazer isso, pois ele deixa o seu time trabalhar de forma modularizada e então, quando for a hora de construir a aplicação, o webpack junta tudo: HTML, CSS/Sass, JavaScript, imagens, etc. O webpack não é o único agrupador de módulos, mas no momento ele está na liderança.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Leia os [conceitos de webpack](https://webpack.js.org/concepts/) (Site em Inglês)
 - [O que é webpack e como ele funciona? (Vídeo em Inglês)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
@@ -304,7 +304,7 @@ O ESLint é uma utilidade de código aberto de lintagem de código JavaScript, c
 
 A lintagem é uma ferramenta fantástica para manter a qualidade, a consistência e a legibilidade do código. Usar um software de lintagem vai ajudar a achar erros de sintaxe e formação antes de eles irem para a produção. Você pode rodar esses softwares manualmente ou incluí-los no seu processo de build/deploy.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Instale o ESLint usando o npm
 - [Como configurar o VS Code + Prettier + ESLint (Vídeo em Inglês)](https://www.youtube.com/watch?v=YIvjKId9m2c)
@@ -321,7 +321,7 @@ O React (também conhecido como React.js ou ReactJS) é uma biblioteca JavaScrip
 
 Frameworks JavaScript para front-end são os líderes no desenvolvimento front-end moderno. Algo importante para se lembrar é que, apesar de ser incrivelmente popular, o React é somente uma bilbioteca para construir interfaces de usuários, enquanto frameworks como Vue e Angular possuem mais funcionalidades. Por exemplo, se você construir uma aplicação com React que precise rotear para diferentes visões (ver [MVC](https://pt.wikipedia.org/wiki/MVC)), você precisará de algo como o `react-router`.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Faça o [tutorial do React](https://pt-br.reactjs.org/tutorial/tutorial.html) (Site em Português)
 - [Aprenda React com o Mosh (Vídeo em Inglês)](https://www.youtube.com/watch?v=Ke90Tje7VS0)
@@ -331,21 +331,21 @@ Frameworks JavaScript para front-end são os líderes no desenvolvimento front-e
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
+O Redux é um contêiner de estados previsíveis para aplicações JavaScript. Ele te ajuda a escrever aplicações que agem consistentemente, funcionam em ambientes diferentes (cliente, servidor e nativo), e são fáceis de testar. Além disso, ele proporciona um certo conforto para o desenvolvedor, já que possui atualização em tempo real combinado com um debugger que "viaja pelo tempo". (Fonte: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
-### :bulb: Quick Takeaway
+### :bulb: Para Lembrar
 
-As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
+Conforme você for construindo aplicações front-end cada vez maiores, você comecará a perceber que é difícil manter o estado da aplicação: coisas como verificar se o usuário está logado, quem o usuário é, e de forma geral o que está acontecendo na apicação. O Redux é uma ótima biblioteca que te ajuda a manter uma única fonte de estados na qual a sua aplicação pode basear sua lógica.
 
-### :book: Learning Areas and Ideas
+### :book: Ideias de Estudos
 
-- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
-- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
-  - Single source of truth
-  - State is read-only
-  - Changes are made with pure functions
-- Add Redux state management to your app!
+- Esse [tutorial de Redux em vídeo (Em Inglês)](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- Essa [série sobre Redux (Em Inglês)](https://egghead.io/courses/getting-started-with-redux) feita por Dan Abramov, criador do Redux
+- Entenda os [três princípios do Redux](https://redux.js.org/introduction/three-principles) (Em Inglês)
+  - Uma única fonte da verdade
+  - O estado só pode ser lido
+  - Mudanças são feitas com funções puras
+- Adicione o gerenciamento de estados do Redux à sua aplicação!
 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
@@ -356,7 +356,7 @@ O Jest é um framework para Testes em programas JavaScript, focado em simplicida
 
 É muito importante desenvolver testes automatizados para seus projetos de front-end. Configurar testes automatizados vai te possibilitar fazer mudanças futuras com confiança. Se você fez mudanças e os testes ainda passam, você vai poder ter quase certeza de que nada foi quebrado. Existem muitos frameworks de testes para poder listar todos, mas o Jest é um dos meus favoritos.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - Aprenda os [básicos do Jest](https://jestjs.io/docs/pt-BR/getting-started)
 - Se você usou o comando `create-react-app`, [o Jest já está configurado](https://facebook.github.io/create-react-app/docs/running-tests).
@@ -373,7 +373,7 @@ O TypeScript é uma linguagem de programação open-source desenvolvida e mantid
 
 O JavaScript é dinamicamente tipado. No entanto, é uma crença popular que a tipagem estática (especificando tipos de variáveis, classes e interfaces na declaração) é mais limpa e reduz a possibilidade de ocorrência de erros e bugs. Independente da sua opinião, é importante pelo menos experimentar uma versão com tipagem estática para o JavaScript (como o TypeScript). Perceba que o TypeScript é transpilado para JavaScript, para que ele pode ser interpretado pelo navegador, ou seja, os navegadores não interpretam o TypeScript nativamente.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - [Aprenda TypeScript em 5 minutos](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb) (artigo em Inglês)
 - [Aprenda TypeScript em 50 minutos (Vídeo em Inglês)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
@@ -388,7 +388,7 @@ Next.js é um framework minimalista para renderizar aplicações React do lado d
 
 Agora tá ficando avançado! Você já construiu uma aplicação em React (ou Vue ou Angular) que faz bastante trabalho no navegador. Por diversas razões (SEO, preocupação com performance do lado do cliente...), você pode querer que sua aplicação front-end seja renderizada no servidor e não no cliente. É aí que entram frameworks como o next.js.
 
-### :book: Áreas de Aprendizado e Ideias
+### :book: Ideias de Estudos
 
 - [Iniciando no Next.js](https://nextjs.org/learn/) (Site em Inglês)
 - [Curso Introdutório de Next.js (Vídeo em Inglês)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
@@ -396,7 +396,7 @@ Agora tá ficando avançado! Você já construiu uma aplicação em React (ou Vu
 
 # Mas e X tecnologia?
 
-Essa lista existe para te dar uma visão abrangente do ecossistema de front-end, mas é simplesmente impossível abordar todos os tópicos existentes, sem nem mencionar a grande quantidade de ferramentas dentro de cada área! Se você acha que eu esqueci de algo importante, por favor veja a seção de [Contribuição](#contributing) para ver como você pode ajudar a melhorar esse guia!
+Essa lista existe para te dar uma visão abrangente do ecossistema de front-end, mas é simplesmente impossível abordar todos os tópicos existentes, sem nem mencionar a grande quantidade de ferramentas dentro de cada área! Se você acha que eu esqueci de algo importante, por favor veja a seção de [Contribuição](#contribuindo) para ver como você pode ajudar a melhorar esse guia!
 
 # Ideias de Projetos
 
@@ -409,35 +409,35 @@ Enquanto você estiver progredindo pelo desafio dos 100 Dias de Código, seria b
   
 # Precisa de Ajuda?
 
-Generally, I have found the following resources invaluable to learning software development:
+Esses recursos são essenciais se você quiser aprender desenvolvimento de software:
 
-- Googling the issue
-- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
-- [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- Local software development Meetups! Most are very friendly to all experience levels.
+- Pesquisar no Google pelo erro
+- [Stack Overflow](http://www.pt.stackoverflow.com) (Existe uma boa chance de que a sua pergunta já tenha sido feita e vai aparecer se você pesquisar pelo erro no Google).
+- [Mozilla MDN Web Docs](https://developer.mozilla.org/pt-BR/)
+- [freeCodeCamp](https://www.freecodecamp.org/) (Em Inglês)
+- Encontros de programação locais! A maioria vai ser amigável, independente do seu nível de experiência.
 
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
+Se você gostaria da minha opinião em algum assunto, sinta-se livre para se [conectar comigo no Twitter](http://www.twitter.com/nas5w) e eu farei o meu melhor para tentar te ajduar. Se você acha que há algum erro nesse guia ou tem alguma recomendação, veja a [seção de contribuição](#contribuindo) abaixo.
 
-# Contributing
+# Contribuindo
 
-## Spread the Word
+## Compartilhe
 
-If you appreciate the work done here, you can contribute significantly by spreading the word about this repository, including things like:
+Se você gostou do trabalho feito aqui, você pode contribuir espalhando esse respositório, fazendo coisas como:
 
-- Starring and forking this repository
-- Sharing this repository on social media
+- Dar estrela e fork nesse repositório
+- Compartilhando esse repositório nas mídias sociais
 
-## Contribute to this Repository
+## Contribua com esse Repositório
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
+Esse repositório é um trabalho em andamento e eu aprecio qualquer forma de ajuda para manter os conhecimentos atualizados!
 
-When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+Antes de contribuir com esse repositório, por favor discussa a mudança que você gostaria de fazer via *issues* antes de desenvolvê-la. Caso contrário, será bastante difícil entender a sua proposta e isso pode resultar em você ter gasto bastante tempo com uma mudança que não será integrada.
 
-Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
+Por favor perceba que todos os envolvidos nesse projeto estão ou tentanto aprender ou tentanto ajudar, então seja gentil com todos!
 
-## Pull Request Process
+## Processo de Pull Request
 
-1. Create an issue outlining the proposed pull request.
-2. Obtain approval from a project owner to make the proposed change.
-3. Create the pull request.
+1. Crie um *issue* descrevendo a proposta de Pull Request
+2. Obtenha a aprovação de um dos donos do projeto para fazer a alteração.
+3. Crie a Pull Request.
