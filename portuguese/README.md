@@ -252,7 +252,7 @@ A metodologia Bloco, Elemento, Modificador (conhecida como BEM) é uma convenç�
 
 ### :bulb: Para Lembrar
 
-É importante saber que sistemas de nomeação/organização como o BEM existem e para quê eles são usados. Pesquise um pouco sobre o BEM, mas em um nível iniciante eu não recomendaria dedicar muito tempo a isso.
+É importante saber que sistemas de nomeação/organização como o BEM existem e para quê eles são usados. Pesquise um pouco sobre o BEM, mas se você for um iniciante eu não recomendaria dedicar muito tempo a isso.
 
 ### :book: Ideias de Estudos
 
@@ -302,7 +302,7 @@ O ESLint é uma utilidade de código aberto de lintagem de código JavaScript, c
 
 ### :bulb: Para Lembrar
 
-A lintagem é uma ferramenta fantástica para manter a qualidade, a consistência e a legibilidade do código. Usar um software de lintagem vai ajudar a achar erros de sintaxe e formação antes de eles irem para a produção. Você pode rodar esses softwares manualmente ou incluí-los no seu processo de build/deploy.
+A lintagem é uma ferramenta fantástica para manter a qualidade, a consistência e a legibilidade do código. Usar um software de lintagem vai ajudar a achar erros de sintaxe e formatação antes de eles irem para a produção. Você pode rodar esses softwares manualmente ou incluí-los no seu processo de build/deploy.
 
 ### :book: Ideias de Estudos
 
@@ -426,13 +426,13 @@ Se você gostaria da minha opinião em algum assunto, sinta-se livre para se [co
 Se você gostou do trabalho feito aqui, você pode contribuir espalhando esse respositório, fazendo coisas como:
 
 - Dar estrela e fork nesse repositório
-- Compartilhando esse repositório nas mídias sociais
+- Compartilhar esse repositório nas mídias sociais
 
 ## Contribua com esse Repositório
 
 Esse repositório é um trabalho em andamento e eu aprecio qualquer forma de ajuda para manter os conhecimentos atualizados!
 
-Antes de contribuir com esse repositório, por favor discussa a mudança que você gostaria de fazer via *issues* antes de desenvolvê-la. Caso contrário, será bastante difícil entender a sua proposta e isso pode resultar em você ter gasto bastante tempo com uma mudança que não será integrada.
+Antes de contribuir com esse repositório, por favor exponha a mudança que você gostaria de fazer via *issues* antes de desenvolvê-la. Caso contrário, será bastante difícil entender a sua proposta e isso pode resultar em você ter gasto bastante tempo com uma mudança que não será integrada.
 
 Por favor perceba que todos os envolvidos nesse projeto estão ou tentanto aprender ou tentanto ajudar, então seja gentil com todos!
 
