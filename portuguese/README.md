@@ -10,7 +10,7 @@ Quer aprender mais sobre desenvolvimento front-end? Se inscreva na minha [newsle
 
 Esse é um currículo feito (com uma certa base na minha opinião) para lhe ajudar a aprender desenvolvimento front-end durante o desafio dos 100 Dias de Código. Como ele cobre uma diversa gama de tópicos sobre front-end, ele pode ser visto mais como um "curso introdutório" à estas áreas do que como um aprofundamento em qualquer uma delas. Idealmente, o que você vai levar ao finalizar o guia é alguma familiaridade com cada tópico e a habilidade de se aprofundar em qualquer área quando necessário.
 
-Esse currículo é influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) de Kamran Ahmed. Dê uma olhada, é excelente!
+Esse currículo é influenciado fortemente pelo [Mapa de Conceitos Front-End Moderno](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c), feito por Kamran Ahmed. Dê uma olhada, é excelente!
 
 **Nota**: Eu sei que desenvolvimento front-end pode representar várias coisas diferentes para pessoas diferentes. Se você é um desenvolvedor front-end e acha que esse guia pode ser melhorado, por favor me avise criando um *issue* como descrito na seção [Contribuindo](#contribuindo). Obrigado!
 
