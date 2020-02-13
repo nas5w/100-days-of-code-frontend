@@ -20,6 +20,7 @@ Thanks to some incredible contributors, this curriculum has been translated into
 
 - [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
 - [Chinese 中文](/chinese) (translation by [@simplefeel](https://github.com/simplefeel))
+- [Portuguese Português](/portuguese) (translation by [@Zardosh](https://github.com/Zardosh))
 
 # :calendar: Curriculum
 
