@@ -4,7 +4,7 @@
 
 ---
 
-Want to learn more about frontend development? Consider signing up for my [free newsletter](https://buttondown.email/typeofnan) where I periodically send out digestible bits of frontend knowledge!
+Want to learn more about frontend development? Consider signing up for my [free newsletter](https://buttondown.email/devtuts) where I periodically send out digestible bits of frontend knowledge!
 
 ---
 
