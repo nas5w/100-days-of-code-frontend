@@ -21,7 +21,7 @@ Thanks to some incredible contributors, this curriculum has been translated into
 - [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
 - [Chinese 中文](/chinese) (translation by [@simplefeel](https://github.com/simplefeel))
 - [Portuguese Português](/portuguese) (translation by [@Zardosh](https://github.com/Zardosh))
-- [Polish polski](/polish) (translation by [@mbiesiad](https://github.com/mbiesiad))
+- [Polish polski](https://github.com/mbiesiad/100-days-of-code-frontend/tree/pl_PL/polish) (translation by [@mbiesiad](https://github.com/mbiesiad))
 
 # :calendar: Curriculum
 
