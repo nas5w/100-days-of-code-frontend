@@ -4,7 +4,7 @@
 
 ---
 
-Chcesz dowiedzieć się więcej o programowaniu frontend? Rozważ zapisanie się na mój [bezpłatny biuletyn](https://buttondown.email/devtuts), gdzie okresowo wysyłam przystępnie opisane teksty o frondendzie!
+Chcesz dowiedzieć się więcej o programowaniu frontend? Rozważ zapisanie się na mój [bezpłatny biuletyn](https://buttondown.email/devtuts), gdzie okresowo wysyłam przystępnie opisane teksty o frontendzie!
 
 ---
 
