@@ -204,7 +204,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment that e
 
 ### :bulb: Quick Takeaway
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+While Node.js is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of Node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
 
 ### :book: Learning Areas and Ideas
 
