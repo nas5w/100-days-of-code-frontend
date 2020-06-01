@@ -146,7 +146,7 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 
 ### :bulb: Quick Takeaway
 
-Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+Responsive web design is all about making web applications look and function properly on all types of device. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
 
 ### :book: Learning Areas and Ideas
 
