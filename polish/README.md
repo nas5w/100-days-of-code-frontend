@@ -64,98 +64,98 @@ Hypertext Markup Language (HTML) to język znaczników do tworzenia stron intern
 
 ### :bulb: Szybkie podsumowanie
 
-HTML jest naprawdę podstawą do tworzenia stron internetowych. Nawet we frameworkach opartych na Javascript kończy się pisanie HTML w takiej czy innej formie.
+HTML jest naprawdę podstawą do tworzenia stron internetowych. Nawet we frameworkach opartych na Javascript kończy się w pisaniu HTML, w takiej czy innej formie.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- HTML page structure
-- HTML elements
-- Nesting HTML elements
-- Semantic markup
-- Links / multiple pages
-- Images
-- Audio/video media
-- Forms and form elements
-- Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
+- Przejdź do sekcji [Podstawowy HTML i HTML5](https://learn.freecodecamp.org/) na stronie freeCodeCamp.
+- Struktura strony HTML
+- Elementy HTML
+- Zagnieżdżanie elementów HTML
+- Znaczniki semantyczne
+- Linki / wiele stron
+- Obrazy
+- Media audio/wideo
+- Formy i elementy formularzy
+- Utwórz witrynę wielostronicową! (Zobacz [Pomysły na projekty](#pomysły-na-projekty) jeśli potrzebujesz nieco inspiracji).
 
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
+Kaskadowe arkusze stylów (CSS) to język arkuszy stylów używany do opisywania prezentacji dokumentu napisanego w języku znaczników, takim jak HTML. CSS to podstawowa technologia World Wide Web, obok HTML i JavaScript. CSS został zaprojektowany w celu umożliwienia oddzielenia prezentacji i treści, w tym układu, kolorów i czcionek. Ta separacja może poprawić dostępność treści, zapewnić większą elastyczność i kontrolę w specyfikacji cech prezentacji, umożliwić wielu stronom internetowym współdzielenie formatowania poprzez określenie odpowiedniego CSS w osobnym pliku .css, a także zmniejszyć złożoność i powtarzalność treści strukturalnych. (Źródło: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 ### :bulb: Szybkie podsumowanie
 
-CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
+CSS jest kolejnym istotnym elementem tworzenia stron internetowych. Chociaż jest używany głównie do stylizacji i pozycjonowania elementów HTML, staje się coraz bardziej zdolny do wykonywania bardziej dynamicznych zadań (np. animacji), które kiedyś byłyby obsługiwane przez Javascript.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/) on freeCodeCamp.
+- Rzuć okiem na sekcje [Podstawy CSS, CSS flexbox, oraz CSS grid](https://learn.freecodecamp.org/) na freeCodeCamp.
 - In-line CSS
-- `<style>` tags
-- External CSS with `<link>`
-- Styling elements
-- Selectors
-- Floats, clearing floats
-- Layouts (grid, flexbox)
-- Fonts, custom fonts
-- Style the HTML page(s) you made when learning HTML!
+- `<style>` tagi
+- Zewnętrzny CSS z `<link>`
+- Stylizowanie elementów
+- Selektory
+- Floaty, czyszczenie floatów
+- Layouty (grid, flexbox)
+- Czcionki, niestandardowe czcionki
+- Stylowanie stron(y) HTML, którą stworzyłeś podczas nauki HTML!
 
 <a name="javascript"></a>
 ![JavaScript](https://i.imgur.com/oHdD86j.jpg)
 
-JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
+JavaScript, często skracany do JS, jest interpretowanym językiem programowania wysokiego poziomu, który jest zgodny ze specyfikacją ECMAScript. Jest to język, który jest również charakteryzowany jako dynamiczny, słabo typowany, oparty na prototypach i oparty na wielu paradygmatach. Oprócz HTML i CSS, JavaScript jest jedną z trzech podstawowych technologii w sieci WWW. JavaScript włącza interaktywne strony internetowe i dlatego jest istotną częścią aplikacji internetowych. Zdecydowana większość stron internetowych z niego korzysta, a wszystkie główne przeglądarki internetowe mają dedykowany silnik JavaScript do jego wykonania. (Źródło: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
 ### :bulb: Szybkie podsumowanie
 
-JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
+JavaScript zyskuje na znaczeniu w świecie front-end. Chociaż kiedyś był używany głównie do nadawania dynamiki stronom, obecnie stanowi podstawę wielu frameworków. Frameworki te obsługują wiele zadań, które wcześniej były obsługiwane przez backend (np. routing i wyświetlanie różnych widoków).
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Too many language fundamentals to list here!
-- `<script>` tag and placement
-- Accessing HTML elements
-- The event loop, call stack, and event queue
-- Prototypal Inheritance
+- Rzuć okiem na sekcje [Basic JavaScript and ES6](https://learn.freecodecamp.org/) na freeCodeCamp.
+- Zbyt wiele podstaw z języka, aby wymienić tutaj!
+- `<script>` tag i rozmieszczanie
+- Dostęp do elementów HTML
+- Pętla zdarzeń, stos wywołań i kolejka zdarzeń
+- Dziedziczenie prototypowe
 - Reference vs. value
-- Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
+- Dodaj dynamiczne elementy lub logikę do stron HTML / CSS opracowanych wcześniej!
 
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
+jQuery to szybka, mała i bogata w funkcje biblioteka JavaScript. Ułatwia ona przechodzenie i manipulowanie dokumentami HTML, obsługę zdarzeń, animację i Ajax dzięki łatwemu w obsłudze interfejsowi API, który działa w wielu przeglądarkach. Dzięki połączeniu wszechstronności i rozszerzalności, jQuery zmieniło sposób, w jaki miliony ludzi piszą JavaScript. (Źródło: [jQuery.com](https://jquery.com/))
 
 ### :bulb: Szybkie podsumowanie
 
-After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
+Po spędzeniu czasu z prostym (zwanym też "vanilla") Javascriptem, niektóre zadania mogą być nieco uciążliwe, szczególnie związane z dostępem do elementów HTML i manipulowaniem nimi. Przez długi czas jQuery była biblioteką, w której zadania tego typu były łatwiejsze i spójniejsze w różnych przeglądarkach. W dzisiejszych czasach jQuery niekoniecznie trzeba się uczyć "obowiązkowo" ze względu na postępy w 'prostym' Javascript, CSS i nowszych frameworkach Javascript (przyjrzymy się frameworkom później). Mimo to dobrze byłoby poświęcić trochę czasu na poznanie jQuery i zastosowanie go w małym projekcie.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Document ready
-- Selectors
+- Rzuć okiem na sekcję [jQuery](https://learn.freecodecamp.org/) na freeCodeCamp.
+- Gotowy dokument
+- Selektory
 - Toggle classes
-- Animation
-- Add or move HTML elements
-- Add jQuery to your site!
+- Animacje
+- Dodaj lub przenieś elementy HTML
+- Dodaj jQuery do swojej witryny!
 
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
-Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
+Responsive web design (RWD) to podejście do projektowania stron internetowych, które sprawia, że strony internetowe dobrze renderują się na różnych urządzeniach i rozmiarach okna lub ekranu. Ostatnie prace traktują także bliskość widza jako część kontekstu oglądania, jako rozszerzenie RWD. Treść, konstrukcja i wydajność są niezbędne na wszystkich urządzeniach, aby zapewnić użyteczność i satysfakcję. Strona zaprojektowana przy użyciu RWD dostosowuje układ do środowiska oglądania, używając płynnych, proporcjonalnych siatek, elastycznych obrazów i zapytań o media CSS3, co stanowi rozszerzenie reguły @media. (Źródło:[Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
 ### :bulb: Szybkie podsumowanie
 
-Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+Elastyczne projektowanie stron internetowych polega na tym, aby aplikacje internetowe wyglądały i działały prawidłowo we wszystkich rodzajach urządzeń. Tanim i tandetnym przykładem może być to, że witryna powinna wyglądać i działać poprawnie zarówno w przeglądarce internetowej na komputerze, jak i przeglądarce telefonu komórkowego. Zrozumienie responsywnego projektowania jest kluczowe dla każdego programisty front-end!
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Media queries, breakpoints
-- Responsive images
-- Make your website responsive!
-- Use Chrome DevTools to view your site on different devices/viewports.
+- Rzuć okiem na sekcję [Responsive Web Design Principles](https://learn.freecodecamp.org/) na freeCodeCamp.
+- Zapytania o media, punkty przerwania
+- Responsywne obrazy
+- Spraw, aby Twoja witryna była responsywna!
+- Użyj Chrome DevTools, aby wyświetlić swoją witrynę na różnych urządzeniach / oknach podglądu.
 
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
@@ -166,9 +166,9 @@ Web accessibility is the inclusive practice of ensuring there are no barriers th
 
 Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
+- Rzuć okiem na sekcję [Applied Accessibility](https://learn.freecodecamp.org/) na freeCodeCamp.
 - Read some content on [The A11Y Project](https://a11yproject.com/about)
 - Review their [checklist](https://a11yproject.com/checklist)
 - Update your site(s) for accessibility based on this checklist
@@ -182,7 +182,7 @@ Git is a free and open source distributed version control system designed to han
 
 Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - Install git
@@ -207,7 +207,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment that e
 
 While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Research node and how it is different than the browser
 - Install node (npm comes with it)
@@ -223,7 +223,7 @@ Sass is an extension of CSS that adds power and elegance to the basic language. 
 
 Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - [Install Sass](https://sass-lang.com/install) globally with npm!
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
@@ -241,7 +241,7 @@ Bootstrap is a free and open-source front-end framework for developing websites 
 
 There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Learn what Bootstrap is and why you would want to use it
 - [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
@@ -257,7 +257,7 @@ The Block, Element, Modifier methodology (commonly referred to as BEM) is a popu
 
 It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Read the [BEM introduction](http://getbem.com/introduction/)
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
@@ -272,7 +272,7 @@ Gulp is a toolkit for automating painful or time-consuming tasks in your develop
 
 In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Install gulp with npm
 - Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
@@ -291,7 +291,7 @@ At its core, webpack is a static module bundler for modern JavaScript applicatio
 
 Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Read [webpack concepts](https://webpack.js.org/concepts/)
 - [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
@@ -306,7 +306,7 @@ ESLint is an open source JavaScript linting utility originally created by Nichol
 
 Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Install eslint using npm
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
@@ -323,9 +323,9 @@ React (also known as React.js or ReactJS) is a JavaScript library for building u
 
 Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
-- Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- Rzuć okiem na sekcję [tutoriala z Reacta](https://reactjs.org/tutorial/tutorial.html)
 - [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - Refactor your website as a React app!
 - Note: `create-react-app` is a convenient tool to scaffold new React projects.
@@ -339,7 +339,7 @@ Redux is a predictable state container for JavaScript apps. It helps you write a
 
 As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
 - This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
@@ -358,7 +358,7 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It
 
 It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
 - If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
@@ -375,7 +375,7 @@ TypeScript is an open-source programming language developed and maintained by Mi
 
 JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
@@ -390,7 +390,7 @@ Next.js is a minimalistic framework for server-rendered React applications. (Sou
 
 Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
 
-### :book: Learning Areas and Ideas
+### :book: Obszary nauki i pomysły
 
 - Next.js [Getting Started](https://nextjs.org/learn/)
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
@@ -402,24 +402,24 @@ This list is supposed to give you broad exposure to the front-end ecosystem, but
 
 # Pomysły na projekty
 
-As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+W miarę postępów podczas #100DaysOfCode będziesz potrzebować jednego lub wielu projektów, do których możesz zastosować swoją nową wiedzę. W tej sekcji staram się przedstawić kilka pomysłów na projekt, z których możesz skorzystać. Możesz też zaproponować własne pomysły na projekty, które mogą Cię zainteresować i motywować.
 
-- Beginner ideas:
-  - Build a portfolio website
-- Intermediate/Advanced ideas:
-  - Build a tweet analysis app (If you know back-end and API integration already)
+- Pomysły dla początkujących:
+  - Stwórz stronę z portfolio
+- Pomysły dla średniozaawansowanych/zaawansowanych:
+  - Zbuduj aplikację do analizy tweetów (jeśli znasz już backend i integrację interfejsu API)
   
 # Potrzebujesz pomocy?
 
-Generally, I have found the following resources invaluable to learning software development:
+Ogólnie rzecz biorąc, uważam następujące materiały za nieocenione przy tworzeniu oprogramowania do nauki:
 
-- Googling the issue
-- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
+- Googlowanie określonego problemu
+- [StackOverflow](http://www.stackoverflow.com) (Jest duża szansa, że twoje pytanie zostało już zadane i będzie wysoko w rankingu podczas wyszukiwania w Google).
 - [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- Local software development Meetups! Most are very friendly to all experience levels.
+- Lokalne spotkania z dziedziny oprogramowania typu Meetups! Większość jest bardzo przyjazna dla wszystkich poziomów doświadczenia.
 
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
+Jeśli chcesz mieć cokolwiek do powiedzenia, nie krępuj się [połączyć ze mną na Twitter](http://www.twitter.com/nas5w), dołożę wszelkich starań, aby zaoferować pomoc. Jeśli uważasz, że występuje problem z programem nauczania lub masz zalecenie, zobacz [sekcja Współtworzenie](#współtworzenie), która znajduje się poniżej.
 
 # Współtworzenie
 
@@ -430,19 +430,19 @@ Jeśli doceniasz pracę wykonaną tutaj, możesz znacząco przyczynić się w ro
 - Dając gwiazdkę lub tworząc fork tego repo
 - Podzielić się tym repo w social media
 
-## Contribute to this Repository
+## Współtworz to repozytorium
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
+Jest to praca w toku (WIP) i bardzo doceniam wszelką pomoc w utrzymaniu tej bazy wiedzy!
 
-When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+Współuczestnicząc w tym repozytorium, przed wprowadzeniem zmiany omów najpierw zmianę, którą chcesz wprowadzić za pośrednictwem issue. W przeciwnym razie bardzo trudno będzie zrozumieć Twoją propozycję i może to potencjalnie spowodować, że włożysz dużo pracy w zmianę, która nie zostanie scalona, zmergowana.
 
-Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
+Pamiętaj, że wszyscy zaangażowani w ten projekt albo próbują się uczyć, albo próbują pomóc - Bądź miły!
 
-## Pull Request Process
+## Proces Pull Requestu
 
-1. Create an issue outlining the proposed pull request.
-2. Obtain approval from a project owner to make the proposed change.
-3. Create the pull request.
+1. Stwórz issue dotyczący zarysu proponowanego pull requesta.
+2. Uzyskaj zgodę właściciela projektu na wprowadzenie proponowanej zmiany.
+3. Stwórz pull request.
 
 _________________________________________________________________________
 
