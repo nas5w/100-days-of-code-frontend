@@ -12,7 +12,7 @@ Jest to nieco opiniotwórczy program do nauki programowania front-end podczas #1
 
 Na ten program nauczania znaczący wpływ miał artykuł Kamrana Ahmed'sa o tytule [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c). Sprawdź to sam - jest doskonały.
 
-**Uwaga**: Wiem, że programowanie frontendu oznacza wiele różnych rzeczy dla wielu ludzi! Jeśli jesteś programistą typu frontend i uważasz, że ten przewodnik można ulepszyć, daj mi znać, tworząc issue zgodnie z opisem w sekcji [Współtworzenie](#contributing). Dziękuję!
+**Uwaga**: Wiem, że programowanie frontendu oznacza wiele różnych rzeczy dla wielu ludzi! Jeśli jesteś programistą typu frontend i uważasz, że ten przewodnik można ulepszyć, daj mi znać, tworząc issue zgodnie z opisem w sekcji [Współtworzenie](#współtworzenie). Dziękuję!
 
 # Tłumaczenia
 
