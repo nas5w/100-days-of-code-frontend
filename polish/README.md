@@ -160,34 +160,34 @@ Elastyczne projektowanie stron internetowych polega na tym, aby aplikacje intern
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
-Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+Dostępność WWW to powszechna praktyka polegająca na zapewnieniu, że nie ma barier uniemożliwiających osobom niepełnosprawnym interakcję lub ogólnie dostęp do stron internetowych. Gdy witryny są prawidłowo zaprojektowane, opracowane i edytowane, ogólnie wszyscy użytkownicy mają równy dostęp do informacji i funkcjonalności. (Źródło: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
 ### :bulb: Szybkie podsumowanie
 
-Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
+Dostępność, często zapisywana jako a11y, jest jednym z najważniejszych tematów w tworzeniu stron internetowych, ale często wydaje się, że jest ona krótka. Tworzenie dostępnych aplikacji internetowych jest nie tylko etycznie uzasadnione, ale ma również sens z biznesowego punktu widzenia, biorąc pod uwagę dodatkową grupę odbiorców, którzy będą mogli przeglądać twoje aplikacje, gdy będą szeroko dostępne.
 
 ### :book: Obszary nauki i pomysły
 
 - Rzuć okiem na sekcję [Applied Accessibility](https://learn.freecodecamp.org/) na freeCodeCamp.
-- Read some content on [The A11Y Project](https://a11yproject.com/about)
-- Review their [checklist](https://a11yproject.com/checklist)
-- Update your site(s) for accessibility based on this checklist
+- Przeczytaj treść na [The A11Y Project](https://a11yproject.com/about)
+- Przejrzyj ich [listę kontrolną](https://a11yproject.com/checklist)
+- Zaktualizuj swoje witryny w celu uzyskania ułatwień dostępu na podstawie tej listy kontrolnej
 
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
+Git to darmowy i rozproszony system kontroli wersji, przeznaczony do obsługi wszystkiego - od małych po bardzo duże projekty - z szybkością i wydajnością. (Źródło: [git-scm.com](https://git-scm.com/))
 
 ### :bulb: Szybkie podsumowanie
 
-Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
+Kontrola wersji / kodu jest niezbędną częścią zestawu narzędzi każdego programisty. Istnieje wiele różnych systemów kontroli wersji, ale Git jest obecnie najbardziej rozpowszechniony. Możesz (i powinieneś!) używać go do śledzenia swoich projektów w trakcie nauki!
 
 ### :book: Obszary nauki i pomysły
 
-- [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- Install git
-- Set up a [github](https://github.com) account
-- Learn the most-used git commands:
+- [Samouczek Git dla początkujących (wideo)](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- Zainstaluj git
+- Załóż konto na [GitHub](https://github.com)
+- Naucz się najczęściej używanych poleceń git:
   - init
   - clone
   - add
@@ -196,209 +196,209 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - pull
   - merge
   - rebase
-- Add your existing projects to github!
+- Dodaj swoje stworzone projekty na GitHub!
 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
+Node.js to open-source'owe, wieloplatformowe środowisko wykonawcze JavaScript, które wykonuje kod JavaScript poza przeglądarką. JavaScript jest używany głównie do skryptów po stronie klienta, w których skrypty napisane w JavaScript są osadzone w kodzie HTML strony i uruchamiane po stronie klienta przez silnik JavaScript w przeglądarce internetowej użytkownika. Node.js pozwala programistom używać JavaScript do pisania narzędzi wiersza poleceń oraz do skryptów po stronie serwera - uruchamianie skryptów po stronie serwera w celu tworzenia dynamicznej zawartości strony internetowej, zanim strona zostanie wysłana do przeglądarki internetowej użytkownika. W związku z tym Node.js reprezentuje paradygmat "JavaScript wszędzie", ujednolicając tworzenie aplikacji internetowych wokół jednego języka programowania, a nie różnych języków dla skryptów po stronie serwera i klienta. (Źródło: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
 ### :bulb: Szybkie podsumowanie
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+Chociaż Node.js jest zwykle znany jako rozwiązanie back-end, jest on dość często wykorzystywany do wspierania rozwoju front-endu. Robi to na wiele sposobów, włączając w to uruchamianie narzędzi do kompilacji, testowanie i lintowanie (wszystko to wkrótce zostanie opisane!). Menedżer pakietów Node'a (npm) jest kolejnym świetnym featurem Node'a i może być używany do zarządzania zależnościami twojego projektu (tj. bibliotek kodu, na których projekt może polegać - przykładem jest jQuery!).
 
 ### :book: Obszary nauki i pomysły
 
-- Research node and how it is different than the browser
-- Install node (npm comes with it)
-- Create a simple javascript file and run it with node
-- Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
+- Zapoznaj się z Node'm i sprawdź jak różni się od przeglądarki
+- Zainstaluj Node (npm będzie wraz z nim)
+- Utwórz prosty plik Javascript i uruchom go z Node'm
+- Używaj NPM do zarządzania wszelkimi zależnościami w istniejących projektach (np. JQuery!)
 
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
-Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
+Sass to rozszerzenie CSS, które dodaje mocy i elegancji do podstawowego języka. Pozwala na używanie zmiennych, zagnieżdżonych reguł, mixins, importów inline i innych, a wszystko to przy pomocy w pełni kompatybilnej składni CSS. Sass pomaga dobrze zorganizować duże arkusze stylów i szybko uruchamia małe arkusze stylów, szczególnie przy pomocy biblioteki stylów Compass. (Źródło:[sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
 ### :bulb: Szybkie podsumowanie
 
-Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
+Sass pozwala pisać CSS w bardziej programowy sposób. Jeśli zrobiłeś trochę CSS, być może zauważyłeś, że w końcu powtarzasz wiele informacji - na przykład, podając ten sam kod koloru. W Sass możesz używać takich zmiennych, pętli i zagnieżdżania, aby zmniejszyć nadmiarowość i zwiększyć czytelność. Po napisaniu kodu w Sass, możesz szybko i łatwo skompilować go do zwykłego CSS.
 
 ### :book: Obszary nauki i pomysły
 
-- [Install Sass](https://sass-lang.com/install) globally with npm!
-- [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
-- Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
-- Update your existing site to generate your CSS using Sass!
+- [Zainstaluj Sass](https://sass-lang.com/install) globalnie z npm!
+- [Kurs wideo Sass Crash](https://www.youtube.com/watch?v=roywYSEPSvc)
+- Obserwuj [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) poradnik Sass.
+- Zaktualizuj istniejącą witrynę, aby wygenerować CSS za pomocą Sass!
 
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
-\* Some alternatives: Foundation, Bulma, Materialize
+\* Niektóre alternatywy: Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
+Bootstrap to darmowy i otwarty framework do tworzenia stron internetowych i aplikacji internetowych. Zawiera szablony projektowania oparte na HTML i CSS dla typografii, formularzy, przycisków, nawigacji i innych komponentów interfejsu, a także opcjonalne rozszerzenia JavaScript. (Źródło: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
 
 ### :bulb: Szybkie podsumowanie
 
-There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
+Istnieje wiele opcji układania, stylizowania i dynamizowania aplikacji sieci Web, ale przekonasz się, że rozpoczęcie pracy z frameworkiem bardzo pomaga w uzyskaniu przewagi. Bootstrap jest jednym z takich frameworków, ale zdecydowanie nie jest jedyną opcją! Polecam zapoznanie się z jednym z takich frameworków, ale o wiele ważniejsze jest zrozumienie podstaw HTML, CSS i JavaScript niż bycie wciągniętym w jakikolwiek framework.
 
 ### :book: Obszary nauki i pomysły
 
-- Learn what Bootstrap is and why you would want to use it
-- [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
-- Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
-- Refactor your site using bootstrap!
+- Dowiedz się, czym jest Bootstrap i dlaczego chcesz go używać
+- [Kurs (wideo) Bootstrap 4 Crash](https://www.youtube.com/watch?v=hnCmSXCZEpU)
+- Sekcja Bootstrap na [freeCodeCamp](https://learn.freecodecamp.org/)
+- Przebuduj swoją witrynę za pomocą Bootstrap!
 
 <a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
-The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
+Metodologia Block, Element, Modifier (popularnie zwana BEM) to popularna konwencja nazewnictwa dla klas w HTML i CSS. Opracowany przez zespół Yandex, jego celem jest pomoc programistom w lepszym zrozumieniu związku między HTML, a CSS w danym projekcie. (Źródło: [css-tricks.com](https://css-tricks.com/bem-101/))
 
 ### :bulb: Szybkie podsumowanie
 
-It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
+Ważne jest, aby wiedzieć, że istnieją systemy nazewnictwa i organizacji takie jak BEM i dlaczego są one używane. Przeprowadź tutaj research, ale na poziomie początkującym nie zalecałbym poświęcania zbyt wiele czasu temu tematowi.
 
 ### :book: Obszary nauki i pomysły
 
-- Read the [BEM introduction](http://getbem.com/introduction/)
-- [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
-- Create a simple webpage using BEM conventions.
+- Przeczytaj [wprowadzenie do BEM](http://getbem.com/introduction/)
+- [Why I Use BEM (wideo)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
+- Utwórz prostą stronę internetową, korzystając z konwencji BEM.
 
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
-Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
+Gulp to zestaw narzędzi do automatyzacji bolesnych lub czasochłonnych zadań w toku prac programistycznych, dzięki czemu możesz przestać narzekać i coś zbudować łatwiej. (Źródło: [gulpjs.com](https://gulpjs.com/))
 
 ### :bulb: Szybkie podsumowanie
 
-In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
+We współczesnym programowaniu front-end często musisz zautomatyzować zadania takie jak łączenie pakietów, przenoszenie plików i wstrzykiwanie odniesień do plików HTML. Gulp to jedno narzędzie, które może ci pomóc w zrobieniu tych rzeczy!
 
 ### :book: Obszary nauki i pomysły
 
-- Install gulp with npm
-- Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
-- In your website, set up gulp to:
-  - Compile Sass for you
-  - Put the generated CSS file in `build` subdirectory
-  - Move your web pages to the build directory
-  - Inject a reference to your generated CSS file into your web pages
+- Zainstaluj gulp z npm
+- Obserwuj [poradnik gulp dla początkujących](https://css-tricks.com/gulp-for-beginners/) na CSS-Tricks
+- W swojej witrynie skonfiguruj gulp, aby:
+   - Skompilować Sass dla ciebie
+   - Umieścić wygenerowany plik CSS w podkatalogu `build`
+   - Przenieść swoje strony internetowe do katalogu kompilacji
+   - Wstawić odniesienie do wygenerowanego pliku CSS na swoje strony internetowe
 
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
-At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
+Zasadniczo Webpack to statyczny pakiet modułów dla nowoczesnych aplikacji JavaScript. Gdy Webpack przetwarza aplikację, wewnętrznie tworzy wykres zależności, który mapuje każdy moduł, którego potrzebuje Twój projekt, i generuje jeden lub więcej pakietów. (Źródło: [webpack.js.org](https://webpack.js.org/concepts/))
 
 ### :bulb: Szybkie podsumowanie
 
-Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
+Wyobraź sobie, że masz duży projekt webowy z wieloma różnymi programistami pracującymi nad wieloma różnymi zadaniami. Zamiast wszystkich pracujących w tych samych plikach, możesz je zmodularyzować w jak największym stopniu. Webpack pomaga to włączyć, pozwalając zespołowi na pracę modułową, a następnie, gdy przyjdzie czas na zbudowanie aplikacji, Webpack sklei to wszystko razem: HTML, CSS / Sass, JavaScript, obrazy itp. Webpack nie jest jedynym pakietem modułów, ale wydaje się być w tej chwili liderem.
 
 ### :book: Obszary nauki i pomysły
 
-- Read [webpack concepts](https://webpack.js.org/concepts/)
-- [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
-- [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+- Przeczytaj [koncepcje webpack](https://webpack.js.org/concepts/)
+- [What is Webpack, How does it work? (wideo)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+- [Ten poradnik webpack](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
 <a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
-ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
+ESLint to narzędzie do generowania kodu JavaScript o otwartym kodzie źródłowym, pierwotnie stworzone przez Nicholasa C. Zakasa w czerwcu 2013 r. Lintowanie kodu jest rodzajem analizy statycznej, często używanej do znajdowania problematycznych wzorców lub kodu, który nie jest zgodny z pewnymi wytycznymi stylu. W większości języków programowania występują fragmenty kodu, a kompilatory czasami włączają do procesu kompilacji lintowanie. (Źródło: [eslint.org](https://eslint.org/docs/about/))
 
 ### :bulb: Szybkie podsumowanie
 
-Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
+Linting jest fantastycznym narzędziem do poprawy jakości kodu, czytelności i spójności. Korzystanie z linijki pomoże ci wychwycić błędy w składni i formatowaniu, zanim trafią do produkcji. Możesz uruchamiać lintery ręcznie lub włączyć je do procesu kompilacji / wdrażania.
 
 ### :book: Obszary nauki i pomysły
 
-- Install eslint using npm
-- [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
-- Lint your JavaScript
+- Zainstaluj eslint używając npm
+- [How to Setup VS Code + Prettier + ESLint (wideo)](https://www.youtube.com/watch?v=YIvjKId9m2c)
+- Lintuj swój JavaScript
 
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
 \* Some alternatives: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+React (znany również jako React.js lub ReactJS) to biblioteka JavaScript do tworzenia interfejsów użytkownika. Prowadzony jest przez Facebooka oraz społeczność indywidualnych programistów i firm. React może być wykorzystany jako podstawa do opracowania aplikacji jednostronicowych lub mobilnych. Złożone aplikacje React zwykle wymagają użycia dodatkowych bibliotek do zarządzania stanem, routingiem i interakcją z interfejsem API. (źródło: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 ### :bulb: Szybkie podsumowanie
 
-Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
+Frameworki JavaScriptu znajdują się w czołówce nowoczesnego programowania front-endu. Jedną ważną rzeczą tutaj jest to, że React, mimo że jest niezwykle popularny, to tylko biblioteka do tworzenia interfejsów użytkownika, podczas gdy frameworki takie jak Vue i Angular mają być w pełni wyposażone. Na przykład, jeśli zbudujesz aplikację w React, która musi kierować do różnych widoków, musisz wprowadzić coś takiego `react-router`.
 
 ### :book: Obszary nauki i pomysły
 
 - Rzuć okiem na sekcję [tutoriala z Reacta](https://reactjs.org/tutorial/tutorial.html)
-- [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-- Refactor your website as a React app!
-- Note: `create-react-app` is a convenient tool to scaffold new React projects.
+- [Nauka React z Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+- Przebuduj swoją stronę jako aplikację React!
+- Uwaga: `create-react-app` jest wygodnym narzędziem do 'rusztowania' nowych projektów React.
 
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
+Redux to kontener stanu dla aplikacji JavaScript. Pomaga pisać aplikacje, które zachowują się spójnie, działają w różnych środowiskach (klient, serwer i natywnie) i są łatwe do przetestowania. Ponadto zapewnia świetne wrażenia programistyczne, takie jak edycja kodu na żywo w połączeniu z debugerem podróżującym w czasie. (Źródło: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
 ### :bulb: Szybkie podsumowanie
 
-As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
+Gdy budujesz coraz większe aplikacje typu front-end, zaczynasz zdawać sobie sprawę, że trudno jest utrzymać stan aplikacji: na przykład, jeśli użytkownik jest zalogowany, kim jest użytkownik i ogólnie, co się dzieje w aplikacji. Redux to świetna biblioteka, która pomaga utrzymać jedno źródło stanu, na którym aplikacja może oprzeć swoją logikę.
 
 ### :book: Obszary nauki i pomysły
 
-- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
-- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
-  - Single source of truth
-  - State is read-only
-  - Changes are made with pure functions
-- Add Redux state management to your app!
+- Ten [poradnik wideo Redux](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- Ta [seria wideo Redux](https://egghead.io/courses/getting-started-with-redux) od Dan Abramov, twórcy Reduxa
+- Zwróć uwagę na [trzy zasady Reduxa](https://redux.js.org/introduction/three-principles)
+  - Jedno źródło prawdy
+  - Stan jest tylko do odczytu
+  - Zmiany są dokonywane za pomocą czystych funkcji
+- Dodaj zarządzanie stanem Redux do swojej aplikacji!
 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
+Jest to zachwycająca platforma testowania JavaScript z naciskiem na prostotę. Działa z projektami wykorzystującymi: Babel, TypeScript, Node, React, Angular, Vue i wiele więcej! (Źródło: [jestjs.io](https://jestjs.io))
 
 ### :bulb: Szybkie podsumowanie
 
-It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
+Bardzo ważne jest skonfigurowanie automatycznego testowania dla projektów front-end. Skonfigurowanie testów automatycznych pozwoli Ci na pewne zmiany w przyszłości - jeśli wprowadzisz zmiany, a testy będą nadal zaliczane, będziesz mieć pewność, że nie zepsułeś żadnej istniejącej funkcjonalności. Istnieje zbyt wiele frameworków testowania, aby je wymienić; Jest jest po prostu jednym z moich ulubionych.
 
 ### :book: Obszary nauki i pomysły
 
-- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
-- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
-- Add tests to your application!
+- Naucz się [podstaw Jest](https://jestjs.io/docs/en/getting-started)
+- Jeśli używasz `create-react-app`, [Jest jest już skonfigurowany](https://facebook.github.io/create-react-app/docs/running-tests).
+- Dodaj testy do swojej aplikacji!
 
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
-\* Alternative: Flow
+\* Alternatywa: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+TypeScript to język programowania typu open source opracowany i obsługiwany przez Microsoft. Jest to ścisły nadzbiór składniowy JavaScript i dodaje do języka opcjonalne pisanie statyczne. TypeScript jest przeznaczony do tworzenia dużych aplikacji i przekompilowania do JavaScript. Ponieważ TypeScript jest nadzbiorem JavaScript, istniejące programy JavaScript są również prawidłowymi programami TypeScript. TypeScript może być wykorzystywany do tworzenia aplikacji JavaScript do wykonywania zarówno po stronie klienta, jak i po stronie serwera (Node.js). (Źródło: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Szybkie podsumowanie
 
-JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+JavaScript jest dynamicznie typowany. Jednak powszechnie uważa się, że typowanie statyczne (tj. określanie typów zmiennych, klas, interfejsów z wyprzedzeniem) jest zarówno jaśniejsze, jak i zmniejsza prawdopodobieństwo wad / błędów. Niezależnie od tego, jak się czujesz na ten temat, ważne jest, aby przynajmniej poczuć statyczną wersję JavaScript, taką jak TypeScript. Pamiętaj, że TypeScript kompiluje się do JavaScript, więc może być interpretowany przez przeglądarki (tzn. przeglądarki nie interpretują natywnie TypeScript).
 
 ### :book: Obszary nauki i pomysły
 
-- [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
-- [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
-- Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
+- [Naucz się TypeScript w 5 minut](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
+- [Naucz się TypeScript w 50 minut (wideo)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
+- Opcjonalnie [utwórz aplikację React za pomocą TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.js to minimalistyczny framework dla renderowanych przez serwer aplikacji React. (Źródło: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
 ### :bulb: Szybkie podsumowanie
 
-Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+Teraz jesteśmy już zaawansowani! Do tej pory zbudowałeś aplikację React (lub Vue, lub Angular), która wykonuje sporo pracy w przeglądarce. Z różnych powodów (np. SEO, obaw związanych z wydajnością klienta) możesz chcieć renderować aplikację front-end na serwerze, a nie na kliencie. Właśnie tam pojawia się framework taki jak next.js.
 
 ### :book: Obszary nauki i pomysły
 
-- Next.js [Getting Started](https://nextjs.org/learn/)
-- [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- Create a Next.js app or migrate your existing app to Next.js
+- Next.js [Pierwsze kroki](https://nextjs.org/learn/)
+- [Next.js Crash Course (wideo)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+- Stwórz aplikację Next.js lub migruj istniejącą aplikację do Next.js
 
-# But What About X?
+# A co na temat X?
 
-This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
+Ta lista ma dać ci szeroki wgląd w ekosystem front-end, ale po prostu nie można poruszać każdego tematu, nie wspominając o niezliczonych narzędziach w każdym obszarze! Jeśli uważasz, że przegapiłem coś bardzo ważnego, zapoznaj się z sekcją [Współtworzenie](#współtworzenie), aby dowiedzieć się, jak możesz pomóc w ulepszeniu tego przewodnika.
 
 # Pomysły na projekty
 
