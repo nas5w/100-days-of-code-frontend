@@ -36,7 +36,7 @@ Zalecane codzienne czynności są następujące:
 - Dni 17-24: [Podstawy JavaScript](#javascript)
 - Dni 25-27: [jQuery](#jquery)
 - Dni 28-33: [Responsive Web Design](#rwd)
-- Dni 34-36: [Dostępność](#dostępność)
+- Dni 34-36: [Dostępność](#accessibility)
 - Dni 37-39: [Git](#git)
 - Dni 40-44: [Node i NPM](#node)
 - Dni 45-50: [Sass](#sass)
