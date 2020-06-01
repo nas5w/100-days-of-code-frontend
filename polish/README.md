@@ -8,7 +8,7 @@ Chcesz dowiedzieć się więcej o programowaniu frontend? Rozważ zapisanie się
 
 ---
 
-Jest to nieco opiniotwórczy program do nauki programowania front-end podczas # 100DaysOfCode. Ponieważ obejmuje szeroki zakres tematów związanych z programowaniem front-end, można go traktować bardziej jako kurs typu "przegląd", niż głębokie zanurzenie w jednym obszarze. Idealnym rozwiązaniem na ukończenie tego programu będzie znajomość każdego tematu i możliwość łatwego nurkowania głębiej w dowolnym obszarze w przyszłości, jeśli zajdzie taka potrzeba.
+Jest to nieco opiniotwórczy program do nauki programowania front-end podczas #100DaysOfCode. Ponieważ obejmuje szeroki zakres tematów związanych z programowaniem front-end, można go traktować bardziej jako kurs typu "przegląd", niż głębokie zanurzenie w jednym obszarze. Idealnym rozwiązaniem na ukończenie tego programu będzie znajomość każdego tematu i możliwość łatwego nurkowania głębiej w dowolnym obszarze w przyszłości, jeśli zajdzie taka potrzeba.
 
 Na ten program nauczania znaczący wpływ miał artykuł Kamrana Ahmed'sa o tytule [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c). Sprawdź to sam - jest doskonały.
 
@@ -446,4 +446,4 @@ Please note that everyone involved in this project is either trying to learn or 
 
 _________________________________________________________________________
 
-Stworzone przez @[nas5w](https://github.com/nas5w), polska wersja od @[mbiesiad](https://github.com/mbiesiad)
+Stworzone przez [@nas5w](https://github.com/nas5w), polska wersja od [@mbiesiad](https://github.com/mbiesiad)
