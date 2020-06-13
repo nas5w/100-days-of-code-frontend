@@ -146,7 +146,7 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 
 ### :bulb: Quick Takeaway
 
-Responsive web design is all about making web applications look and function properly on all types of advice. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+Responsive web design is all about making web applications look and function properly on all types of device. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
 
 ### :book: Learning Areas and Ideas
 
@@ -204,7 +204,7 @@ Node.js is an open-source, cross-platform JavaScript run-time environment that e
 
 ### :bulb: Quick Takeaway
 
-While nodejs is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+While Node.js is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of Node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
 
 ### :book: Learning Areas and Ideas
 
