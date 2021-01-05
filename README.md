@@ -5,7 +5,7 @@
 ---
 
 Want to learn more about frontend development? Consider:
-- signing up for my [free newsletter](https://buttondown.email/devtuts) where I periodically send out digestible bits of frontend knowledge!
+- signing up for my [free newsletter](https://buttondown.email/devtuts?100DoC) where I periodically send out digestible bits of frontend knowledge!
 - subscribing to my [YouTube channel](https://www.youtube.com/c/devtutsco) where I teach JavaScript, Typescript, and React.
 
 ---
