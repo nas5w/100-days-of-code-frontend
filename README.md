@@ -4,7 +4,7 @@
 
 ---
 
-**Please support this report by giving it a star ⭐️ at the top of the page!**
+**Please support this repo by giving it a star ⭐️ at the top of the page!**
 
 Want to learn more about frontend development? Consider:
 - signing up for my [free newsletter](https://buttondown.email/devtuts?100DoC) where I periodically send out digestible bits of frontend knowledge!
