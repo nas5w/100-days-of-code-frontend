@@ -4,34 +4,35 @@
 
 ---
 
-**Please support this repo by giving it a star ⭐️ at the top of the page and [follow me](https://github.com/nas5w) for more resources!**
+**ページトップの⭐️を押して本リポジトリを支援してください！もっとリソースが欲しいなら[私をフォロー](https://github.com/nas5w)してください！**
 
-Want to learn more about frontend development? Consider:
-- signing up for my [free newsletter](https://buttondown.email/devtuts?100DoC) where I periodically send out digestible bits of frontend knowledge!
-- subscribing to my [YouTube channel](https://www.youtube.com/c/devtutsco) where I teach JavaScript, Typescript, and React.
+もっとフロントエンド開発について学びたいですか？次の考えがあります：
+
+- 私の[無料ニュースレター](https://buttondown.email/devtuts?100DoC)にサインアップしてください。定期的に皆さんが消化しやすい量でフロントエンドの知識を発信しています。
+- 私の[YouTubeチャンネル](https://www.youtube.com/c/devtutsco)に登録してください。ここではJavaScript, Typescript, それとReactを教えます。
 
 ---
 
 This is a somewhat opinionated curriculum for learning front-end development during #100DaysOfCode. As it covers a wide range of front-end development topics, it can be thought of as more of a "survey" style course rather than a deep dive into any one area. Ideally, your takeaway from completing this curriculum will be some familiarity with each topic and the ability to easily dive deeper in any area in the future when necessary.
 
-This curriculum was influenced significantly by Kamran Ahmed's [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) roadmap. Please check it out--it is excellent.
+本カリキュラムはKamran Ahmedの [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)ロードマップに多大な影響を受けています。是非チェックしてみてください--素晴らしい資料です。
 
-**Note**: I know front-end development means a lot of different things to a lot of people! If you're a front-end developer and you think this guide could be improved, please let me know by raising an issue as described in the [Contributing](#contributing) section. Thank you!
+**注意書き**: 私はフロントエンドエンジニアは多くの人にとって様々な意味をもっていることを知っています! もしあなたがフロントエンドエンジニアであり、本ガイドで改善してほしい箇所があるなら、[Contributing](#contributing)セクションの記載内容に従ってissueを立てて私に知らせてください。お願いします!
 
-# Translations
+# 翻訳
 
-Thanks to some incredible contributors, this curriculum has been translated into the following languages!
+驚異的なコントリビューターに感謝します。本カリキュラムは次の言語に翻訳されています！
 
-- [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
-- [Chinese 中文](/chinese) (translation by [@simplefeel](https://github.com/simplefeel))
-- [Portuguese Português](/portuguese) (translation by [@Zardosh](https://github.com/Zardosh))
-- [Polish polski](/polish) (translation by [@mbiesiad](https://github.com/mbiesiad))
-- [Malay/Indonesia](/Malay) (translation by [@asyraf-labs](https://github.com/asyraf-labs))
-- [Vietnamese Tiếng Việt](/Vietnam) (translation by [@duca7](https://github.com/duca7))
+- [ロシア語](/ru) (翻訳者 [@Ibochkarev](https://github.com/Ibochkarev) と [@JonikUl](https://github.com/JonikUl))
+- [中国語](/chinese) (翻訳者 [@simplefeel](https://github.com/simplefeel))
+- [ポルトガル語](/portuguese) (翻訳者 [@Zardosh](https://github.com/Zardosh))
+- [ポーランド語](/polish) (翻訳者[@mbiesiad](https://github.com/mbiesiad))
+- [マレー語/インドネシア語](/Malay) (翻訳者 [@asyraf-labs](https://github.com/asyraf-labs))
+- [ベトナム語](/Vietnam) (翻訳者 [@duca7](https://github.com/duca7))
 
 # :calendar: Curriculum
 
-The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely experienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up. 
+The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely experienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up.
 
 It is anticipated that everyone is at a different level of proficiency when starting this challenge, and that's okay. Beginner and expert front-end developers alike can benefit from timeboxed practice in each of these areas.
 
@@ -414,7 +415,7 @@ As you progress through #100DaysOfCode, you'll want one or multiple projects to 
   - Build a portfolio website
 - Intermediate/Advanced ideas:
   - Build a tweet analysis app (If you know back-end and API integration already)
-  
+
 # Need Help?
 
 Generally, I have found the following resources invaluable to learning software development:
