@@ -13,7 +13,7 @@
 
 ---
 
-This is a somewhat opinionated curriculum for learning front-end development during #100DaysOfCode. As it covers a wide range of front-end development topics, it can be thought of as more of a "survey" style course rather than a deep dive into any one area. Ideally, your takeaway from completing this curriculum will be some familiarity with each topic and the ability to easily dive deeper in any area in the future when necessary.
+９これは#100DaysOfCode期間中に行うフロントエンド開発のためのちょっとした自習用カリキュラムです。フロントエンド開発の幅広い範囲をカバーし、1つの領域を深堀りするというよりも”調査”スタイルのコースだと思います。最終的に、あなたが本コースを完走することで各トピックに馴染み深くなり、必要に応じてどのトピックにも簡単に深堀りできる能力を得ることになるでしょう。
 
 本カリキュラムはKamran Ahmedの [Modern Frontend Developer](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)ロードマップに多大な影響を受けています。是非チェックしてみてください--素晴らしい資料です。
 
@@ -30,35 +30,35 @@ This is a somewhat opinionated curriculum for learning front-end development dur
 - [マレー語/インドネシア語](/Malay) (翻訳者 [@asyraf-labs](https://github.com/asyraf-labs))
 - [ベトナム語](/Vietnam) (翻訳者 [@duca7](https://github.com/duca7))
 
-# :calendar: Curriculum
+# :calendar: カリキュラム
 
-The underlying principle of this repository is [timeboxing](https://en.wikipedia.org/wiki/Timeboxing). If you have spent any amount of time in the past trying to learn web development or a similar skill, you have likely experienced going down a rabbit hole on any one particular topic. This repository aims to assign a certain number of days to each technology and encourages you to move to the next once that number of days is up.
+本リポジトリの基本的な原理は[タイムボックス](https://en.wikipedia.org/wiki/Timeboxing)です。もしあなたが過去にWeb開発や同様の技術を学ぼうとして時間を費やしたことがあるなら、おそらく特定のトピックでハマってしまった経験があるでしょう。本リポジトリは各トピックに一定の日数を割り当てて、その日数が経過したら次のトピックに移るように促すことを目的としています。
 
-It is anticipated that everyone is at a different level of proficiency when starting this challenge, and that's okay. Beginner and expert front-end developers alike can benefit from timeboxed practice in each of these areas.
+このカリキュラムをスタートする際には、みんなの習得度がバラバラであることが予想されますが、これは問題ありません。初心者もベテランフロントエンドエンジニアも各トピックでタイムボックス化された練習をすることで恩恵を受けることができます。
 
-The recommended day-by-day activities are as follows:
+次のスケジュールで進めることをおすすめします：
 
-- Days 1-8: [HTML](#html)
-- Days 9-16: [CSS](#css)
-- Days 17-24: [JavaScript Basics](#javascript)
-- Days 25-27: [jQuery](#jquery)
-- Days 28-33: [Responsive Web Design](#rwd)
-- Days 34-36: [Accessibility](#accessibility)
-- Days 37-39: [Git](#git)
-- Days 40-44: [Node and NPM](#node)
-- Days 45-50: [Sass](#sass)
-- Days 51-54: [Bootstrap](#bootstrap)
-- Day 55: [BEM](#bem)
-- Days 57-61: [Gulp](#gulp)
-- Days 62-65: [Webpack](#webpack)
-- Day 66: [ESLint](#eslint)
-- Days 68-83: [React](#react)
-- Days 84-89: [Redux](#redux)
-- Days 90-94: [Jest](#jest)
-- Days 95-97: [TypeScript](#typescript)
-- Days 98-100: [NextJS](#nextjs)
+- 1-8日目: [HTML](#html)
+- 9-16日目: [CSS](#css)
+- 17-24日目: [JavaScript Basics](#javascript)
+- 25-27日目: [jQuery](#jquery)
+- 28-33日目: [Responsive Web Design](#rwd)
+- 34-36日目: [Accessibility](#accessibility)
+- 37-39日目: [Git](#git)
+- 40-44日目: [Node and NPM](#node)
+- 45-50日目: [Sass](#sass)
+- 51-54日目: [Bootstrap](#bootstrap)
+- 55日目: [BEM](#bem)
+- 57-61日目: [Gulp](#gulp)
+- 62-65日目: [Webpack](#webpack)
+- 66日目: [ESLint](#eslint)
+- 68-83日目: [React](#react)
+- 84-89日目: [Redux](#redux)
+- 90-94日目: [Jest](#jest)
+- 95-97日目: [TypeScript](#typescript)
+- 98-100日目: [NextJS](#nextjs)
 
-# :mag_right: The Details
+# :mag_right: 詳細
 
 Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each. For inspiration on projects to do alongside this curriculum, see the [Project Ideas section](#project-ideas).
 
@@ -428,16 +428,17 @@ Generally, I have found the following resources invaluable to learning software 
 
 If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
 
-# Contributing
+# 貢献
 
-## Spread the Word
+## プロジェクトを広める
 
-If you appreciate the work done here, you can contribute significantly by spreading the word about this repository, including things like:
+もしあなたがここでの作業に感謝しているのであれば、このリポジトリを広めることで大きく貢献することができます。例えば次のことができます：
 
-- Starring and forking this repository
-- Sharing this repository on social media
+- 本リポジトリをフォーク
+- SNSに本リポジトリを共有
 
-## Contribute to this Repository
+
+## プロジェクトに貢献する
 
 This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
 
@@ -445,8 +446,8 @@ When contributing to this repository, please first discuss the change you wish t
 
 Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
 
-## Pull Request Process
+## プルリクエストの仕方
 
-1. Create an issue outlining the proposed pull request.
-2. Obtain approval from a project owner to make the proposed change.
-3. Create the pull request.
+1. 提案されるプルリクエストの概要が説明されたissueを立ててください。
+2. 提案された変更を反映するためにプロジェクト所有者から承認を得てください。
+3. プルリクエストを作成してください。
