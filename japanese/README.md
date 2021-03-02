@@ -67,46 +67,45 @@
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
 
-Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. (Source: [Wikipedia](https://en.wikipedia.org/wiki/HTML))
+HyperText Markup Language (HTML) は、ウェブページやウェブアプリケーションを作成するための標準的なマークアップ言語です。Cascading Style Sheets (CSS) とJavaScriptと合わせて、World Wide Webの礎となる技術のトライアンドを形成しています。Webブラウザは、WebサーバまたはローカルストレージからHTML文書を受け取り、マルチメディアWebページにレンダリングします。HTMLは、ウェブページの構造を意味的に記述し、元々はドキュメントの外観を表す手がかりを含んでいました。 (出典：[Wikipedia](https://en.wikipedia.org/wiki/HTML))
 
 ### :bulb: Quick Takeaway
 
-HTML is really the foundation of web development. Even in the javascript-based frameworks, you end up writing HTML in one form or another.
+HTMLは本当にWeb開発の基本です。たとえJavascriptベースのフレームワークであっても、結局は何らかの形でHTMLを書くことになります。
 
-### :book: Learning Areas and Ideas
+### :book: 学習分野とアイデア
 
-- Take the [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- HTML page structure
-- HTML elements
-- Nesting HTML elements
-- Semantic markup
-- Links / multiple pages
-- Images
-- Audio/video media
-- Forms and form elements
-- Create a multi-page website! (See [Project Ideas](#project-ideas) if you need some inspiration).
+- freeCodeCampにある [Basic HTML and HTML5 section](https://learn.freecodecamp.org/) に取り掛かりましょう。
+- HTMLのページ構造
+- HTMLの要素
+- HTML要素を入れ子にする
+- 意味のあるマークアップ
+- リンク / 複数ページ
+- 画像
+- 音楽/動画媒体
+- Formsとform要素
+- 複数ページを持ったサイトを作成してみましょう！ (もしインスピレーションが欲しいなら[Project Ideas](#project-ideas)を読んでください)。
 
 <a name="css"></a>
 ![CSS](https://i.imgur.com/028GOR0.jpg)
 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
+Cascading Style Sheets (CSS)は、HTMLのようなマークアップ言語で書かれた文書の表示を記述するために使用されるスタイルシート言語です。CSSは、HTMLやJavaScriptと並んで、World Wide Webの礎となる技術です。CSSは、レイアウト、色、フォントなど表示するものとコンテンツの分離を可能にするように設計されています。この分離により、コンテンツのアクセシビリティが向上し、プレゼンテーション特性の指定に柔軟性とコントロール性が向上し、関連するCSSを別の.cssファイルで指定することで複数のウェブページでフォーマットを共有することが可能になり、構造的なコンテンツの複雑さや繰り返しを軽減することができます。 (Source: [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 ### :bulb: Quick Takeaway
 
-CSS is another essential component of web development. While it is mainly used to style and position HTML elements, it has become increasingly capable of more dynamic tasks (e.g., animations) that would once be handled by javascript.
-
+CSSもウェブ開発には欠かせない要素です。主にHTML要素のスタイル定義や配置に使用されていますが、かつてJavascriptで処理されていたような動的なタスク（アニメーションなど）にも対応できるようになってきています。
 ### :book: Learning Areas and Ideas
 
-- Take the [Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- In-line CSS
-- `<style>` tags
-- External CSS with `<link>`
-- Styling elements
-- Selectors
-- Floats, clearing floats
-- Layouts (grid, flexbox)
-- Fonts, custom fonts
-- Style the HTML page(s) you made when learning HTML!
+- freeCodeCampの[Basic CSS, CSS flexbox, and CSS grid sections](https://learn.freecodecamp.org/)に取り掛かってみましょう。
+- インラインCSS
+- `<style>`タグ
+- `<link>`を用いた外部CSSの使用
+- 要素のスタイル
+- セレクター
+- FloatとFloatの打ち消し
+- レイアウト (grid, flexbox)
+- フォント、カスタムフォント
+- あなたがHTML学習のときに作成したサイトをCSSでスタイルしてみましょう！
 
 <a name="javascript"></a>
 ![JavaScript](https://i.imgur.com/oHdD86j.jpg)
