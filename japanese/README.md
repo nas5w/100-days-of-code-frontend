@@ -60,9 +60,9 @@
 
 # :mag_right: 詳細
 
-Below you can find a little information about each topic in the curriculum as well as some ideas/guidance on what to do for each. For inspiration on projects to do alongside this curriculum, see the [Project Ideas section](#project-ideas).
+以下では、カリキュラムの各トピックについての情報と、それぞれのトピックで何をすべきかについてのアイデアや指針を紹介しています。このカリキュラムに沿って行うプロジェクトのアイデアについては、[Project Ideas section](#project-ideas)を確認してください。
 
-As part of the timeboxing principle, it's okay if you don't get through all of the items in the "Learning Areas and Ideas" sections. You should instead focus on getting the most you can out of the number of days assigned to each area and then move on.
+タイムボックスの原則の一環として、「学習分野とアイデア」のセクションのすべての項目を完了できなくても構いません。それよりも、各分野に割り当てられた日数を最大限に活用することに集中して、先に進めるべきです。
 
 <a name="html"></a>
 ![HTML](https://i.imgur.com/O0F5XSR.jpg)
@@ -403,30 +403,30 @@ Now we're getting advanced! By now you've built a React (or Vue or Angular) appl
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 - Create a Next.js app or migrate your existing app to Next.js
 
-# But What About X?
+# Xとは何なの？
 
-This list is supposed to give you broad exposure to the front-end ecosystem, but it's simply impossible to hit on every single topic, not to mention the myriad tools within each area! If you do think I missed something very important, please see the [Contributing](#contributing) section to see how you can help make this guide better.
+このリストは、フロントエンド開発のエコシステムを広く知ってもらうことを目的としていますが、各分野の無数のツールはもちろんのこと、すべてのトピックを網羅することは単純に不可能です！かなり重要なトピックが記載されていないと思ったら、[貢献](#contributing)セクションを確認して、このガイドをより良いものにするための手伝いをしてください。
 
-# Project Ideas
+# プロジェクトのアイデア
 
-As you progress through #100DaysOfCode, you'll want one or multiple projects to which you can apply your new knowledge. In this section, I attempt to provide a few project ideas that you can use. Alternatively, you're encouraged to come up with your own project ideas as those ideas may interest and motivate you more.
+#100DaysOfCodeを進めていく中で、新しく習得した知識を使っていくつかプロジェクトを作りたくなるでしょう。このセクションでは、あなたが作成できるようなプロジェクトをいくつか提案してみようと思います。代わりに、あなた自身でプロジェクトのアイデアを興味が持てて開発し続けられる形で考えてください。
 
-- Beginner ideas:
-  - Build a portfolio website
-- Intermediate/Advanced ideas:
-  - Build a tweet analysis app (If you know back-end and API integration already)
+- 初心者向けの考え：
+  - ポートフォリオサイトを作成する
+- 中級者/上級者向けの考え：
+  - ツイート分析アプリを作成する (すでにバックエンドとAPI連携を知っている場合)
 
-# Need Help?
+# 助けがほしいですか？
 
-Generally, I have found the following resources invaluable to learning software development:
+ソフトウェア開発を学ぶ方法は一般的に次の方法があります：
 
-- Googling the issue
-- [StackOverflow](http://www.stackoverflow.com) (There's a good chance your question has already been asked and will be a high-ranking result when googling).
-- [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/)
+- 問題点を検索する
+- [StackOverflow](http://www.stackoverflow.com) （あなたの疑問がすでに質問されている可能性が高く、検索すると上位に表示されるでしょう。）
+- [Mozilla MDN Web Docs](https://developer.mozilla.org/ja/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- Local software development Meetups! Most are very friendly to all experience levels.
+- 地元のソフトウェア開発のミートアップ！大抵の場合はすべての経験レベルに非常に親切です。
 
-If you'd like my input on anything, feel free to [connect with me on Twitter](http://www.twitter.com/nas5w) and I'll do my best to try to offer some assistance. If you think there's an issue with the curriculum or have a recommendation, see the [contributing section](#contributing) below.
+もし私の意見が欲しかったら、[Twitter](http://www.twitter.com/nas5w)でお気軽に問い合わせてください。少しでもお役に建てるように頑張ります。もしカリキュラムに問題や提案があったら、下の[貢献セクション](#contributing)を読んでください。
 
 # 貢献
 
@@ -440,11 +440,11 @@ If you'd like my input on anything, feel free to [connect with me on Twitter](ht
 
 ## プロジェクトに貢献する
 
-This is a work in progress and I very much appreciate any help in maintaining this knowledge base!
+本プロジェクトは進行中であり、この知識ベースをメンテナンスする上での貢献にとても感謝しています！
 
-When contributing to this repository, please first discuss the change you wish to make via issue before making a change. Otherwise, it will be very hard to understand your proposal and could potentially result in you putting in a lot of work to a change that won't get merged.
+このリポジトリに貢献する際には、変更を行う前にまずissueを通して変更したい内容を話し合ってください。そうしないと、あなたの提案を理解するのが非常に難しくなり、結果的にマージされないであろう変更に多くの労力を費やすことになる可能性があります。
 
-Please note that everyone involved in this project is either trying to learn or trying to help--Please be nice!
+このプロジェクトに関わるすべての人は、学ぼうとしているか助けようとしていることに注意してください--優しくしてください！
 
 ## プルリクエストの仕方
 
