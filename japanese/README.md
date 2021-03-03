@@ -110,90 +110,90 @@ CSSもウェブ開発には欠かせない要素です。主にHTML要素のス�
 <a name="javascript"></a>
 ![JavaScript](https://i.imgur.com/oHdD86j.jpg)
 
-JavaScript , often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it. (Source: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
+JavaScriptは、しばしばJSと略される、ECMAScript仕様に準拠した高レベルのインタープリタ型プログラミング言語です。動的で型付けが弱く、プロトタイプベースでマルチパラダイムであることも特徴の言語です。HTMLやCSSと並んで、JavaScriptはWorld Wide Webの3つのコア技術の1つです。JavaScriptはインタラクティブなWebページを可能にするため、Webアプリケーションには欠かせないものとなっています。大多数のWebサイトで使用されており、すべての主要なWebブラウザにはそれを実行するための専用のJavaScriptエンジンが搭載されています。 (出典: [Wikipedia](https://en.wikipedia.org/wiki/JavaScript))
 
 ### :bulb: Quick Takeaway
 
-JavaScript has become increasingly important in the front-end world. While it was once used mainly to make pages dynamic, it is now the foundation of many front-end frameworks. These frameworks handle a lot of the tasks that were formerly handled by the back-end (e.g., routing and displaying different views).
+フロントエンドの世界では、JavaScriptの重要性が高まっています。かつては主にページを動的にするために使われていましたが、現在では多くのフロントエンドフレームワークの基盤となっています。これらのフレームワークは、以前バックエンドで処理されていたタスクの多くを処理します (例: ルーティングや異なるビューの表示など)。
 
 ### :book: Learning Areas and Ideas
 
-- Take the [Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Too many language fundamentals to list here!
-- `<script>` tag and placement
-- Accessing HTML elements
-- The event loop, call stack, and event queue
-- Prototypal Inheritance
-- Reference vs. value
-- Add some dynamic elements or logic to your HTML/CSS page(s) developed earlier!
+- freeCodeCampの[Basic JavaScript and ES6 sections](https://learn.freecodecamp.org/)に取り掛かりましょう。
+- 言語の基礎知識が多すぎるのでここでは挙げられません！
+- `<script>`タグと配置
+- HTML要素へのアクセス
+- イベントループ、コールスタック、イベントキュー
+- プロトタイプ継承
+- リファレンスと値
+- 上記のセクションであなたが作成したHTML/CSSページに動的な要素やロジックを追加してください！
 
 <a name="jquery"></a>
 ![jQuery](https://i.imgur.com/m9j02Fo.jpg)
 
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript. (Source: [jQuery.com](https://jquery.com/))
+jQueryは、高速で小さく、豊富な機能を持ったJavaScriptライブラリです。多くのブラウザで動作し使いやすいAPIを使用することで、HTMLドキュメントの走査や操作、イベント処理、アニメーション、Ajaxなどの作業をよりシンプルにしてくれます。汎用性と拡張性を兼ね備えたjQueryは、何百万人もの人々が JavaScript を書く方法を変えてきました。(出典: [jQuery.com](https://jquery.com/))
 
 ### :bulb: Quick Takeaway
 
-After you have spent some time with plain (also called "vanilla") javascript, you may find some tasks a bit cumbersome, especially those related to accessing and manipulating HTML elements. For quite a while, jQuery was the go-to library for making these kinds of tasks easier and consistent across different browsers. Nowadays, jQuery isn't necessarily "mandatory" learning because of advancements in vanilla javascript, CSS, and newer javascript frameworks (we'll look at frameworks later). Still, it would be beneficial to take a little time to learn some jQuery and apply it to a small project.
+プレーンな (「バニラ」とも呼ばれる) Javascriptをしばらく使っていると、特にHTML要素へのアクセスや操作に関連したタスクが少し面倒に感じることがあるかもしれません。しばらくの間、このようなタスクを容易にし、異なるブラウザ間で一貫性のあるものにするためのライブラリとしてjQueryが使用されていました。現在では、バニラのJavascriptやCSS、新しいJavascriptフレームワークが進歩しているため、jQueryは必ずしも「必須」の学習ではありません（フレームワークについては後ほど説明します）。それでも、少し時間をかけてjQueryを学んで、小さなプロジェクトに応用してみるのは有益でしょう。
 
 ### :book: Learning Areas and Ideas
 
-- Take the [jQuery section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Document ready
-- Selectors
-- Toggle classes
-- Animation
-- Add or move HTML elements
-- Add jQuery to your site!
+- freeCodeCampの[jQuery section](https://learn.freecodecamp.org/)に取り掛かりましょう。
+- ドキュメントの用意
+- セレクタ
+- クラスの切り替え
+- アニメーション
+- HTML要素の追加と移動
+- あなたのサイトにjQueryを追加してみましょう！
 
 <a name="rwd"></a>
 ![Responsive Web Design](https://i.imgur.com/Bt1zWwq.jpg)
 
-Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Recent work also considers the viewer proximity as part of the viewing context as an extension for RWD. Content, design and performance are necessary across all devices to ensure usability and satisfaction. A site designed with RWD adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
+レスポンシブ・ウェブ・デザイン（RWD）とは、Webページを様々なデバイスやウィンドウ、スクリーンサイズに対応させるWebデザインのアプローチです。最近の研究では、RWDの延長線上に、ビューイングコンテキストの一部としてビューアの近接性も考慮しています。ユーザビリティと満足度を確保するためには、コンテンツ、デザイン、パフォーマンスがすべてのデバイスにわたって必要です。RWDで設計されたサイトは、流動的でプロポーションベースのグリッド、柔軟な画像、@mediaルールの延長線上にあるCSS3のメディアクエリを使用することで、r利用環境に合わせてレイアウトを適応させています。(出典: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design))
 
 ### :bulb: Quick Takeaway
 
-Responsive web design is all about making web applications look and function properly on all types of device. A quick-and-dirty example would be that a website should look and function properly both in a desktop web browser and on a mobile phone browser. An understanding of responsive design is crucial for any front-end developer!
+レスポンシブウェブデザインとは、ウェブアプリケーションをあらゆるタイプのデバイス上で適切に表示し、機能させることです。簡単な例を挙げると、ウェブサイトはPCのウェブブラウザと携帯電話のブラウザの両方で適切に表示され、機能しなければなりません。レスポンシブデザインの理解は、フロントエンド開発者にとって非常に重要です！
 
 ### :book: Learning Areas and Ideas
 
-- Take the [Responsive Web Design Principles section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Media queries, breakpoints
-- Responsive images
-- Make your website responsive!
-- Use Chrome DevTools to view your site on different devices/viewports.
+- freeCodeCampの[Responsive Web Design Principles section](https://learn.freecodecamp.org/)に取り掛かりましょう。
+- メディアクエリ、ブレークポイント
+- レスポンシブな画像
+- あなたが作成したページをレスポンシブデザインにしてみましょう！
+- Chrome DevToolsを使ってあなたが作成したサイトを様々なデバイスやビューポート設定で見てましょう。
 
 <a name="accessibility"></a>
 ![Accessibility](https://i.imgur.com/ayioMQw.jpg)
 
-Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with disabilities. When sites are correctly designed, developed and edited, generally all users have equal access to information and functionality. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
+ウェブアクセシビリティとは、障害を持った人々にとってワールド・ワイド・ウェブ上のウェブサイトとの相互作用やアクセスを妨げる障害がないことを保証する包括的な実践のことです。サイトが正しく設計、開発、編集されていれば、一般的にすべてのユーザーが情報や機能に平等にアクセスできるようになります。(出典: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility))
 
 ### :bulb: Quick Takeaway
 
-Accessibility, often written as a11y, is one of the most important topics in front-end web development, yet it seems to often get short shrift. Creating accessible web applications is not only ethically sound, but also makes a lot of business sense considering the additional audience that will be able to view your applications when they are accessible.
+アクセシビリティ（略してa11yとも）は、フロントエンドのウェブ開発において最も重要なトピックの一つですが、しばしば軽視されているように思います。アクセシブルなWebアプリケーションを作成することは、倫理的に健全であるだけでなく、アプリケーションを見ることができるオーディエンスが増えることを考えると、ビジネス上の意味も大きいと言えます。
 
 ### :book: Learning Areas and Ideas
 
-- Take the [Applied Accessibility section](https://learn.freecodecamp.org/) on freeCodeCamp.
-- Read some content on [The A11Y Project](https://a11yproject.com/about)
-- Review their [checklist](https://a11yproject.com/checklist)
-- Update your site(s) for accessibility based on this checklist
+- freeCodeCampの[Applied Accessibility section](https://learn.freecodecamp.org/)に取り掛かりましょう。
+- [The A11Y Project](https://a11yproject.com/about)の記事をいくつか読みましょう
+- The A11Y Projectの[checklist](https://a11yproject.com/checklist)をレビューしてみましょう
+- The A11Y Projectのチェックリストに従って、あなたが作成したサイトのアクセシビリティを向上してみましょう
 
 <a name="git"></a>
 ![Git](https://i.imgur.com/5QoNJqs.jpg)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (Source: [git-scm.com](https://git-scm.com/))
+Gitはフリーでオープンソースの分散型バージョン管理システムです。小規模なプロジェクトから超大規模なプロジェクトまで、あらゆるものを迅速かつ効率的に処理できるように設計されています。 (出典: [git-scm.com](https://git-scm.com/))
 
 ### :bulb: Quick Takeaway
 
-Version/code control is an essential part of any web developer's toolkit. There are a number of different version control systems, but Git is by far the most prevalent at the moment. You can (and should!) use it to track your projects as you learn!
+バージョン/コード管理は、ウェブ開発者のツールキットには欠かせないものです。バージョン管理システムにはいくつかの種類がありますが、現在Gitが最も普及しています。Git を使って、学習しながらプロジェクトを追跡管理することができます（そしてそうすべきです！）。
 
 ### :book: Learning Areas and Ideas
 
 - [Git Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- Install git
-- Set up a [github](https://github.com) account
-- Learn the most-used git commands:
+- Gitをインストールしましょう
+- [Github](https://github.com)アカウントを作成しましょう
+- 最も使われるGitコマンドを学びましょう:
   - init
   - clone
   - add
@@ -202,7 +202,7 @@ Version/code control is an essential part of any web developer's toolkit. There 
   - pull
   - merge
   - rebase
-- Add your existing projects to github!
+- あなたが作成したプロジェクトGithubに追加しましょう！
 
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
@@ -223,18 +223,18 @@ While Node.js is typically known as a back-end solution, it is used quite freque
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
 
-Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library. (Source: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
+Sassは、生のCSSにパワーとエレガンスを加えたCSSの拡張機能です。Sassは変数、入れ子になったルール、ミックスイン、インラインインポートなどを、CSSと完全に互換性のある構文で使用することができます。Sassは、特にCompassスタイルライブラリの助けを借りて、大規模なスタイルシートを整理したり、小規模なスタイルシートを迅速に作成したりするのに役立ちます。(出典: [sass-lang.com](https://sass-lang.com/documentation/file.SASS_REFERENCE.html))
 
 ### :bulb: Quick Takeaway
 
-Sass allows you to write CSS in a more programmatic way. If you've done some CSS, you might have noticed that you end up repeating a lot of information--for example, specifying the same color code. In Sass, you can use things like variables, loops, and nesting to reduce redundancy and increase readability. After writing your code in Sass, you can quickly and easily compile it to regular CSS.
+Sassを使うと、よりプログラム的な方法でCSSを書くことができます。CSSを書いたことがある人なら、同じカラーコードを指定するなど、結果的に多くの情報を繰り返してしまうことに気づくかもしれません。Sassでは、変数、ループ、ネスティングなどを使用して冗長性を減らし、可読性を高めることができます。Sassでコードを書いた後は、素早く簡単に通常のCSSにコンパイルすることができます。
 
 ### :book: Learning Areas and Ideas
 
-- [Install Sass](https://sass-lang.com/install) globally with npm!
+- [Install Sass](https://sass-lang.com/install)をnpmでグローバルインストールしましょう！
 - [Sass Crash Course Video](https://www.youtube.com/watch?v=roywYSEPSvc)
-- Follow the [Learn Sass](https://sass-lang.com/guide) tutorial and/or [freeCodeCamp](https://learn.freecodecamp.org/) Sass tutorial.
-- Update your existing site to generate your CSS using Sass!
+- [Learn Sass](https://sass-lang.com/guide)tutorial、もしくは[freeCodeCamp](https://learn.freecodecamp.org/)のSassチュートリアルをやりましょう。
+- Sassを使ってあなたの作成したページのCSSをアップデートしましょう！
 
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
