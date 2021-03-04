@@ -272,69 +272,69 @@ BEMのようなネーミングや組織システムが存在し、なぜそれ�
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
 
-Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. (Source: [gulpjs.com](https://gulpjs.com/))
+Gulpは、開発ワークフローの中で手間のかかるタスクや時間のかかるタスクを自動化するためのツールキットです。そのため、ごちゃごちゃになることなくビルドすることが出来ます。(出典: [gulpjs.com](https://gulpjs.com/))
 
 ### :bulb: Quick Takeaway
 
-In modern front-end development, you'll often find yourself needing to automate tasks like bundling, moving files, and injecting references into HTML files. Gulp is one tool that can help you do these things!
+最近のフロントエンド開発では、バンドル、ファイルの移動、HTMLファイルへの参照の追加などのタスクを自動化する必要があることに気づくでしょう。Gulpはこれらのことを行うのに役立つツールの1つです!
 
 ### :book: Learning Areas and Ideas
 
-- Install gulp with npm
-- Follow the [gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/) on CSS-Tricks
-- In your website, set up gulp to:
-  - Compile Sass for you
+- npmでGulpをインストールしましょう
+- CSS-Tricksの[gulp for beginners tutorial](https://css-tricks.com/gulp-for-beginners/)をフォローしましょう
+- あなたが作成したサイトでGulpを設定してみましょう：
+  - あなたの設定に合わせたSassをコンパイルしましょう
   - Put the generated CSS file in `build` subdirectory
-  - Move your web pages to the build directory
+  - あなたが作成したサイトをビルド用ディレクトリに移動しましょう
   - Inject a reference to your generated CSS file into your web pages
 
 <a name="webpack"></a>
 ![Webpack](https://i.imgur.com/0rx82Kl.jpg)
 
-At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles. (Source: [webpack.js.org](https://webpack.js.org/concepts/))
+その中核をなすwebpackは、最新のJavaScriptアプリケーションのための静的なモジュールバンドルです。webpackがアプリケーションを処理する際には、プロジェクトが必要とするすべてのモジュールをマッピングし、1つ以上のバンドルを生成する依存関係グラフを内部的に構築します。 (出典: [webpack.js.org](https://webpack.js.org/concepts/))
 
 ### :bulb: Quick Takeaway
 
-Imagine that you have a large web development project with a number of different developers working on a lot of different tasks. Rather than all working in the same files, you might want to modularize them as much as possible. Webpack helps enable this by letting your team work modularly and then, come time to build the application, Webpack will stick it all together: HTML, CSS/Sass, JavasScript, images, etc. Webpack isn't the only module bundler, but it seems to be the front-runner at the moment.
+大規模なウェブ開発プロジェクトで、多くの異なる開発者が多くの異なるタスクに取り組んでいると想像してみてください。全員が同じファイルで作業するのではなく、可能な限りモジュール化したいと思うかもしれません。Webpackは、あなたのチームにモジュール化して作業をさせ、アプリケーションを構築する時には、WebpackがHTML、CSS/Sass、JavasScript、画像などをすべて一緒に貼り付けることで、これを可能にします。Webpack は唯一のモジュールバンドルラーではありませんが、現時点ではフロントランナーとなっているようです。
 
 ### :book: Learning Areas and Ideas
 
-- Read [webpack concepts](https://webpack.js.org/concepts/)
+- [webpack concepts](https://webpack.js.org/concepts/)を読みましょう
 - [What is Webpack, How does it work? (Video)](https://www.youtube.com/watch?v=GU-2T7k9NfI)
 - [This webpack tutorial](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 
 <a name="eslint"></a>
 ![ESLint](https://i.imgur.com/CJb6ZnL.jpg)
 
-ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process. (Source: [eslint.org](https://eslint.org/docs/about/))
+ESLintは2013年6月にNicholas C. Zakasによって作成されたオープンソースのJavaScript用リントユーティリティです。コードのリントは静的解析の一種で、問題のあるパターンや特定のスタイルガイドラインに準拠していないコードを見つけるために頻繁に使用されます。ほとんどのプログラミング言語にはコードリンティングがあり、コンパイラはコンパイルプロセスにリントを組み込むことがあります。(出典: [eslint.org](https://eslint.org/docs/about/))
 
 ### :bulb: Quick Takeaway
 
-Linting is a fantastic tool for code quality, readability, and consistency. Using a linter will help you catch syntax and formatting mistakes before they go to production. You can run linters manually or include them in your build/deployment process.
+リントは、コードの品質、可読性、一貫性を向上させる素晴らしいツールです。リンターを使用することで、構文やフォーマットの間違いを本番前に発見することができます。リンターは手動で実行することもできますし、ビルド/デプロイのプロセスに組み込むこともできます。
 
 ### :book: Learning Areas and Ideas
 
-- Install eslint using npm
+- npmを使ってESLintをインストールしましょう
 - [How to Setup VS Code + Prettier + ESLint (Video)](https://www.youtube.com/watch?v=YIvjKId9m2c)
-- Lint your JavaScript
+- あなたが書いたJavaScriptコードをLintしてみましょう
 
 <a name="react"></a>
 ![React](https://i.imgur.com/uLYz15W.jpg)
 
-\* Some alternatives: Vue, Angular, Ember
+\* 代用ツール: Vue, Angular, Ember
 
-React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. (source: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
+React（React.jsまたはReactJSとも呼ばれる）は、ユーザーインターフェイスを構築するためのJavaScriptライブラリです。Facebookや個人の開発者や企業からなるコミュニティによってメンテナンスされています。Reactは、シングルページやモバイルアプリケーションの開発のベースとして使用することができます。複雑なReactアプリケーションを作成する際は基本的に状態管理、ルーティング、APIとのインタラクションのために追加のライブラリを使用する必要があります。(出典: [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>))
 
 ### :bulb: Quick Takeaway
 
-Front-end JavaScript frameworks are at the forefront of modern front-end development. One important takeaway here is that React, despite being incredibly popular, is only a library for building user interfaces whereas frameworks like Vue and Angular aim to be more full-featured. For example, if you build an application with in React that needs to route to different views, you'll need to bring in something like `react-router`.
+フロントエンドJavaScriptフレームワークは、現代のフロントエンド開発の最前線にあります。ここで重要なことは、Reactは非常に人気があるにもかかわらずユーザーインターフェイスを構築するためのライブラリに過ぎないのに対し、VueやAngularのようなフレームワークはよりフル機能を目指しているということです。例えば、異なるビューへのルーティングが必要なアプリケーションをReactで構築する場合、`react-router`のようなツールを導入する必要があります。
 
 ### :book: Learning Areas and Ideas
 
-- Take the [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [React tutorial](https://reactjs.org/tutorial/tutorial.html)に取り掛かりましょう
 - [Learn React with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-- Refactor your website as a React app!
-- Note: `create-react-app` is a convenient tool to scaffold new React projects.
+- あなたが作成したサイトをReactアプリにリファクタしましょう！
+- 補足: `create-react-app`は新しいReactプロジェクトのベースを作成するのに便利なツールです。
 
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
@@ -390,17 +390,17 @@ JavaScript is dynamically typed. However, it is a common belief that static typi
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
 
-Next.js is a minimalistic framework for server-rendered React applications. (Source: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
+Next.jsは、サーバーレンダリングReactアプリケーションを作成するためのミニマムなフレームワークです。(出典: [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6))
 
 ### :bulb: Quick Takeaway
 
-Now we're getting advanced! By now you've built a React (or Vue or Angular) application that does quite a bit of work in the browser. For various reasons (e.g., SEO, concerns over client performance), you might actually want your front-end application to be rendered on the server rather than the client. That's where a framework like next.js comes in.
+これで上級者向けになってきました。これまで、ブラウザでかなりの量の処理を行うReact（またはVueやAngular）アプリケーションを構築してきました。様々な理由（SEO対策、クライアントのパフォーマンスへの懸念など）から、実際にはフロントエンドアプリケーションをクライアントではなくサーバー上でレンダリングしたいと思うかもしれません。そこでNext.jsのようなフレームワークの出番です。
 
 ### :book: Learning Areas and Ideas
 
 - Next.js [Getting Started](https://nextjs.org/learn/)
 - [Next.js Crash Course (Video)](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- Create a Next.js app or migrate your existing app to Next.js
+- Next.jsアプリを新規で作成したり、あなたが作成したアプリをNext.jsに書き換えて見ましょう
 
 # Xとは何なの？
 
