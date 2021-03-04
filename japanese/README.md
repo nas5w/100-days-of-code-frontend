@@ -207,18 +207,18 @@ Gitはフリーでオープンソースの分散型バージョン管理シス�
 <a name="node"></a>
 ![Node and NPM](https://i.imgur.com/8ik2alD.jpg)
 
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web application development around a single programming language, rather than different languages for server side and client side scripts. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
+Node.jsは、ブラウザの外でJavaScriptのコードを実行するオープンソースでクロスプラットフォームのJavaScriptランタイム環境です。 JavaScriptは主にクライアントサイドスクリプティングに使用されています。JavaScriptで書かれたスクリプトがWebページのHTMLに埋め込まれ、ユーザーのWebブラウザのJavaScriptエンジンによってクライアントサイドで実行されます。Node.jsを使うことで、開発者はJavaScriptを使ってコマンドラインツールを書いたり、サーバーサイドでスクリプトを実行したりして、ユーザーのWebブラウザにページが送信される前に動的なWebページのコンテンツを生成することができます。その結果、Node.jsは「どこにでもあるJavaScript」のパラダイムを表しており、サーバーサイドとクライアントサイドのスクリプトのための異なる言語ではなく、単一のプログラミング言語におけるWebアプリケーション開発を統一しています。(出典: [Wikipedia](https://en.wikipedia.org/wiki/Node.js))
 
 ### :bulb: Quick Takeaway
 
-While Node.js is typically known as a back-end solution, it is used quite frequently to support front-end development. It does this in a number of ways, including things like running build tools, testing, and linting (all to be covered soon!). Node Package Manager (npm) is another great feature of Node and can be used to manage dependencies of your project (i.e., code libraries your project might rely on -- jQuery is an example!).
+Node.jsは一般的にバックエンドのソリューションとして知られていますが、フロントエンド開発のサポートにもかなり頻繁に使用されています。これには、ビルドツールの実行、テスト、リント（すべては近日中に説明します！）など、多くの方法があります。Node Package Manager (npm) はNode のもう一つの素晴らしい機能であり、プロジェクトの依存関係を管理するために使用できます（つまり、プロジェクトが依存する可能性のあるコードライブラリ -- jQuery がその例です！）。
 
 ### :book: Learning Areas and Ideas
 
-- Research node and how it is different than the browser
-- Install node (npm comes with it)
-- Create a simple javascript file and run it with node
-- Use NPM to manage any dependencies in your existing project(s) (e.g., jQuery!)
+- ノードとブラウザとの違いを調査してみましょう
+- Nodeをインストールしてみましょう (npmも一緒にインストールされます)
+- シンプルなJavaScriptファイルを作成して、Nodeで実行してみましょう
+- npmを使用して、あなたが作成したプロジェクト(複数可)の依存関係を管理しましょう(例: jQuery!)
 
 <a name="sass"></a>
 ![Sass](https://i.imgur.com/ZRedLge.jpg)
@@ -239,35 +239,35 @@ Sassを使うと、よりプログラム的な方法でCSSを書くことがで�
 <a name="bootstrap"></a>
 ![Bootstrap](https://i.imgur.com/cJ21eH2.jpg)
 
-\* Some alternatives: Foundation, Bulma, Materialize
+\* 代用のツール： Foundation, Bulma, Materialize
 
-Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. (Source: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
+Bootstrapは、WebサイトやWebアプリケーションを開発するためのフリーでオープンソースのフロントエンドフレームワークです。タイポグラフィ、フォーム、ボタン、ナビゲーション、その他のインターフェースコンポーネントのためのHTMLとCSSベースのデザインテンプレートと、オプションのJavaScript拡張機能が含まれています。 (出典: [Wikipedia](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>))
 
 ### :bulb: Quick Takeaway
 
-There are many options for laying out, styling, and making your web application dynamic, but you'll find that starting with a framework helps you tremendously in getting a head start. Bootstrap is one such framework, but it is definitely far from the only option! I recommend getting familiar with one framework like this, but it's far more important to grasp HTML, CSS, and JavaScript fundamentals than it is to get caught up in any one framework.
+ウェブアプリケーションをレイアウトしたり、スタイリングしたり、動的なものにするには多くのオプションがありますが、フレームワークから始めることは、最初の一歩を踏み出すのに非常に役立つことがわかるでしょう。Bootstrapはそのようなフレームワークの一つですが、唯一の選択肢ではありません！このように1つのフレームワークに慣れることをお勧めしますが、1つのフレームワークにとらわれるよりも、HTML、CSS、JavaScriptの基礎を把握することの方がはるかに重要です。
 
 ### :book: Learning Areas and Ideas
 
-- Learn what Bootstrap is and why you would want to use it
+- Bootstrapとは何か、なぜBootstrapを使いたいのかを学びましょう
 - [Bootstrap 4 Crash Course (Video)](https://www.youtube.com/watch?v=hnCmSXCZEpU)
-- Complete the Bootstrap section on [freeCodeCamp](https://learn.freecodecamp.org/)
-- Refactor your site using bootstrap!
+- [freeCodeCamp](https://learn.freecodecamp.org/)のthe Bootstrap sectionを完走しましょう
+- Bootstrapを使ってあなたが作成したサイトをリファクタしましょう！
 
 <a name="bem"></a>
 ![BEM](https://i.imgur.com/MCvMRQl.jpg)
 
-The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project. (Source: [css-tricks.com](https://css-tricks.com/bem-101/))
+Block, Element, Modifier (一般的にBEMと呼ばれる) メソッドは、HTMLとCSSのクラスのための一般的な命名規則です。Yandexのチームによって開発され、その目的は開発者がプロジェクトのHTMLとCSSの関係をよりよく理解できるようにすることにあります。 (出典: [css-tricks.com](https://css-tricks.com/bem-101/))
 
 ### :bulb: Quick Takeaway
 
-It's important to know naming and organization systems like BEM exist and why they are used. Do some research here, but at a beginner level I wouldn't recommend devoting too much time to the subject.
+BEMのようなネーミングや組織システムが存在し、なぜそれが使われているのかを知ることは重要です。ここでいくつかの研究をしてみてください、しかし初心者レベルでは、私は主題にあまりにも多くの時間を割くことをお勧めしません。
 
 ### :book: Learning Areas and Ideas
 
-- Read the [BEM introduction](http://getbem.com/introduction/)
+- [BEM introduction](http://getbem.com/introduction/)を読みましょう
 - [Why I Use BEM (Video)](https://www.youtube.com/watch?v=SLjHSVwXYq4)
-- Create a simple webpage using BEM conventions.
+- BEM規則を使ってシンプルなサイトを作って見ましょう。
 
 <a name="gulp"></a>
 ![Gulp](https://i.imgur.com/KQrByqq.jpg)
