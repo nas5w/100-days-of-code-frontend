@@ -339,21 +339,21 @@ React（React.jsまたはReactJSとも呼ばれる）は、ユーザーインタ
 <a name="redux"></a>
 ![Redux](https://i.imgur.com/S9H2Dbp.jpg)
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger. (Source: [redux.js.org](https://redux.js.org/introduction/getting-started))
+Reduxは、JavaScriptアプリケーションのための予測可能なステートコンテナです。一貫して動作し、異なる環境（クライアント、サーバー、ネイティブ）でも動作し、さらにテストが容易なアプリケーションを書くのに役立ちます。その上、ライブコード編集とタイムトラベルデバッガを組み合わせたような素晴らしい開発者体験を提供します。(出典: [redux.js.org](https://redux.js.org/introduction/getting-started))
 
 ### :bulb: Quick Takeaway
 
-As you build bigger and bigger front-end applications, you start realizing that it's hard to maintain application state: things like the if the user is logged in, who the user is, and generally what's going on in the application. Redux is a great library that helps you maintain a single source of state on which your application can base its logic.
+大規模で大規模なフロントエンドアプリケーションを構築していると、アプリケーションの状態を維持するのが難しいことに気付き始めます（例：ユーザーがログインしているかどうか、ユーザーは誰なのか、アプリケーションで何が起こっているのか）。Reduxは、アプリケーションのロジックのベースとなる状態の単一ソースを維持するのに役立つ素晴らしいライブラリです。
 
 ### :book: Learning Areas and Ideas
 
-- This [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- This [Redux video series](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, creator of Redux
-- Take note of the [Redux three principles](https://redux.js.org/introduction/three-principles)
-  - Single source of truth
-  - State is read-only
-  - Changes are made with pure functions
-- Add Redux state management to your app!
+- [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
+- [Redux video series](https://egghead.io/courses/getting-started-with-redux) 筆者：Dan Abramov（Reduxの創設者）
+- [Redux three principles](https://redux.js.org/introduction/three-principles)に注意してください
+  - 単一の真実のソース
+  - Stateは読み取り専用
+  - 変更は標準機能で行う
+- Reduxの状態管理をあなたが作成したアプリに追加しましょう！
 
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
@@ -394,7 +394,7 @@ Next.jsは、サーバーレンダリングReactアプリケーションを作�
 
 ### :bulb: Quick Takeaway
 
-これで上級者向けになってきました。これまで、ブラウザでかなりの量の処理を行うReact（またはVueやAngular）アプリケーションを構築してきました。様々な理由（SEO対策、クライアントのパフォーマンスへの懸念など）から、実際にはフロントエンドアプリケーションをクライアントではなくサーバー上でレンダリングしたいと思うかもしれません。そこでNext.jsのようなフレームワークの出番です。
+上級者向けになってきました。これまで、ブラウザでかなりの量の処理を行うReact（またはVueやAngular）アプリケーションを構築してきました。様々な理由（SEO対策、クライアントのパフォーマンスへの懸念など）から、実際にはフロントエンドアプリケーションをクライアントではなくサーバー上でレンダリングしたいと思うかもしれません。そこでNext.jsのようなフレームワークの出番です。
 
 ### :book: Learning Areas and Ideas
 
