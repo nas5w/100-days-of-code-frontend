@@ -348,7 +348,7 @@ Reduxは、JavaScriptアプリケーションのための予測可能なステ�
 ### :book: Learning Areas and Ideas
 
 - [Redux video tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
-- [Redux video series](https://egghead.io/courses/getting-started-with-redux) 筆者：Dan Abramov（Reduxの創設者）
+- [Redux video series](https://egghead.io/courses/getting-started-with-redux) 筆者：Dan Abramov（Reduxの作者）
 - [Redux three principles](https://redux.js.org/introduction/three-principles)に注意してください
   - 単一の真実のソース
   - Stateは読み取り専用
@@ -358,34 +358,34 @@ Reduxは、JavaScriptアプリケーションのための予測可能なステ�
 <a name="jest"></a>
 ![Jest](https://i.imgur.com/Cr39axw.jpg)
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! (Source: [jestjs.io](https://jestjs.io))
+Jest は、シンプルさに焦点を当てた楽しい JavaScript テストフレームワークです。Babel、TypeScript、Node、React、Angular、Vueなどを使ったプロジェクトで動作します！ (出典: [jestjs.io](https://jestjs.io))
 
 ### :bulb: Quick Takeaway
 
-It is very important to set up automated testing for your front-end projects. Setting up automated testing will allow you to make future changes with confidence--if you make changes and your tests still pass, you will be fairly comfortable you didn't break any existing functionality. There are too many testing frameworks to list; Jest is simply one of my favorties.
+フロントエンドプロジェクトでは、自動テストを設定することが非常に重要です。自動テストを設定することで、コードの修正が今後必要になっても自信を持って行うことができます。もし修正を加えてもテストがパスされていれば、既存の機能を壊していないことにかなり安心できるでしょう。テストフレームワークは数え切れないほどありますが、Jestは私のお気に入りの一つです。
 
 ### :book: Learning Areas and Ideas
 
-- Learn [Jest basics](https://jestjs.io/docs/en/getting-started)
-- If you used `create-react-app`, [Jest is already configured](https://facebook.github.io/create-react-app/docs/running-tests).
-- Add tests to your application!
+- [Jest basics](https://jestjs.io/docs/en/getting-started)を読んで学びましょう
+- もし`create-react-app`を使っているなら, [Jestはすでに設定済みです](https://facebook.github.io/create-react-app/docs/running-tests)。
+- あなたが作成したアプリにテストコードを追加してみましょう！
 
 <a name="typescript"></a>
 ![TypeScript](https://i.imgur.com/BZROJNs.jpg)
 
-\* Alternative: Flow
+\* 代用できる言語: Flow
 
-TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript. As TypeScript is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs. TypeScript may be used to develop JavaScript applications for both client-side and server-side (Node.js) execution. (Source: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
+TypeScriptはMicrosoftによって開発・保守されているオープンソースのプログラミング言語です。TypeScriptはJavaScriptの厳密で構文的なスーパーセットであり、オプションで静的な型付けが追加されています。TypeScriptは大規模なアプリケーションの開発用に設計されており、JavaScriptへのトランスコンパイルも可能です。TypeScriptはJavaScriptのスーパーセットなので、既存のJavaScriptプログラムも有効なTypeScriptプログラムとなります。TypeScript は、クライアントサイドとサーバーサイド(Node.js)の両方の開発に使用できます。(出典: [Wikipedia](https://en.wikipedia.org/wiki/TypeScript))
 
 ### :bulb: Quick Takeaway
 
-JavaScript is dynamically typed. However, it is a common belief that static typing (i.e., specifying variable types, classes, interfaces ahead of time) is both clearer and reduces the likelihood of defects/bugs. Regardless of how you feel on the topic, it's important to at least get a feel for a statically-typed version of JavaScript like TypeScript. Note that TypeScript compiles down to JavaScript so it can be interpreted by browsers (i.e., browsers don't natively interpret TypeScript).
+JavaScriptは動的に型付けされています。しかし、静的型付け (つまり、変数の型、クラス、インターフェースを事前に指定すること)は、より明確になり、対応漏れやバグの可能性を減らすことができるというのが一般的な信念です。このトピックについてどのように感じるかにかかわらず、少なくともTypeScriptのような静的型付けされたバージョンのJavaScriptに触れることは重要です。TypeScript はブラウザで解釈できるようにJavaScriptにコンパイルされていることには注意してください (つまり、ブラウザはTypeScriptをネイティブには解釈しません)。
 
 ### :book: Learning Areas and Ideas
 
 - [Learn TypeScript in 5 minutes](https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb)
 - [Learn TypeScript in 50 minutes (Video)](https://www.youtube.com/watch?v=WBPrJSw7yQA)
-- Optionally [create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
+- 可能なら[create a React app with TypeScript](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 
 <a name="nextjs"></a>
 ![NextJS](https://i.imgur.com/YNtW38J.jpg)
