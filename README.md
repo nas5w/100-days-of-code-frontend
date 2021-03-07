@@ -28,6 +28,7 @@ Thanks to some incredible contributors, this curriculum has been translated into
 - [Polish polski](/polish) (translation by [@mbiesiad](https://github.com/mbiesiad))
 - [Malay/Indonesia](/Malay) (translation by [@asyraf-labs](https://github.com/asyraf-labs))
 - [Vietnamese Tiếng Việt](/Vietnam) (translation by [@duca7](https://github.com/duca7))
+- [Japanese 日本語](/japanese) (translation by [miily8310s](https://github.com/miily8310s))
 
 # :calendar: Curriculum
 
