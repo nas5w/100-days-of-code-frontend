@@ -20,6 +20,20 @@
 
 **বিঃদ্রঃ** আমি জানি ফ্রন্টএন্ড ডেভলপমেন্ট মানে অনেক লোকের কাছে বিভিন্ন জিনিস! যদি আপনি ফ্রন্টএন্ড ডেভেলপার হন এবং আপনি মনে করেন যে এই গাইডটি উন্নত হতে পারে তবে [Contributing](#contributing) অংশে সমস্যা উত্থাপন করে দয়া করে আমাকে জানান। ধন্যবাদ!
 
+# ট্রান্সলেশন 
+
+কিছু অবিশ্বাস্য অবদানকারীকে ধন্যবাদ, এই পাঠ্যক্রমটি নিম্নলিখিত ভাষাগুলিতে অনুবাদ করা হয়েছে!
+
+- [Russian русский](/ru) (translation by [@Ibochkarev](https://github.com/Ibochkarev) and [@JonikUl](https://github.com/JonikUl))
+- [Chinese 中文](/chinese) (translation by [@simplefeel](https://github.com/simplefeel))
+- [Portuguese Português](/portuguese) (translation by [@Zardosh](https://github.com/Zardosh))
+- [Polish polski](/polish) (translation by [@mbiesiad](https://github.com/mbiesiad))
+- [Malay/Indonesia](/Malay) (translation by [@asyraf-labs](https://github.com/asyraf-labs))
+- [Vietnamese Tiếng Việt](/Vietnam) (translation by [@duca7](https://github.com/duca7))
+- [Japanese 日本語](/japanese) (translation by [miily8310s](https://github.com/miily8310s))
+- [Bangla বাংলা](/bangla)(অনুবাদে [mirajus-salehin](https://github.com/mirajus-salehin))
+
+
 # :calendar: পাঠ্যক্রম
 
 এই রিপোসিটরিটি [timeboxing](https://en.wikipedia.org/wiki/Timeboxing) নীতির ভিত্তিতে তৈরি করা। আপনি যদি ওয়েব ডেভলপমেন্ট বা অনুরূপ দক্ষতা শেখার চেষ্টা করে অতীতে যে কোনও সময় ব্যয় করেছেন, সম্ভবত আপনি কোনও একটি নির্দিষ্ট বিষয়ে খরগোশের গর্ত দিয়ে নেমে যাওয়ার অভিজ্ঞতা পেয়েছেন। এই রিপোসিটরিটির লক্ষ্য প্রতিটি প্রযুক্তিতে একটি নির্দিষ্ট সংখ্যক দিন নির্ধারণ করা এবং সেই দিনগুলি শেষ হয়ে গেলে আপনাকে পরবর্তীটিতে যেতে উত্সাহ দেয়।
