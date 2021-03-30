@@ -50,7 +50,7 @@ As atividades recomendadas para cada período de tempo são:
 
 # :mag_right: Detalhes
 
-Abaixo você vai encontrar informações sobre cada tópico junto com um guia/ideias do que fazer para cada um. Caso você queira ideias de projetos para fazer junto com esse currículo, veja a seção de [Ideias de Projetos](#project-ideas).
+Abaixo você vai encontrar informações sobre cada tópico junto com um guia/ideias do que fazer para cada um. Caso você queira ideias de projetos para fazer junto com esse currículo, veja a seção de [Ideias de Projetos](#ideias-de-projetos).
 
 Como parte do princípio do *timeboxing*, não tem problema se você não completar todos os itens nas seções de "Ideias de Estudos". Ao invés disso, você deve se focar em conseguir tirar o maior proveito do número de dias dedicados à cada área e então ir adiante.
 
