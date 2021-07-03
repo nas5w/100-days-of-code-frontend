@@ -1,8 +1,10 @@
+**Note:** this resource is old! I will be archiving this repository by the end of July 2021 as I feel that many of the recommendations here are outdated for learning front-end web development in 2021.
+
+---
+
 <p align="center">
   <img alt="#100DaysOfCode Front-End Development" src="https://i.imgur.com/dwYOP0B.jpg" />
 </p>
-
----
 
 **Please support this repo by giving it a star ⭐️ at the top of the page and [follow me](https://github.com/nas5w) for more resources!**
 
